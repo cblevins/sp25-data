@@ -111,6 +111,9 @@ author:
   #location: "King Center ___"
   email:
   links:
+    - label: "Course Homepage"
+      icon: "fa-solid fa-house"
+      url: "https://cblevins.github.io/sp25-data/"
     - label: "King Center ___"
       icon: "fa-solid fa-building-columns"
       url: "https://maps.app.goo.gl/eb9rLqMkaDccTu2T7"

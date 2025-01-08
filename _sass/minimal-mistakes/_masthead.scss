@@ -3,7 +3,10 @@
    ========================================================================== */
 
 .masthead {
-  position: relative;
+  //position: relative;
+  position: sticky;
+  top: 0;
+  background-color: $background-color; // Add this line to set the background color
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
