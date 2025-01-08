@@ -18,7 +18,7 @@ As stated in the [Course Philosophy]({{site.baseurl}}/policies), I will not be u
 
 ### Formal Assignments
 
-#### [Perusall Annotations](https://app.perusall.com/courses/data-a-user-manual-fall-2021/)
+#### 📚 [Perusall Annotations](https://app.perusall.com/courses/data-a-user-manual-fall-2021/)
 
 We will be using an online annotation tool called Perusall to collaboratively annotate course readings, or write comments that are anchored to specific parts of the text. You might use your annotations to respond to questions and prompts, connect ideas in the text to prior readings, classroom discussions, or current events, flag big ideas and explain why they are important, or pose questions for your classmates. Rather than reading in isolation, this style of annotation will help you read communally and give you a chance to begin the discussion of that day’s topics online before the start of class. Unless otherwise noted in the Perusall assignment page, you should complete a minimum of **four annotations per reading by 11:00AM the morning of class** in order to give Professor Blevins enough time to review your comments before the start of class. Note that Perusall will assign you a score for each of the readings which you can find in the Gradebook. I will be consulting these scores in a general sense, but following the Course Philosophy I will not be assigning you a numerical grade for every reading. We will discuss the larger issues around algorithmic grading in class.
 

@@ -5,10 +5,9 @@ classes: wide
 
 <div style="text-align: center">
 <p>
-<h1>Working With Data</h1></p>
+<h1>HIST 4261/5261: Working With Data</h1></p>
 <p>
-HIST 4261/5261<br>
-Professor Cameron Blevins (he/him/his) | cameron.blevins@ucdenver.edu<br>
+Prof. Cameron Blevins (he/him/his) | cameron.blevins@ucdenver.edu<br>
 University of Colorado Denver, Spring 2025<br>
 Tu/Th 2:00-3:15pm, King <br>
 Office Hours: (<a href="">reserve time here</a>)<br>
