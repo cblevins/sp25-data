@@ -24,7 +24,7 @@ We will be using an online annotation tool called Perusall to collaboratively an
 
 _Readings that need to be annotated are marked by [Perusall] on the Schedule page._
 
-#### [Coding Homework]({{site.baseurl}}/assignments/coding-homework)
+#### 💻 [Coding Homework]({{site.baseurl}}/assignments/coding-homework)
 
 You will be completing a series of coding homework assignments in order to help you learn how to work with data, primarily using the Python programming language. Each exercise will have you apply the skills you learned in the preceding classes. See [the assignment page]({{site.baseurl}}/assignments/coding-homework) for more detailed instructions.
 
@@ -36,7 +36,7 @@ You will be completing a series of coding homework assignments in order to help 
 - [Homework #6 (10/24)]({{site.baseurl}}/homework/hw-06.ipynb)
 - ~~Homework #7 (11/5)~~
 
-#### Project Review
+#### 🔍 Project Review
 
 You will be reviewing a data-driven historical project during the semester. This review will include a written submission and a verbal presentation to your classmates. The project can be an academic paper, long-form journalism, or any other substantive work that focuses on some historical topic and uses data in its analysis or presentation. You will then write a 600-800 word review of this project that explains the project’s argument, underlying dataset(s), methodology, and how effective it is (what works, what could be further developed, what is missing). Do not just describe a project; draw on other readings or concepts we've discussed to contextualize your review and evaluate its strengths and weaknesses. In addition to the written review submitted on Canvas, you will sign up for a class period to verbally present the project to your classmates in 5-7 minutes, offering an overview of the work and your evaluation of it.
 
@@ -46,19 +46,19 @@ The goal of this assignment is two-fold. First, it will help you develop data li
 
 _Due over the course of the semester - you will sign up for a day(s)._
 
-#### [Data Biography]({{site.baseurl}}/assignments/data-biography)
+#### 📝 [Data Biography]({{site.baseurl}}/assignments/data-biography)
 
 You will write a "data biography" about a historical dataset that I have selected for you. You will need to put on your detective hats and try to familiarize yourself with the data and its history.
 
 _Due Friday, 10/8 by 11:59PM_
 
-#### HIST 5261 Only: Build Your Own Coding Homework
+#### 🧑‍🏫 HIST 5261 Only: Build Your Own Coding Homework
 
 One of the best ways to learn a technical skill is to think about how you would teach it to others. Rather than have you complete a homework, for this assignment you are going to design one from scratch. Using the coding exercises I have assigned and your own experience completing them, you will build your own coding homework from scratch. You should select some set of Python concepts and techniques and then design a homework assignment that would help a student practice those skills. After you have completed the questions, make a Jupyter Notebook that includes the _answers_ to each question (modeled as if it were a completed homework submission) and upload the file to Canvas.
 
 _Due Friday, 10/29 by 11:59PM_
 
-#### [Research Project]({{site.baseurl}}/assignments/research-project)
+#### 📊 [Research Project]({{site.baseurl}}/assignments/research-project)
 
 The major assignment for this course is a research project in which you find or create a dataset that allows you to investigate a historical topic. You will then use Python to process and analyze the data in order to present an argument, interpretation, or narrative based on that analysis. You are free to choose any topic or dataset that you want, but it must be generally historical in nature. The assignment is scaffolded across several stages. See [full assignment description]({{site.baseurl}}/assignments/research-project) for more details on each of these steps.
 
@@ -69,7 +69,7 @@ The major assignment for this course is a research project in which you find or 
 - ~~HIST 5261: Feedback on classmates' projects (12/7)~~
 - Research Project: Final (12/14)
 
-#### Self Assessments
+#### 🪞 Self Assessments
 
 You will be writing three self assessments in this class spread over the course of the semester. The first two self assessments are short, 2-3 paragraphs submitted on Canvas that should convey to me the areas of the class in which you've been doing well (with concrete examples), the areas of the class in which you could be doing better, and what steps you plan to take to address your weaknesses or achieve your learning goals for the remainder of the semester. The final self assessment is a longer, 2-3 page reflection on the semester as a whole that expands on what you accomplished (with concrete examples), any areas in which you struggled or wish you had done better, how you want to apply what you've learned in this class to your studies or career moving forward, and the overall grade that you feel you deserve for the class.
 
