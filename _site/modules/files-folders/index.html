@@ -1,0 +1,536 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.26.2 by Michael Rose
+  Copyright 2013-2024 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en-US" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Files and Folders | Working With Data</title>
+<meta name="description" content="Files and Folders on your Computer">
+
+
+  <meta name="author" content="Prof. Cameron Blevins">
+  
+  <meta property="article:author" content="Prof. Cameron Blevins">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Working With Data">
+<meta property="og:title" content="Files and Folders">
+<meta property="og:url" content="http://localhost:4000/sp25-data/modules/files-folders/">
+
+
+  <meta property="og:description" content="Files and Folders on your Computer">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2025-01-08T03:55:56-07:00">
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/sp25-data/modules/files-folders/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  window.enable_copy_code_button = true;
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/sp25-data/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/sp25-data/"><img src="/sp25-data/assets/images/cu_logo.png" alt="Working With Data"></a>
+        
+        <a class="site-title" href="/sp25-data/">
+          Working With Data
+          <span class="site-subtitle">HIST 4261/5261 (Spring 2025)</span>
+        </a>
+        <ul class="visible-links">
+<li class="masthead__menu-item">
+              <a href="/sp25-data/schedule/">Schedule</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/sp25-data/assignments/">Assignments</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/sp25-data/policies/">Policies</a>
+            </li>
+</ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person" class="h-card">
+
+  
+    <div class="author__avatar">
+      <a href="http://localhost:4000/sp25-data/">
+        <img src="/sp25-data/assets/images/blevins-headshot-2022-small.jpg" alt="Prof. Cameron Blevins" itemprop="image" class="u-photo">
+      </a>
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="http://localhost:4000/sp25-data/" itemprop="url">Prof. Cameron Blevins</a>
+    </h3>
+    
+      <div class="author__bio p-note" itemprop="description">
+        
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+
+      
+        
+          
+            <li><a href="https://maps.app.goo.gl/eb9rLqMkaDccTu2T7" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fa-solid fa-building-columns" aria-hidden="true"></i><span class="label">King Center ___</span></a></li>
+          
+        
+          
+            <li><a href="mailto:cameron.blevins@ucdenver.edu" rel="nofollow noopener noreferrer me"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span></a></li>
+          
+        
+          
+            <li><a href="https://your-website.com" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fas fa-fw fa-link" aria-hidden="true"></i><span class="label">Canvas Site</span></a></li>
+          
+        
+          
+            <li><a href="https://goo.gl/maps/Dsi17MkZmCoLXUWZ7" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fas fa-building" aria-hidden="true"></i><span class="label"> Office: SC 3108</span></a></li>
+          
+        
+          
+            <li><a href="" rel="nofollow noopener noreferrer me"><i class="fas fa-video" aria-hidden="true"></i><span class="label">Office Hours Zoom</span></a></li>
+          
+        
+          
+            <li><a href="" rel="nofollow noopener noreferrer me"><i class="fas fa-calendar" aria-hidden="true"></i><span class="label">Office Hours Timeslots</span></a></li>
+          
+        
+          
+            <li><a href="https://github.com/cblevins/sp25-data" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">Github Repository</span></a></li>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Files and Folders">
+    <meta itemprop="description" content="Files and Folders on your Computer">
+    <meta itemprop="datePublished" content="2025-01-08T03:55:56-07:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">
+            <a href="http://localhost:4000/sp25-data/modules/files-folders/" itemprop="url">Files and Folders
+</a>
+          </h1>
+          
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title">
+<i class="fas fa-file-alt"></i> On this page</h4></header>
+              <ul class="toc__menu">
+<li><a href="#files-and-folders-on-your-computer">Files and Folders on your Computer</a></li>
+<li><a href="#making-a-course-folder-on-your-computer">Making a Course Folder on your Computer</a></li>
+<li><a href="#files-and-folders-on-reclaim-hosting">Files and Folders on Reclaim Hosting</a></li>
+<li><a href="#make-a-sandbox-directory-on-reclaim-hosting">Make a Sandbox Directory on Reclaim Hosting</a></li>
+<li><a href="#upload-a-file-to-file-manager">Upload a file to File Manager</a></li>
+<li><a href="#create-a-new-file-in-your-sandbox-folder">Create a new file in your sandbox folder</a></li>
+<li><a href="#bonus-activity-embedding-an-image-in-an-html-file">Bonus Activity: Embedding an image in an HTML file</a></li>
+<li><a href="#extra-special-bonus-activity-making-an-ugly-webpage">Extra Special Bonus Activity: Making an Ugly Webpage</a></li>
+</ul>
+            </nav>
+          </aside>
+        
+        <h3 id="files-and-folders-on-your-computer">Files and Folders on your Computer</h3>
+
+<p>Your computer has a system of folders (directories) that contain individual files. For the rest of the semester, you are going to store all files and material related to this class in a new folder on your computer. Here are some resources for navigating files and folders on your computer:</p>
+
+<ul>
+  <li>Mac:
+    <ul>
+      <li><a href="https://support.apple.com/en-us/HT201732">Get to know Finder on your Mac</a></li>
+      <li><a href="https://support.apple.com/guide/mac-help/organize-files-with-folders-mh26885/">Organize files in folders on Mac</a></li>
+    </ul>
+  </li>
+  <li>Windows:
+    <ul>
+      <li><a href="https://support.microsoft.com/en-us/windows/how-to-get-to-the-desktop-documents-and-pictures-folders-in-file-explorer-3370f06b-0f8d-4b25-be9a-3ee54f381e3d">How to get to the Desktop, Documents, and Pictures folders in File Explorer</a></li>
+      <li><a href="https://support.microsoft.com/en-us/office/create-a-new-folder-cbbfb6f5-59dd-4e5d-95f6-a12577952e17#:~:text=the%20new%20folder.-,Create%20a%20new%20folder%20before%20you%20save%20your%20document%20by%20using%20File%20Explorer,-Open%20File%20Explorer">Create a New Folder in Windows</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="making-a-course-folder-on-your-computer">Making a Course Folder on your Computer</h3>
+
+<p>Go ahead and make a <strong>new folder on your computer called <code class="language-plaintext highlighter-rouge">intro-digital-studies</code></strong>. It is up to you where you want this folder to be located on your computer. If you already have an organization system for course and schoolwork, feel free to continue using it. If you do <strong>not</strong> have a file organization system, I would recommend choosing a location on your computer that is fairly easy to navigate to and find. For instance, both Windows and Mac come with an existing <code class="language-plaintext highlighter-rouge">Documents</code> directory. If you navigate to this folder you can then create a folder inside <code class="language-plaintext highlighter-rouge">Documents</code> named <code class="language-plaintext highlighter-rouge">intro-digital-studies</code>.</p>
+
+<p>Your <code class="language-plaintext highlighter-rouge">intro-digital-studies</code> is going to be your “parent” folder moving forward for this class. I would recommend making sub-folders within that folder to help organize your files: make at least an <code class="language-plaintext highlighter-rouge">assignments</code> folder and a <code class="language-plaintext highlighter-rouge">tutorials</code> folder.</p>
+
+<p>Open up the <code class="language-plaintext highlighter-rouge">tutorials</code> folder and make, <strong>make a new folder for this tutorial called <code class="language-plaintext highlighter-rouge">files-folders</code></strong>. Open <a href="/sp25-data/modules/prof-blevins-cat.jpeg">this photo of Professor Blevins’s cat</a> and right click the image to save it to your computer inside the new <code class="language-plaintext highlighter-rouge">files-folders</code> folder you just created (leave the name as <code class="language-plaintext highlighter-rouge">prof-blevins-cat.jpeg</code>).</p>
+
+<p>Your folder struture on your computer should look something like this:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>intro-digital-studies
+	assignments
+	tutorials
+		files-folders
+			prof-blevins-cat.jpeg
+</code></pre></div></div>
+
+<h3 id="files-and-folders-on-reclaim-hosting">Files and Folders on Reclaim Hosting</h3>
+
+<p>Just like your computer has a system of files and folders, your Reclaim Hosting account comes with a system of files and folders that exist remotely, on their servers. You can find and work with these folders through Reclaim Hosting’s <code class="language-plaintext highlighter-rouge">File Manager</code> tool.</p>
+
+<ul>
+  <li><a href="https://portal.reclaimhosting.com/clientarea.php">Log in to your Reclaim Hosting account</a></li>
+  <li>Click on <code class="language-plaintext highlighter-rouge">cPanel</code>. This is the overview page where you can manage a bunch of different aspects of your account with Reclaim Hosting (such as URL domain names, setting up an email account based on your domain, etc.).</li>
+  <li>Find <code class="language-plaintext highlighter-rouge">File Manager</code>and open it in a new browser tab, which will bring you to an interface showing you some folders. Much like your physical computer, your server space at Reclaim Hosting is organized into a collection of folders containing files, scripts, folders, etc. Don’t worry about what all of them mean.</li>
+  <li>For now, navigate to the folder <code class="language-plaintext highlighter-rouge">public_html</code>. The <code class="language-plaintext highlighter-rouge">public_html</code> folder contains stuff that you want to be accessible by other people through an internet browser.</li>
+  <li>Anything you put inside the <code class="language-plaintext highlighter-rouge">public_html</code>  is going to be publicly accessible to anyone with your domain URL (unless you password protect it).</li>
+  <li>When you start adding sub-folders or material within your <code class="language-plaintext highlighter-rouge">public_html</code> folder they can be accessed by appendeding the folder names to that URL. So if your <code class="language-plaintext highlighter-rouge">File Manager</code> structure looks like:</li>
+</ul>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>public_html
+	some-folder
+		some-file.jpeg
+</code></pre></div></div>
+
+<ul>
+  <li>Then someone can access the file <code class="language-plaintext highlighter-rouge">some-file.jpeg</code> by going to the URL: <code class="language-plaintext highlighter-rouge">https://yourdomainnameurl/some-folder/some-file.jpeg</code> (ex. <code class="language-plaintext highlighter-rouge">https://janedoe.reclaim.hosting/some-folder/some-file.jpeg</code>).</li>
+</ul>
+
+<h3 id="make-a-sandbox-directory-on-reclaim-hosting">Make a Sandbox Directory on Reclaim Hosting</h3>
+
+<p>Your first step is to make a “sandbox” folder inside your <code class="language-plaintext highlighter-rouge">public_html</code> directory. This is where you can mess around and try things out without worrying about anything breaking. To create your sandbox folder:</p>
+
+<ul>
+  <li>Make sure you are in File Manager in Reclaim Hosting (Reclaim Hosting Dashboard -&gt; cPanel -&gt; File Manager)</li>
+  <li>Navigate to the <code class="language-plaintext highlighter-rouge">public_html</code> folder and make sure you are inside that folder</li>
+  <li>Add a new folder within your <code class="language-plaintext highlighter-rouge">public_html</code> folder called <code class="language-plaintext highlighter-rouge">sandbox</code> (make sure it says <code class="language-plaintext highlighter-rouge">public_html</code> under “New folder will be created in:”)</li>
+  <li>Navigate to the folder. It should be empty. <img class="emoji" title=":smile:" alt=":smile:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png" height="20" width="20">
+</li>
+</ul>
+
+<h3 id="upload-a-file-to-file-manager">Upload a file to File Manager</h3>
+
+<p>Because it is inside the <code class="language-plaintext highlighter-rouge">public_html</code> main folder, anything inside the <code class="language-plaintext highlighter-rouge">sandbox</code> folder can be accessed by somebody from their browser through your domain URL. Let’s add a file into it and see if someone can download it:</p>
+
+<ul>
+  <li>Navigate in File Manager to your <code class="language-plaintext highlighter-rouge">sandbox</code> folder inside <code class="language-plaintext highlighter-rouge">public_html</code>
+</li>
+  <li>Add the photo of Professor Blevins’s cat you downloaded to your <code class="language-plaintext highlighter-rouge">files-folders</code> folder on your computer <em>into</em> your <code class="language-plaintext highlighter-rouge">sandbox</code> folder by using the <strong>Upload</strong> button at the top of File Manager.</li>
+  <li>Go to <code class="language-plaintext highlighter-rouge">https://yourdomainname/sandbox/prof-blevins-cat.jpeg</code> and see if the photo you just uploaded shows up!</li>
+</ul>
+
+<h3 id="create-a-new-file-in-your-sandbox-folder">Create a new file in your sandbox folder</h3>
+
+<p>Now let’s try adding a file into your <code class="language-plaintext highlighter-rouge">sandbox</code> folder that will show a very rudimentary webpage.</p>
+
+<ul>
+  <li>While still in File Manager, make sure you are inside your <code class="language-plaintext highlighter-rouge">sandbox</code> folder under <code class="language-plaintext highlighter-rouge">public_html</code> and click <code class="language-plaintext highlighter-rouge">+File</code> in the upper left, then name it <code class="language-plaintext highlighter-rouge">hello.html</code>. The <code class="language-plaintext highlighter-rouge">.html</code> ending tells File Manager what kind of file it is (in this case, an HTML webpage).</li>
+  <li>Make sure it is created <em>inside</em> your sandbox folder, then click Create New File.</li>
+  <li>You should see a new <code class="language-plaintext highlighter-rouge">hello.html</code> file now appear inside your sandbox folder.</li>
+  <li>Select the new HTML file you just created by clicking once, then click on HTML Editor towards the top of File Manager.</li>
+  <li>Click the Edit button that appears in a pop-up, and you should be seeing a blank screen with some buttons at the top.</li>
+  <li>Try writing a short message in the document, then click the Save button.</li>
+  <li>In a new browser tab, navigate to: <code class="language-plaintext highlighter-rouge">https://yourdomainnameurl/sandbox/hello.html</code> and you should see your message. Congratulations!</li>
+</ul>
+
+<h3 id="bonus-activity-embedding-an-image-in-an-html-file">Bonus Activity: Embedding an image in an HTML file</h3>
+
+<ul>
+  <li>Make sure you are inside the <code class="language-plaintext highlighter-rouge">sandbox</code> folder in File Manager</li>
+  <li>Create a new HTML file by clicking +File and naming 
+it <code class="language-plaintext highlighter-rouge">cat.html</code>
+</li>
+  <li>Open the new file using the HTML Editor button (ignore the warnings)</li>
+  <li>Inside the HTML Editor, write “This is Professor Blevins’s beautiful cat: “</li>
+  <li>Click the <code class="language-plaintext highlighter-rouge">&lt;&gt;Source</code> button, and then copy and paste this line of code directly <em>before</em> the line in your file that says <code class="language-plaintext highlighter-rouge">&lt;/body&gt;</code>: <code class="language-plaintext highlighter-rouge">&lt;p&gt;&lt;img alt="" src="http://cblevins.github.io/sp23-dig-stud/modules/prof-blevins-cat.jpeg" style="height: 267px; width: 200px;" /&gt;&lt;/p&gt;</code>
+</li>
+  <li>Go to <code class="language-plaintext highlighter-rouge">https://yourdomainname/sandbox/cat.html</code> and see if the page is showing an embedded photo.</li>
+</ul>
+
+<h3 id="extra-special-bonus-activity-making-an-ugly-webpage">Extra Special Bonus Activity: Making an Ugly Webpage</h3>
+
+<p>If you get done with everything above and your classmates are still working, go back to editing the <code class="language-plaintext highlighter-rouge">hello.html</code> file in the HTML Editor and try to make <strong>the ugliest webpage you possibly can</strong> (you can change the appearance of text using various buttons along the top row - ex. color, bold, etc.). Send your ugly webpage contestant to the <code class="language-plaintext highlighter-rouge">#in-class</code> Slack channel.</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-01-08T03:55:56-07:00">January 8, 2025</time></p>
+
+      </footer>
+
+      
+
+      
+  <nav class="pagination">
+    
+      <a href="/sp25-data/modules/classification/" class="pagination--pager" title="Classification Activity">Previous</a>
+    
+    
+      <a href="/sp25-data/modules/making-data/" class="pagination--pager" title="Making Data">Next</a>
+    
+  </nav>
+
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+      
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap">
+<form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term...">
+  </form>
+  <div id="results" class="results"></div>
+</div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">© 2025 <a href="https://cblevins.github.io/">Cameron Blevins</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/sp25-data/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/sp25-data/assets/js/lunr/lunr.min.js"></script>
+<script src="/sp25-data/assets/js/lunr/lunr-store.js"></script>
+<script src="/sp25-data/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+
+
+  </body>
+</html>
