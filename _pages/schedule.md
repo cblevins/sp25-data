@@ -27,7 +27,7 @@ _If you haven't done so already, complete the introductory [student survey](http
 
 _In Class_
 
-- [Learning how to use the Command Line]({{site.baseurl}}/in-class/command-line)
+- [Learning how to use the Command Line]({{site.baseurl}}/modules/command-line)
 
 _Complete [student survey](https://forms.gle/fNcn59YU2VYgtEjx6) by Sunday, August 29th by 11:59PM_
 
@@ -36,13 +36,13 @@ _Complete [student survey](https://forms.gle/fNcn59YU2VYgtEjx6) by Sunday, Augus
 - ["Choosing Python or R for Data Analysis? An Infographic"](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis) _DataCamp Team_ (January 9, 2020) [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/python-vs-r-infographic)]
 - Install Anaconda on your computer (instructions for [Mac](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x), [Windows](https://www.datacamp.com/community/tutorials/installing-anaconda-windows), or [Linux](https://docs.anaconda.com/anaconda/install/linux/))
 - Complete [How to Use Jupyter Notebooks](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/02-How-to-Use-Jupyter-Notebooks.html) tutorial in Melanie Walsh, _Introduction to Cultural Analytics & Python_ textbook.
-- Finish Part 2 of [Learning how to use the Command Line]({{site.baseurl}}/in-class/command-line)
+- Finish Part 2 of [Learning how to use the Command Line]({{site.baseurl}}/modules/command-line)
 
 In-class:
 
 - Command line review
 - Why Python?
-- Getting Started with Jupyter Notebooks [[link to download in-class notebook]({{site.baseurl}}/in-class/jupyter-notebooks-intro.ipynb)]
+- Getting Started with Jupyter Notebooks [[link to download in-class notebook]({{site.baseurl}}/modules/jupyter-notebooks-intro.ipynb)]
 
 ### ~~Wed., Sep. 1: Data and Power~~ (class cancelled)
 
@@ -59,7 +59,7 @@ In-class:
 
 _In-class_
 
-- [Navigating Python]({{site.baseurl}}/in-class/navigating-python)
+- [Navigating Python]({{site.baseurl}}/modules/navigating-python)
 
 _[Homework #1]({{site.baseurl}}/homework/hw-01.ipynb) Due Friday, 9/10 by 11:59PM_
 {: .notice--info}
@@ -74,7 +74,7 @@ _[Homework #1]({{site.baseurl}}/homework/hw-01.ipynb) Due Friday, 9/10 by 11:59P
 
 _In-class_
 
-- [Working with Text in Python]({{site.baseurl}}/in-class/working-with-text)
+- [Working with Text in Python]({{site.baseurl}}/modules/working-with-text)
 
 ### Wed., Sep. 15: Slavery and Capitalism
 
@@ -91,7 +91,7 @@ _[Homework #2]({{site.baseurl}}/homework/hw-02.ipynb) Due Friday, 9/17 by 11:59P
 
 _In-class_
 
-- [Lists and Loops Practice]({{site.baseurl}}/in-class/lists-and-loops)
+- [Lists and Loops Practice]({{site.baseurl}}/modules/lists-and-loops)
 
 ### Wed., Sep. 22: Numbers, Narratives, and Historical Evidence
 
@@ -114,7 +114,7 @@ _[Homework #3]({{site.baseurl}}/homework/hw-03.ipynb) Due Friday, 9/24 by 11:59P
 _In Class_
 
 - Teddy presentation
-- [Dictionaries and Functions Practice]({{site.baseurl}}/in-class/dictionaries-functions.ipynb) (Jupyter Notebook file)
+- [Dictionaries and Functions Practice]({{site.baseurl}}/modules/dictionaries-functions.ipynb) (Jupyter Notebook file)
 
 ### Wed., Sep. 29: Bodies, Archives, and Data
 
@@ -123,7 +123,7 @@ _In Class_
 _In Class_
 
 - Max presentation
-- [Transatlantic Slave Trade Database]({{site.baseurl}}/in-class/transatlantic-slave-trade-database)
+- [Transatlantic Slave Trade Database]({{site.baseurl}}/modules/transatlantic-slave-trade-database)
 
 _[First Self Assessment](https://ucdenver.instructure.com/courses/474404/assignments/1144859) Due Sunday, 10/3 by 11:59PM_
 
@@ -160,7 +160,7 @@ _[Data Biography]({{site.baseurl}}/assignments/data-biography) Due Friday, 10/8 
 
 _In Class_
 
-- [Pandas I Practice]({{site.baseurl}}/in-class/pandas-1)
+- [Pandas I Practice]({{site.baseurl}}/modules/pandas-1)
 
 ### Wed., Oct. 13: Government Data II: Census Stories
 
@@ -203,7 +203,7 @@ _[Homework #6]({{site.baseurl}}/homework/hw-06.ipynb) due Sunday, 10/24 by 11:59
 
 _In Class_
 
-- [Pandas III Practice]({{site.baseurl}}/in-class/pandas-3)
+- [Pandas III Practice]({{site.baseurl}}/modules/pandas-3)
 
 ### Wed. Oct. 27: Corporate Data I
 
@@ -293,7 +293,7 @@ _Research Project Data Biography due Friday, 11/19_
 
 _In-class_
 
-- [Markdown Practice]({{site.baseurl}}/in-class/markdown-practice)
+- [Markdown Practice]({{site.baseurl}}/modules/markdown-practice)
 
 ### Wed., Dec. 1: Project Workshop
 

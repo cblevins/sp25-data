@@ -1,11 +1,10 @@
 ---
-layout: page
 title: Pandas III Practice
 ---
 
 First create a new directory within your class folder `working-with-data` called `pandas-3`. Launch Jupyter Labs and create a new Jupyter Notebook in that folder with the filename: `pandas-3.ipynb`.
 
-We're going to continue working with the dataset: [Census of Utah Territory, 1880](https://www.icpsr.umich.edu/web/ICPSR/studies/8879). I've modified the dataset to make it more usable in Python. Download [this CSV file]({{site.baseurl}}/in-class/utah-census-1880.csv) and make sure it is in your `pandas-3` folder.
+We're going to continue working with the dataset: [Census of Utah Territory, 1880](https://www.icpsr.umich.edu/web/ICPSR/studies/8879). I've modified the dataset to make it more usable in Python. Download [this CSV file]({{site.baseurl}}/modules/utah-census-1880.csv) and make sure it is in your `pandas-3` folder.
 
 To replicate best coding practices, you're going to use alternating Markdown and Code cells in your Jupyter Notebook. Copy and paste each of the following steps into a new Markdown cell that documents in your own words what you're doing in the following code cell. Then insert a new code cell and write your Python code that completes the task for that step.
 

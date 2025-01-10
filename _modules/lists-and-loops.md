@@ -15,7 +15,7 @@ Launch Jupyter Labs and create a new directory within your class folder `working
 
 ### Get the data
 
-At this point you've worked with narratives authored by four enslaved people: Sojourner Truth, Frederick Douglass, Henry Brown, and Venture Smith. I've collected these into four text files in a folder called `narratives`. Click this link to download a zip file of this folder into `lists-and-loops` [narratives.zip]({{site.baseurl}}/in-class/narratives.zip)
+At this point you've worked with narratives authored by four enslaved people: Sojourner Truth, Frederick Douglass, Henry Brown, and Venture Smith. I've collected these into four text files in a folder called `narratives`. Click this link to download a zip file of this folder into `lists-and-loops` [narratives.zip]({{site.baseurl}}/modules/narratives.zip)
 . In your operating system (outside of Jupyter Lab) unzip the file ([Windows instructions](https://www.hostinger.com/tutorials/how-to-unzip-files#:~:text=The%20Windows%20default%20support%20for%20.zip) and [Mac instructions](https://www.hostinger.com/tutorials/how-to-unzip-files#:~:text=Archive%20Utility%20is%20Mac%E2%80%99s%20built-in%20tool%20that%20handles%20the%20.zip%20format.)). You should now have a folder inside `working-with-data` called `narratives`, inside of which are four `.txt` files.
 
 ### Working with files

@@ -1,11 +1,10 @@
 ---
-layout: page
 title: Pandas 1
 ---
 
 First create a new directory within your class folder `working-with-data` called `pandas-1`. Launch Jupyter Labs and create a new Jupyter Notebook in that folder with the filename: `pandas-1.ipynb`.
 
-We're going to be working with census data collected about Colorado counties from 1900-1950. Download [this CSV file]({{site.baseurl}}/in-class/co-census-skinny.csv) and make sure it is in your `pandas-1` folder.
+We're going to be working with census data collected about Colorado counties from 1900-1950. Download [this CSV file]({{site.baseurl}}/modules/co-census-skinny.csv) and make sure it is in your `pandas-1` folder.
 
 To replicate best coding practices, you're going to use alternating Markdown and Code cells in your Jupyter Notebook. Copy and paste each of the following steps into a new Markdown cell that documents in your own words what you're doing in the following code cell. Then insert a new code cell and write your Python code that completes the task for that step.
 
