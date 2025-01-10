@@ -1,7 +1,6 @@
 ---
 title: Coding Homework
 permalink: /assignments/coding-homework/
-classes: wide
 ---
 
 You will be completing a series of coding homework assignments in order to help you learn how to work with data, primarily using the Python programming language. Each exercise will have you apply the skills you learned in the preceding classes.

@@ -1,0 +1,319 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.26.2 by Michael Rose
+  Copyright 2013-2024 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en-US" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Working With Text in Python | Working With Data</title>
+<meta name="description" content="Set Up">
+
+
+  <meta name="author" content="Prof. Cameron Blevins">
+  
+  <meta property="article:author" content="Prof. Cameron Blevins">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Working With Data">
+<meta property="og:title" content="Working With Text in Python">
+<meta property="og:url" content="http://localhost:4000/sp25-data/modules/working-with-text/">
+
+
+  <meta property="og:description" content="Set Up">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2025-01-10T13:42:03-07:00">
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/sp25-data/modules/working-with-text/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  window.enable_copy_code_button = true;
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/sp25-data/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide2" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/sp25-data/"><img src="/sp25-data/assets/images/cu_logo.png" alt="Working With Data"></a>
+        
+        <a class="site-title" href="/sp25-data/">
+          Working With Data
+          <span class="site-subtitle">HIST 4261/5261 (Spring 2025)</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="/sp25-data/schedule/"
+                
+                
+              >Schedule</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/sp25-data/assignments/"
+                
+                
+              >Assignments</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/sp25-data/policies/"
+                
+                
+              >Policies</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Working With Text in Python">
+    <meta itemprop="description" content="Set Up">
+    <meta itemprop="datePublished" content="2025-01-10T13:42:03-07:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">
+            <a href="http://localhost:4000/sp25-data/modules/working-with-text/" itemprop="url">Working With Text in Python
+</a>
+          </h1>
+          
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+          <aside class="sidebar__right sticky">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> On this page</h4></header>
+              <ul class="toc__menu"><li><a href="#set-up">Set Up</a></li><li><a href="#instructions">Instructions</a></li><li><a href="#bonus-practice">Bonus Practice</a></li></ul>
+            </nav>
+          </aside>
+        
+        <h2 id="set-up">Set Up</h2>
+
+<p>Launch Jupyter Labs and create a new directory within your class folder <code class="language-plaintext highlighter-rouge">working-with-data</code> called <code class="language-plaintext highlighter-rouge">working-with-text</code>. Navigate to that folder and create a new Jupyter Notebook, renaming the filename: <code class="language-plaintext highlighter-rouge">working-with-text.ipynb</code>.</p>
+
+<h2 id="instructions">Instructions</h2>
+
+<p>Today we’ll be working with a single text: a narrative dictated by <a href="https://en.wikipedia.org/wiki/Venture_Smith">Venture Smith</a>, a successful businessman and formerly enslaved man in colonial-era New England. The narrative, <em>A Narrative of the Life and Adventures of Venture, a Native of Africa: But Resident above Sixty Years in the United States of America, Related by Himself</em>, is available in several formats online but for the purposes of today I’ve put it into the primary kind of file you will want to use when working with textual data in Python: a text file (ending in <code class="language-plaintext highlighter-rouge">.txt</code>).</p>
+
+<ul>
+  <li>Download Smith’s narrative by clicking on <a href="/sp25-data/in-class/venture-smith.txt">this link</a>(if it opens in your browser without downloading you might need to use File -&gt; Save As OR right click the link and select “Save link as”). Move the .txt file into your <code class="language-plaintext highlighter-rouge">working-with-text</code> folder. Take a look at the text file in Jupyter Lab by double-clicking on the file in the left pane.</li>
+  <li>In Jupyter Lab, add a code cell and create a new variable called <code class="language-plaintext highlighter-rouge">smith</code> that assigns the contents of the <code class="language-plaintext highlighter-rouge">venture-smith.txt</code> file using the <code class="language-plaintext highlighter-rouge">open()</code> and <code class="language-plaintext highlighter-rouge">read()</code> functions (<a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/07-Files-Character-Encoding.html">Walsh instructions</a>).</li>
+  <li>In a new code cell, add two lines of code. In the first, just run your new variable <code class="language-plaintext highlighter-rouge">smith</code> to display its contents. In the second line, use <code class="language-plaintext highlighter-rouge">print()</code> to display its contents. What is the difference between these two?</li>
+  <li>Use <code class="language-plaintext highlighter-rouge">index()</code> function to show the first character (letter) of Smith’s narrative. It should show: <code class="language-plaintext highlighter-rouge">'A'</code>.</li>
+  <li>Use <code class="language-plaintext highlighter-rouge">slice()</code> to show the first 100 characters (letters) of Smith’s narrative. It should show: <code class="language-plaintext highlighter-rouge">'A NARRATIVE OF THE LIFE AND ADVENTURES\n\nOF VENTURE, A NATIVE OF AFRICA,\n\nBut resident above sixty ye'</code></li>
+  <li>Let’s just isolate the title of Smith’s narrative. This is comprised of the first 158 characters. Make a new variable called <code class="language-plaintext highlighter-rouge">smith_title</code> and assign it the first 158 characters of the text file (since Python starts counting at 0, this means we want to use <code class="language-plaintext highlighter-rouge">smith[0:157]</code>).</li>
+  <li>Use <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/06-String-Methods.html#:~:text=uppercase-,string.title(),makes%20the%20string%20titlecase,-string"><code class="language-plaintext highlighter-rouge">string.title()</code></a> to reformat the title of Smith’s narrative by making the first letter of each word capitalized. Hint: the <code class="language-plaintext highlighter-rouge">string.</code> in this example is your new variable <code class="language-plaintext highlighter-rouge">smith_title</code>.</li>
+  <li>Notice how your main variable <code class="language-plaintext highlighter-rouge">smith</code> contains newline characters (<code class="language-plaintext highlighter-rouge">\n</code>). This is a “hidden” character contained in text files that tells a text editor to show the following text as starting on a new line (like hitting Enter or Return in a Word document). Use <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/06-String-Methods.html#:~:text=code%20here-,Split%20Strings%20By%20a%20Delimiter,Explanation,-string.split"><code class="language-plaintext highlighter-rouge">string.split('delim')</code></a> to “split” up Smith’s narrative into separate lines. What would you use in place of <code class="language-plaintext highlighter-rouge">string.</code> and <code class="language-plaintext highlighter-rouge">delim</code> to do this? Assign this new collection of separate lines to a new variable called <code class="language-plaintext highlighter-rouge">smith_lines</code>.</li>
+  <li>The <a href="https://www.w3schools.com/python/ref_func_len.asp"><code class="language-plaintext highlighter-rouge">len()</code></a> function tells you how long something is. In this case, we’ve created a variable called <code class="language-plaintext highlighter-rouge">smith_lines</code> containing a list of all the lines from Smith’s narrative. Use <code class="language-plaintext highlighter-rouge">len()</code> and <code class="language-plaintext highlighter-rouge">smith_lines</code> to show the length of Smith’s narrative in terms of the number of lines.</li>
+</ul>
+
+<h2 id="bonus-practice">Bonus Practice</h2>
+
+<ul>
+  <li>Use <code class="language-plaintext highlighter-rouge">string.split()</code>, <code class="language-plaintext highlighter-rouge">index()</code>, and <code class="language-plaintext highlighter-rouge">len()</code> to:
+    <ul>
+      <li>Print <strong>the 200th word</strong> in Smith’s narrative</li>
+      <li><del>Print <strong>the length of the 200th word</strong> in Smith’s narrative measured by number of characters/letters.</del></li>
+      <li>Print the length of Smith’s narrative measured by <strong>number of words</strong></li>
+    </ul>
+  </li>
+  <li>Use <code class="language-plaintext highlighter-rouge">string.split()</code> to break Smith’s narrative apart into separate chapters and then <code class="language-plaintext highlighter-rouge">len()</code> to calculate how long Chapter II is based on the <strong>number of characters</strong> in that chapter.</li>
+</ul>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-01-10T13:42:03-07:00">January 10, 2025</time></p>
+
+      </footer>
+
+      
+
+      
+  <nav class="pagination">
+    
+      <a href="/sp25-data/modules/understanding-data/" class="pagination--pager" title="Understanding Data &amp; Spreadsheets">Previous</a>
+    
+    
+      <a href="#" class="pagination--pager disabled">Next</a>
+    
+  </nav>
+
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+      
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2025 <a href="https://cblevins.github.io/">Cameron Blevins</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/sp25-data/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/sp25-data/assets/js/lunr/lunr.min.js"></script>
+<script src="/sp25-data/assets/js/lunr/lunr-store.js"></script>
+<script src="/sp25-data/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+
+
+  </body>
+</html>

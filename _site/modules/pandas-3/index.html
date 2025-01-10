@@ -1,0 +1,31 @@
+<p>First create a new directory within your class folder <code class="language-plaintext highlighter-rouge">working-with-data</code> called <code class="language-plaintext highlighter-rouge">pandas-3</code>. Launch Jupyter Labs and create a new Jupyter Notebook in that folder with the filename: <code class="language-plaintext highlighter-rouge">pandas-3.ipynb</code>.</p>
+
+<p>We’re going to continue working with the dataset: <a href="https://www.icpsr.umich.edu/web/ICPSR/studies/8879">Census of Utah Territory, 1880</a>. I’ve modified the dataset to make it more usable in Python. Download <a href="/sp25-data/in-class/utah-census-1880.csv">this CSV file</a> and make sure it is in your <code class="language-plaintext highlighter-rouge">pandas-3</code> folder.</p>
+
+<p>To replicate best coding practices, you’re going to use alternating Markdown and Code cells in your Jupyter Notebook. Copy and paste each of the following steps into a new Markdown cell that documents in your own words what you’re doing in the following code cell. Then insert a new code cell and write your Python code that completes the task for that step.</p>
+
+<ol>
+  <li>Import the pandas library</li>
+  <li>Read in the contents of the CSV of Utah census data and assign it to a variable <code class="language-plaintext highlighter-rouge">utah_df</code> (ie. Utah dataframe)</li>
+  <li>Show a random sample of 10 rows from the dataframe</li>
+  <li>Look at the column <code class="language-plaintext highlighter-rouge">birthstate</code> and some of the values from your random sample. Change the name of the column to something more accurate.</li>
+  <li>Replace the <code class="language-plaintext highlighter-rouge">NaN</code> values in the <code class="language-plaintext highlighter-rouge">occupation</code> column with the string: <code class="language-plaintext highlighter-rouge">Unknown</code>.</li>
+  <li>Just isolate people who work on a farm in some capacity. Create a filter and subset the data using <code class="language-plaintext highlighter-rouge">str.contains</code> to return rows whose <code class="language-plaintext highlighter-rouge">occupation</code> contains <code class="language-plaintext highlighter-rouge">FARM</code>. How many people work on a farm?</li>
+  <li>The three most common categories for <code class="language-plaintext highlighter-rouge">marrystatus</code> have been shortened to single letters. Write three lines of code that each uses <code class="language-plaintext highlighter-rouge">str.replace</code> on the <code class="language-plaintext highlighter-rouge">marrystatus</code> column to replace:</li>
+</ol>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">m</code> with <code class="language-plaintext highlighter-rouge">married</code></li>
+  <li><code class="language-plaintext highlighter-rouge">s</code> with <code class="language-plaintext highlighter-rouge">single</code></li>
+  <li><code class="language-plaintext highlighter-rouge">w</code> with <code class="language-plaintext highlighter-rouge">widowed</code></li>
+</ul>
+
+<ol>
+  <li>Define a function called <code class="language-plaintext highlighter-rouge">birthyear_calc</code> to calculate the year an individual was born based on their <code class="language-plaintext highlighter-rouge">age</code> column and the year the census was recorded (<code class="language-plaintext highlighter-rouge">1880</code>) - note: this won’t be perfect.</li>
+  <li>Add a new column called <code class="language-plaintext highlighter-rouge">birthyear</code> that is populated with the same values as the <code class="language-plaintext highlighter-rouge">age</code> column. These are placeholder values that we are about to change.</li>
+  <li>Use <code class="language-plaintext highlighter-rouge">apply</code> and your function <code class="language-plaintext highlighter-rouge">birthyear_calc</code> on the <code class="language-plaintext highlighter-rouge">birthyear</code> column to calculate new values for each person’s birth year.</li>
+  <li>Use the following code to change the <code class="language-plaintext highlighter-rouge">birthyear</code> column to an Integer data type rather than a Float (decimal): <code class="language-plaintext highlighter-rouge">utah_df['birthyear']=utah_df['birthyear'].astype('int64')</code></li>
+  <li>Use <code class="language-plaintext highlighter-rouge">groupby</code> to count the number of people living in Utah in 1880 who were born each year leading up to 1880. Assign this to a new variable <code class="language-plaintext highlighter-rouge">birthsbyyear</code>.</li>
+  <li>Plot a time series graph of <code class="language-plaintext highlighter-rouge">birthsbyyear</code> to chart how many people were born each year.</li>
+  <li>What explains the weird spikes in the graph?</li>
+</ol>

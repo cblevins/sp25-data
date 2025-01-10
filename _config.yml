@@ -111,28 +111,29 @@ author:
   #location: "King Center ___"
   email:
   links:
-    - label: "Course Homepage"
-      icon: "fa-solid fa-house"
-      url: "https://cblevins.github.io/sp25-data/"
-    - label: "King Center ___"
-      icon: "fa-solid fa-building-columns"
-      url: "https://maps.app.goo.gl/eb9rLqMkaDccTu2T7"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:cameron.blevins@ucdenver.edu"
+    - label: "Course Website"
+      icon: "fa-solid fa-house"
+      url: "https://cblevins.github.io/sp25-data"
+    #- label: "King Center 207"
+    #  icon: "fa-solid fa-building-columns"
+    #  url: "https://maps.app.goo.gl/eb9rLqMkaDccTu2T7"
     - label: "Canvas Site"
-      icon: "fas fa-fw fa-link"
-      url: "https://your-website.com"
-    - label: " Office: SC 3108"
-      icon: "fas fa-building"
-      url: "https://goo.gl/maps/Dsi17MkZmCoLXUWZ7"
+      #icon: "fas fa-fw fa-link"
+      icon: "fa-solid fa-graduation-cap"
+      url: "https://ucdenver.instructure.com/courses/552717"
+    # - label: " Office: SC 3108"
+    #  icon: "fas fa-building"
+    #  url: "https://goo.gl/maps/Dsi17MkZmCoLXUWZ7"
+    - label: "Office Hours Sign Up"
+      icon: "fas fa-calendar"
+      url: ""
     - label: "Office Hours Zoom"
       icon: "fas fa-video"
       url: ""
-    - label: "Office Hours Timeslots"
-      icon: "fas fa-calendar"
-      url: ""
-    - label: "Github Repository"
+    - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cblevins/sp25-data"
     -  # label: "Twitter"
@@ -337,11 +338,13 @@ defaults:
       type: modules
     values:
       layout: single
-      #classes: wide
-      author_profile: true
+      classes: wide2
+      author_profile: false
       share: false
       comments: false
       toc: true
+      toc_sticky: true
+      classes: wide2
 
 # Collections
 collections:

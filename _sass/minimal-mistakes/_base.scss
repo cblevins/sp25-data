@@ -13,7 +13,7 @@ body {
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.5;
+  line-height: 1.4;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -154,6 +154,13 @@ kbd,
 samp,
 pre {
   font-family: $monospace;
+  //color: $code-color;
+}
+
+//only applying code font color to inline code
+code:not(pre code) {
+  color: $code-color; // Apply color only to inline code
+  background-color: $code-background-color; // Apply background color only to inline code
 }
 
 pre {
