@@ -344,13 +344,10 @@ defaults:
       comments: false
       toc: true
       toc_sticky: true
-      classes: wide2
+      classes: wide2 
 
 # Collections
 collections:
   modules:
-    output: true
-    permalink: /:collection/:path/
-  assignments:
     output: true
     permalink: /:collection/:path/
