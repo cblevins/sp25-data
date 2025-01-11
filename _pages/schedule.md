@@ -7,6 +7,12 @@ toc_sticky: true
 classes: narrow
 ---
 
+[//]: # "Quick reference:"
+[//]: # "📚 = reading"
+[//]: # "💻 = activity"
+[//]: # "📝 = homework"
+[//]: # "🎯 = lecture"
+
 _Note: Assignment due dates appear as highlighted text_
 {: .notice--info}
 
@@ -19,24 +25,31 @@ _If you haven't done so already, complete the introductory [student survey](http
 
 ### Wed., Aug. 25: Introduction to the Course II
 
-- Annotate Course Syllabus [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/7ce4E5KpA7um226Lw)]
-- Annotate Hannah Fry, ["When Graphs Are a Matter of Life and Death"](https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death) _The New Yorker_ (June 21, 2021) [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/qsqpBr9FdKqiSMR8T)]
-- Complete the student survey if you have not done so already (check Canvas announcements for link)
-- Sign up for a 10-minute one-on-one meeting with Professor Blevins through [Canvas Calendars](https://community.canvaslms.com/t5/Student-Guide/How-do-I-sign-up-for-a-Scheduler-appointment-in-the-Calendar/ta-p/536)
-- Join the class Slack workspace (see Canvas announcement for instructions), customize your profile picture, and write a post introducing yourself in the #general channel - feel free to include a GIF, picture of your pet, etc.
+- 📚 Annotate Course Syllabus [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/7ce4E5KpA7um226Lw)]
+- 📚 Annotate Hannah Fry, ["When Graphs Are a Matter of Life and Death"](https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death) _The New Yorker_ (June 21, 2021) [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/qsqpBr9FdKqiSMR8T)]
+- ✅ Complete the student survey if you have not done so already (check Canvas announcements for link)
+- ✅ Sign up for a 10-minute one-on-one meeting with Professor Blevins through [Canvas Calendars](https://community.canvaslms.com/t5/Student-Guide/How-do-I-sign-up-for-a-Scheduler-appointment-in-the-Calendar/ta-p/536)
+- ✅ Join the class Slack workspace (see Canvas announcement for instructions), customize your profile picture, and write a post introducing yourself in the `#general` channel - feel free to include a GIF, picture of your pet, etc.
 
 _In Class_
 
-- [Learning how to use the Command Line]({{site.baseurl}}/modules/command-line)
+- [ ] Discussion
+- [x] [Learning how to use the Command Line]({{site.baseurl}}/modules/command-line)
 
 _Complete [student survey](https://forms.gle/fNcn59YU2VYgtEjx6) by Sunday, August 29th by 11:59PM_
+{: .notice--info}
 
 ### Mon., Aug. 30: Getting Up and Running
 
-- ["Choosing Python or R for Data Analysis? An Infographic"](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis) _DataCamp Team_ (January 9, 2020) [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/python-vs-r-infographic)]
-- Install Anaconda on your computer (instructions for [Mac](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x), [Windows](https://www.datacamp.com/community/tutorials/installing-anaconda-windows), or [Linux](https://docs.anaconda.com/anaconda/install/linux/))
-- Complete [How to Use Jupyter Notebooks](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/02-How-to-Use-Jupyter-Notebooks.html) tutorial in Melanie Walsh, _Introduction to Cultural Analytics & Python_ textbook.
-- Finish Part 2 of [Learning how to use the Command Line]({{site.baseurl}}/modules/command-line)
+📚 Readings:
+
+- 📚 ["Choosing Python or R for Data Analysis? An Infographic"](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis) _DataCamp Team_ (January 9, 2020) [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/python-vs-r-infographic)]
+
+💻 Tutorials:
+
+- 🔧 Install Anaconda on your computer (instructions for [Mac](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x), [Windows](https://www.datacamp.com/community/tutorials/installing-anaconda-windows), or [Linux](https://docs.anaconda.com/anaconda/install/linux/))
+- 💻 Complete [How to Use Jupyter Notebooks](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/02-How-to-Use-Jupyter-Notebooks.html) tutorial in Melanie Walsh, _Introduction to Cultural Analytics & Python_ textbook.
+- 💻 Finish Part 2 of [Learning how to use the Command Line]({{site.baseurl}}/modules/command-line)
 
 In-class:
 
