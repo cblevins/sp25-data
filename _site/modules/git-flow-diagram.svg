@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#ffffff"/>
+  
+  <!-- Instructor Repository -->
+  <rect x="50" y="50" width="200" height="100" rx="10" fill="#e1f5fe" stroke="#0288d1" stroke-width="2"/>
+  <text x="150" y="90" text-anchor="middle" font-family="Arial" font-size="16" fill="#0288d1">Instructor Repository</text>
+  <text x="150" y="110" text-anchor="middle" font-family="Arial" font-size="14" fill="#0288d1">sp25-data-materials</text>
+  
+  <!-- Student Fork on GitHub -->
+  <rect x="300" y="50" width="200" height="100" rx="10" fill="#f1f8e9" stroke="#689f38" stroke-width="2"/>
+  <text x="400" y="90" text-anchor="middle" font-family="Arial" font-size="16" fill="#689f38">Your GitHub Fork</text>
+  <text x="400" y="110" text-anchor="middle" font-family="Arial" font-size="14" fill="#689f38">username/sp25-data-materials</text>
+  
+  <!-- Local Copy -->
+  <rect x="550" y="50" width="200" height="100" rx="10" fill="#fff3e0" stroke="#f57c00" stroke-width="2"/>
+  <text x="650" y="90" text-anchor="middle" font-family="Arial" font-size="16" fill="#f57c00">Your Local Copy</text>
+  <text x="650" y="110" text-anchor="middle" font-family="Arial" font-size="14" fill="#f57c00">On Your Computer</text>
+  
+  <!-- Update Arrows -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
+    </marker>
+  </defs>
+  
+  <!-- Fork Arrow -->
+  <line x1="250" y1="100" x2="290" y2="100" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <text x="270" y="90" text-anchor="middle" font-family="Arial" font-size="12" fill="#666">Fork</text>
+  
+  <!-- Clone Arrow -->
+  <line x1="500" y1="100" x2="540" y2="100" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <text x="520" y="90" text-anchor="middle" font-family="Arial" font-size="12" fill="#666">Clone</text>
+  
+  <!-- Push Arrow (Local to Fork) -->
+  <path d="M 650,160 L 650,200 L 400,200 L 400,160" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)" fill="none"/>
+  <text x="525" y="190" text-anchor="middle" font-family="Arial" font-size="12" fill="#666">Push your work</text>
+  
+  <!-- Course Updates Arrow (Instructor to Fork) -->
+  <path d="M 150,160 L 150,240 L 400,240 L 400,160" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)" fill="none"/>
+  <text x="275" y="230" text-anchor="middle" font-family="Arial" font-size="12" fill="#666">Pull updates from instructor repository</text>
+  
+  <!-- Warning Box -->
+  <rect x="100" y="300" width="600" height="60" rx="5" fill="#ffebee" stroke="#c62828" stroke-width="2"/>
+  <text x="400" y="330" text-anchor="middle" font-family="Arial" font-size="14" fill="#c62828" font-weight="bold">
+    ⚠️ Never push your work back to the instructor repository!
+  </text>
+  <text x="400" y="350" text-anchor="middle" font-family="Arial" font-size="12" fill="#c62828">
+    Your homework and modifications stay in your fork
+  </text>
+</svg>
