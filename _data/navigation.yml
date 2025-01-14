@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Schedule"
+    url: /schedule/
+  - title: "Assignments"
+    url: /assignments/
+  - title: "Policies"
+    url: /policies/
