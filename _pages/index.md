@@ -24,11 +24,23 @@ _Note: This course provides 3.0 approved credit hours for the [Undergraduate and
 
 ## Learning Goals
 
-In this class, students will:
+In this course students will learn:
 
-- Develop proficiency in processing, analyzing, and visualizing data using the Python programming language
-- Understand data as a historical artifact and its relationship to different topics in US history
-- Build critical data literacy, or the ability to evaluate both the technical dimensions of data and its larger cultural, social, and political contexts
+💻 **Coding**<br>
+_Process, analyze, and visualize data using the Python programming language_
+
+💬 **Communication**<br>
+_Transform data into compelling stories, insights, and arguments_
+
+📜 **History**<br>
+_Understand data as a historical artifact and its role within different historical topics_
+
+🧠 **Data Literacy**<Br>
+_Evaluate data within its larger cultural, social, and political contexts_
+
+<!--
+<i class="fa-solid fa-code"></i><i class="fa-solid fa-scroll"></i><i class="fa-solid fa-gear"></i>
+-->
 
 ## Acknowledgements
 
