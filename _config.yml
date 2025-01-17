@@ -108,7 +108,7 @@ author:
   name: "Prof. Cameron Blevins"
   avatar: "/assets/images/blevins-headshot-2022-small.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: ""
-  location: "King Center 205"
+  location: # "King Center 205"
   email:
   links:
     - label: "Email"
@@ -129,7 +129,7 @@ author:
     #  url: "https://goo.gl/maps/Dsi17MkZmCoLXUWZ7"
     - label: "Office Hours Sign Up"
       icon: "fas fa-calendar"
-      url: ""
+      url: "https://outlook.office365.com/owa/calendar/ProfBlevinsSpring2025OfficeHours@cuanschutz.edu/bookings/s/jL7GGvwk8Uy3t9An0rnVXQ2"
     - label: "Office Hours Zoom"
       icon: "fas fa-video"
       url: "https://ucdenver.zoom.us/j/91012819482"
