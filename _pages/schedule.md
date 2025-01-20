@@ -7,41 +7,34 @@ toc_sticky: true
 classes: narrow
 ---
 
-[//]: # "Quick reference:"
-[//]: # "📚 = reading"
-[//]: # "✅ = activity"
-[//]: # "💻 = tutorial"
-[//]: # "📝 = homework"
-
 _Note: Assignment due dates appear in highlighted boxes_
 {: .notice--info}
 
-## The Basics
+## Week 01: The Structure of This Course
 
 ### Tu. 1/21: Introductions
 
-### Th. 1/23: Getting Up and Running I: Github
+### Th. 1/23: Github
 
 - 📚 Annotate Course Syllabus [[Perusall]()]
 - ✅ Complete the introductory [student survey](https://forms.gle/Hq58iALsU8uQHcoM7) by Sun. 1/26
 - ✅ Sign up for a [10-minute one-on-one meeting with Professor Blevins](https://outlook.office365.com/book/ProfBlevinsSpring2025OfficeHours@cuanschutz.edu/s/jL7GGvwk8Uy3t9An0rnVXQ2)
-- 💻 Complete **Part 1: Github** of [Installing Software]({{ site.baseurl }}/modules/installing-software/)
+- 💻 Complete **Part 1: Github** of [Installing Software]({{site.baseurl}}/modules/installing-software/)
 
 _In Class_
 
-- [ ] 💻 Getting Up and Running With Github({{site.baseurl}}/modules/github)
+- [ ] [💻 Getting Up and Running With Github]({{site.baseurl}}/modules/github/)
 - [ ] [Learning how to use the Command Line]({{site.baseurl}}/modules/command-line)
 
 _If you haven't done so already, complete the introductory [student survey](https://forms.gle/Hq58iALsU8uQHcoM7) by Sun. 1/26_
 {: .notice--info}
 
-### Tu. 1/28: Getting Up and Running II
+Homework Due
+{: .notice--info}
 
-📚 Readings:
+## Week 02: Python Basics I
 
-- 📚 ["Choosing Python or R for Data Analysis? An Infographic"](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis) _DataCamp Team_ (January 9, 2020) [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/python-vs-r-infographic)]
-
-💻 Tutorials:
+### Tu. 1/28: Python & Jupyter Notebooks
 
 - 🔧 Install Anaconda on your computer (instructions for [Mac](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x), [Windows](https://www.datacamp.com/community/tutorials/installing-anaconda-windows), or [Linux](https://docs.anaconda.com/anaconda/install/linux/))
 - 💻 Complete [How to Use Jupyter Notebooks](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/02-How-to-Use-Jupyter-Notebooks.html) tutorial in Melanie Walsh, _Introduction to Cultural Analytics & Python_ textbook.
@@ -56,12 +49,6 @@ In-class:
 ### Th. 1/30: Navigating Python
 
 - "Chapter 1: The Power Chapter" in Catherine D'Ignzaio and Lauren Klein, _Data Feminism_ [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/qwqJy8cASTjWRxyez)]
-- Aditya Mukerjee, ["I Can Text You A Pile of Poo, But I Can’t Write My Name"](https://modelviewculture.com/pieces/i-can-text-you-a-pile-of-poo-but-i-cant-write-my-name) [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/WjbjMQnEuKLToSQM4)]
-
-### ~~Mon., Sep. 6: No Class (Labor Day)~~
-
-### Wed., Sep. 8: Navigating Python (Zoom class)
-
 - [Anatomy of a Python Script](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/03-Anatomy-Python-Script.html) (Walsh)
 - [Variables](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/04-Variables.html) (Walsh)
 - [Data Types](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/05-Data-Types.html) (Walsh)
@@ -70,10 +57,15 @@ _In-class_
 
 - [Navigating Python]({{site.baseurl}}/modules/navigating-python)
 
-_[Homework #1]({{site.baseurl}}/homework/hw-01.ipynb) Due Friday, 9/10 by 11:59PM_
+Homework Due
 {: .notice--info}
 
-## Slavery and Data
+## Week 03: Python Basics II - Slavery & Data I
+
+### Tu. 2/4: Working with Text
+
+_[Homework #1]({{site.baseurl}}/homework/hw-01.ipynb) Due Friday, 9/10 by 11:59PM_
+{: .notice--info}
 
 ### Mon., Sep. 13: Working with Text in Python
 
