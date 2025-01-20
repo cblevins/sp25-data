@@ -9,37 +9,33 @@ classes: narrow
 
 [//]: # "Quick reference:"
 [//]: # "📚 = reading"
-[//]: # "💻 = activity"
+[//]: # "✅ = activity"
+[//]: # "💻 = tutorial"
 [//]: # "📝 = homework"
-[//]: # "🎯 = lecture"
 
-_Note: Assignment due dates appear as highlighted text_
-{: .notice--info}
-
-_If you haven't done so already, complete the introductory [student survey](https://forms.gle/aHeusTqHNna1nFTy6) by Fri. 1/27_
+_Note: Assignment due dates appear in highlighted boxes_
 {: .notice--info}
 
 ## The Basics
 
-### Mon., Aug. 23: Introduction to the Course
+### Tu. 1/21: Introductions
 
-### Wed., Aug. 25: Introduction to the Course II
+### Th. 1/23: Getting Up and Running I: Github
 
-- 📚 Annotate Course Syllabus [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/7ce4E5KpA7um226Lw)]
-- 📚 Annotate Hannah Fry, ["When Graphs Are a Matter of Life and Death"](https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death) _The New Yorker_ (June 21, 2021) [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/qsqpBr9FdKqiSMR8T)]
-- ✅ Complete the student survey if you have not done so already (check Canvas announcements for link)
-- ✅ Sign up for a 10-minute one-on-one meeting with Professor Blevins through [Canvas Calendars](https://community.canvaslms.com/t5/Student-Guide/How-do-I-sign-up-for-a-Scheduler-appointment-in-the-Calendar/ta-p/536)
-- ✅ Join the class Slack workspace (see Canvas announcement for instructions), customize your profile picture, and write a post introducing yourself in the `#general` channel - feel free to include a GIF, picture of your pet, etc.
+- 📚 Annotate Course Syllabus [[Perusall]()]
+- ✅ Complete the introductory [student survey](https://forms.gle/Hq58iALsU8uQHcoM7) by Sun. 1/26
+- ✅ Sign up for a [10-minute one-on-one meeting with Professor Blevins](https://outlook.office365.com/book/ProfBlevinsSpring2025OfficeHours@cuanschutz.edu/s/jL7GGvwk8Uy3t9An0rnVXQ2)
+- 💻 Complete **Part 1: Github** of [Installing Software]({{ site.baseurl }}/modules/installing-software/)
 
 _In Class_
 
-- [ ] Discussion
-- [x] [Learning how to use the Command Line]({{site.baseurl}}/modules/command-line)
+- [ ] 💻 Getting Up and Running With Github({{site.baseurl}}/modules/github)
+- [ ] [Learning how to use the Command Line]({{site.baseurl}}/modules/command-line)
 
-_Complete [student survey](https://forms.gle/fNcn59YU2VYgtEjx6) by Sunday, August 29th by 11:59PM_
+_If you haven't done so already, complete the introductory [student survey](https://forms.gle/Hq58iALsU8uQHcoM7) by Sun. 1/26_
 {: .notice--info}
 
-### Mon., Aug. 30: Getting Up and Running
+### Tu. 1/28: Getting Up and Running II
 
 📚 Readings:
 
@@ -57,7 +53,7 @@ In-class:
 - Why Python?
 - Getting Started with Jupyter Notebooks [[link to download in-class notebook]({{site.baseurl}}/modules/jupyter-notebooks-intro.ipynb)]
 
-### ~~Wed., Sep. 1: Data and Power~~ (class cancelled)
+### Th. 1/30: Navigating Python
 
 - "Chapter 1: The Power Chapter" in Catherine D'Ignzaio and Lauren Klein, _Data Feminism_ [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/qwqJy8cASTjWRxyez)]
 - Aditya Mukerjee, ["I Can Text You A Pile of Poo, But I Can’t Write My Name"](https://modelviewculture.com/pieces/i-can-text-you-a-pile-of-poo-but-i-cant-write-my-name) [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/WjbjMQnEuKLToSQM4)]
