@@ -6,7 +6,7 @@ toc_sticky: true
 classes: narrow
 ---
 
-There are two main types of assignments in this class. The first consists of **ongoing learning** that you can expect to do on a regular, weekly basis. The second consists of more substantive **core assignments**. These require you to apply what you've been learning and to then showcase it on your personal portfolio webpage you'll be building in this class. As stated in the [Course Policies]({{site.baseurl}}/about-this-course), I will not be using a traditional letter-based grading scheme to evaluate these assignments. Instead, I will be using Canvas to keep track of assignments and provide qualitative feedback ([instructions to see instructor feedback in Canvas](https://community.canvaslms.com/t5/Student-Guide/How-do-I-view-assignment-comments-from-my-instructor/ta-p/283)). Please take any feedback from myself and your classmates into account and make an effort to apply it to your assignments. I might ask you to revise and resubmit an assignment if I feel it is necessary.
+There are two main types of assignments in this class. The first consists of **ongoing learning** that you can expect to do on a regular, weekly basis. The second consists of more substantive **core assignments**. These require you to apply what you've been learning and to then showcase it on a portfolio webpage you'll be building as part of this class. As stated in the [Course Policies]({{site.baseurl}}/about/), I will not be using a traditional letter-based grading scheme to evaluate these assignments. Instead, I will be using Canvas to keep track of assignments and provide qualitative feedback ([instructions to see instructor feedback in Canvas](https://community.canvaslms.com/t5/Student-Guide/How-do-I-view-assignment-comments-from-my-instructor/ta-p/283)). Please take any feedback from myself and your classmates into account and make an effort to apply it to your assignments. I might ask you to revise and resubmit an assignment if I feel it is necessary.
 
 ## Ongoing Learning
 
@@ -36,37 +36,30 @@ Coding Homework Assignments will be due on Sunday of each week.
 
 ## Core Assignments
 
-### [Project Review]({{site.baseurl}}/assignments/project-review) 🔍
+### 🔍 [Project Review]({{site.baseurl}}/assignments/project-review)
 
 Each of you will be writing a review of a **data-driven historical project**. The project you review can be an academic paper, a piece of long-form journalism, a website, or any other substantive work that focuses on some historical topic and uses data in its analysis or presentation.
 
-_Due over the course of the semester - you will sign up for a day._
+_Due Sunday, 2/23 by 11:59PM_
 {: .notice--warning}
 
 ### 📝 [Data Biography]({{site.baseurl}}/assignments/data-biography)
 
 You will write a "data biography" about a historical dataset that I have selected for you. You will need to put on your detective hats and try to familiarize yourself with the data and its history.
 
-_Due 11:59PM_
+_Due Sunday, 3/30 by 11:59PM_
 {: .notice--warning}
 
-### 🧑‍🏫 HIST 5261 Only: Build Your Own Coding Homework
+### 💡 [Research Project]({{site.baseurl}}/assignments/research-project)
 
-One of the best ways to learn a technical skill is to think about how you would teach it to others. Rather than have you complete a homework, for this assignment you are going to design one from scratch. Using the coding exercises I have assigned and your own experience completing them, you will build your own coding homework from scratch. You should select some set of Python concepts and techniques and then design a homework assignment that would help a student practice those skills. After you have completed the questions, make a Jupyter Notebook that includes the _answers_ to each question (modeled as if it were a completed homework submission) and upload the file to Canvas.
+The major culminating assignment for this course is a research project in which you find or create a dataset that allows you to investigate a historical topic. You will then use Python to process and analyze the data in order to present an argument, interpretation, or narrative based on that analysis. You are free to choose any topic or dataset that you want, but it must be generally historical in nature. The assignment is scaffolded across several stages (proposal, draft, presentation, and final version). See [full assignment description]({{site.baseurl}}/assignments/research-project) for more details on each of these steps, including due dates.
 
-Due Friday, 10/29 by 11:59PM
+### 🧑‍🏫 HIST 5261 : Build Your Own Coding Homework
+
+If you are enrolled in the graduate section of this course (HIST 5261), you have one additional assignment: building your own coding homework. One of the best ways to learn a technical skill is to think about how you would teach it to others. Using the coding exercises I have assigned and your own experience completing them, you will build your own coding homework from scratch. You should select some set of Python concepts and techniques and then design a homework assignment that would help a student practice those skills. After you have completed the questions, make a Jupyter Notebook that includes the _answers_ to each question (modeled as if it were a completed homework submission) and upload the file to Canvas.
+
+_Due Sunday, 5/11 by 11:59PM_
 {: .notice--warning}
-
-### 📊 [Research Project]({{site.baseurl}}/assignments/research-project)
-
-The major assignment for this course is a research project in which you find or create a dataset that allows you to investigate a historical topic. You will then use Python to process and analyze the data in order to present an argument, interpretation, or narrative based on that analysis. You are free to choose any topic or dataset that you want, but it must be generally historical in nature. The assignment is scaffolded across several stages. See [full assignment description]({{site.baseurl}}/assignments/research-project) for more details on each of these steps.
-
-- Research Project Proposal (11/9)
-- Research Project Data Biography (11/19)
-- Research Project: Draft (12/5)
-- Research Project Presentation (12/6)
-- ~~HIST 5261: Feedback on classmates' projects (12/7)~~
-- Research Project: Final (12/14)
 
 ### 🪞 Self-Assessments
 

@@ -16,25 +16,11 @@ Submit a research proposal to Canvas that addresses the following:
 - Description of Dataset: What kind of information does it contain? Are you going to be transcribing it yourself or is it already in a machine-readable format? How are you going to access it?
 - Ideas for analysis: what research questions do you want to answer and how can you use this data to answer them?
 
-_Due Tuesday, November 9th by 11:59PM_
+_Final Project Proposal Due Sunday, April 20th by 11:59PM_
 
-#### Research Project Data Biography
+#### Draft & Presentation of Research Project
 
-You will write a short "data biography" modeled on Heather Krause, ["Data Biographies: Getting to Know Your Data"](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/) _Global Investigative Journalism Network_ (March 27, 2017). Your data biography should address:
-
-- **Introduce** the dataset and its contents. What kind of information is in there? How much data is there?
-- **Where** did it come from?
-- **Who** collected, processed, and made it available?
-- **How** was it collected, processed, and made available?
-- **Why** was it collected, processed, and made available?
-- **How** is it stored today? How did you access it?
-- **Potential problems** with the data - are there any limitations, biases, missing data or gaps, or ethical considerations to consider when using this data?
-
-_Due Friday, November 19th by 11:59PM_
-
-#### Research Project: Draft
-
-Your full research project will take the form of a zipped project directory uploaded to Canvas that contains all of your datasets and necessary files. This directory should include a Jupyter Notebook as the main written part of your project. In that document you will include the following:
+Your full research project will take the form of a Jupyter Notebook containing written analysis and code, all rendered on a page or set of pages on your portfolio website (we will be going over instructions on how to do this). You should address:
 
 - **Introduction**: the questions you sought to answer about your data and any context that you think your reader will need to understand the data, including existing scholarship or research on the topic
 - **Methodological** discussion of how the data was collected, processed, and analyzed
@@ -42,22 +28,12 @@ Your full research project will take the form of a zipped project directory uplo
 - **Conclusion**: the larger cultural context of this dataset; ethical concerns or issues around its collection or application
 - **Bibliography**: list of existing scholarship and sources of your data
 
-_Due Sunday, December 5th by 11:59PM_
+You will also give a presentation to your classmates during the last week of the semeseter that walks through your dataset and main analysis. Treat this as both an opportunity to share what you've accomplished and a chance to solicit feedback on specific pieces of your project.
 
-#### Project Presentation
+_Due Tuesdsay, May 6th by the beginning of class_
 
-On Monday, December 6th you will give a 10-minute presentation to your classmates that walks through your dataset and main analysis. Treat this as both an opportunity to share what you've accomplished and a chance to solicit feedback on specific pieces of your project.
+#### Final Verison of Research Project
 
-_Due Monday, December 6th_
+This will take the same format as the draft outlined above. Note that I will be assessing your final version of the project not just on its quality, but also on how well you took into account feedback from your peers and myself.
 
-#### HIST 5261 only: Written feedback on classmates' projects
-
-I will be pairing each graduate student enrolled in HIST 5261 with 1-2 of your classmates. Your responsibility is to take notes during their presentation and synthesize the feedback given by their peers and professor. You will write up these notes in a short memo and send them to the classmate over Slack DM (include Professor Blevins in this DM).
-
-_Due Tuesday, December 7th by 11:59PM_
-
-#### Research Project: Final
-
-This will take the same format as the Research Project: Draft outlined above. Note that I will be assessing your project not just on its final version, but also on how well you took into account feedback from your peers and myself.
-
-_Due Tuesday, December 14th by 11:59PM_
+_Due Thursday, May 14th by 11:59PM_

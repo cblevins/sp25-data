@@ -224,6 +224,8 @@ _In Class_
 
 ## CORPORATE DATA
 
+<small>_Our last thematic unit focuses on how businesses and corporations have used data over time._</small>
+
 <!-- - Walsh, [Text Analysis: TF-IDF with Scikit-Learn](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html)-->
 
 ## Week 10
@@ -250,7 +252,7 @@ _In Class_
 > 💡 Coding Homework 09 Due
 > {: .notice--info}
 
-> [🪞 Self-Assessment #1]() due
+> [🪞 Self-Assessment #2]() due
 > {: .notice--info}
 
 ## Week 11
@@ -269,8 +271,7 @@ _In class_:
 
 ### Th. 4/10: Corporate Data IV | Mapping II
 
-- Jerome de Groot, ["Ancestry.com and the Evolving Nature of Historical Information Companies"](https://doi.org/10.1525/tph.2020.42.1.8) _The Public Historian_ (2020) [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/Z5Ha8tXPiie3dgHfR)
-- Prepare a short presentation on your project proposal
+- 📚 Jerome de Groot, ["Ancestry.com and the Evolving Nature of Historical Information Companies"](https://doi.org/10.1525/tph.2020.42.1.8) _The Public Historian_ (2020) [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/Z5Ha8tXPiie3dgHfR)
 
 _In Class_
 
@@ -290,27 +291,18 @@ _In Class_
 - “Chapter 5: Unicorns, Janitors, Ninjas, Wizards, and Rock Stars” in _Data Feminism_ [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/a4khc2e3pQn7YzdCd)
 -->
 
-_In Class_
-
-- TBD
-
 ### Th. 4/17: Artificial Intelligence II | Coding with Generative AI
 
 - Reading TBD
 
-_In Class_
-
-> 💡 Final Project Proposal Due
+> 💡 Final Project Proposal Due Sunday, 4/20
 > {: .notice--info}
 
 ## RESEARCH PROJECTS
 
 ## Week 13
 
-### Tu. 4/22: Project Proposals
-
-- Prepare a short presentation on your project proposal
-- Student presentations on project proposals
+### Tu. 4/22: Project Workshop
 
 <!--
 - ["Sort and Filter Data"](https://handsondataviz.org/sort.html) and ["Calculate with Formulas"](https://handsondataviz.org/calculate.html) from Chapter 2: Strengthen your Spreadsheet Skills in Jack Dougherty and Ilya Ilyankou, _Hands-On Data Visualization_. (Optional lesson: ["Match Columns with VLOOKUP"](https://handsondataviz.org/vlookup.html#vlookup))
@@ -320,10 +312,6 @@ _In Class_
   - Download and extract/unzip the zipped folder `data` distributed on Slack that contains the data files for this lesson, making sure the unzipped folder is in your working directory `python-humanities` for this lesson.
   - Read the two short sections ["Alex's Processing"](https://carpentries-incubator.github.io/python-humanities-lesson/01-starting-with-data/index.html#:~:text=our%20focus%20today.-,alex%E2%80%99s%20processing,-Alex%20is%20a) and ["Our Data"](https://carpentries-incubator.github.io/python-humanities-lesson/01-starting-with-data/index.html#:~:text=Our%20Data,For%20this%20lesson) to get an introduction to the data you'll be using.
 -->
-
-_In-class_
-
-- [Markdown Practice]({{site.baseurl}}/modules/markdown-practice)
 
 ### Th. 4/24: Project Workshop
 
@@ -338,16 +326,23 @@ _In-class_
 
 ### Th. 5/1: Project Workshop
 
-_Rough Draft of Research Project due Sunday by 11:59PM_
+<!--
+- [Markdown Practice]({{site.baseurl}}/modules/markdown-practice)
+-->
 
 ## Week 15
 
-### Tu. 5/6: Final Project Presentations
+### Tu. 5/6: Final Project Presentation
 
 - Prepare 7-10 minute presentation on the draft of your research project
 
+> 💡 Rough Draft of Research Project Due by beginning of class
+> {: .notice--info}
+
 ### Th. 5/8: Wrapping Up
 
-_Final Research Project Due xxxx by 11:59PM_
+> 💡 Final Version of Research Project Due 5/14 by 11:59PM
+> {: .notice--info}
 
-_Final Self Assessment Due xxxx by 11:59PM_
+> 🪞 Self-Assessment #3 Due 5/14 by 11:59PM
+> {: .notice--info}
