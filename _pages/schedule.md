@@ -22,7 +22,8 @@ _Note: formal assignment due dates appear in highlighted boxes_
 
 ### Th. 1/23: Files, Folders, and GitHub
 
-- 📚 Annotate Course Syllabus [[Perusall]()]
+- 📚 Annotate Course Syllabus [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/syllabus-working-with-data-sp25?assignmentId=N5JocikA46SCknFeL&part=1)]
+  - Note: to get access to our Perusall course, you need to click on `Perusall 1.3` in the sidebar of our [Canvas site](https://ucdenver.instructure.com/courses/552717).
 - ✅ Complete the introductory [student survey](https://forms.gle/Hq58iALsU8uQHcoM7) by Sun. 1/26
 - ✅ [Sign up](https://outlook.office365.com/book/ProfBlevinsSpring2025OfficeHours@cuanschutz.edu/s/jL7GGvwk8Uy3t9An0rnVXQ2) for a 10-minute one-on-one meeting with Professor Blevins during the first three weeks of the semester
 - 💻 Complete [Installing GitHub]({{site.baseurl}}/modules/installing-github/)
@@ -42,6 +43,7 @@ _In Class_
 - 📚 "Chapter 1: The Power Chapter" in Catherine D'Ignzaio and Lauren Klein, _Data Feminism_ [[Perusall]()]
 - 🔧 Install Anaconda on your computer (instructions for [Mac](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x), [Windows](https://www.datacamp.com/community/tutorials/installing-anaconda-windows), or [Linux](https://docs.anaconda.com/anaconda/install/linux/))
 - 💻 Complete [How to Use Jupyter Notebooks](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/02-How-to-Use-Jupyter-Notebooks.html) tutorial in Melanie Walsh, _Introduction to Cultural Analytics & Python_ textbook.
+- ✅ If you haven't done so already, [sign up](https://outlook.office365.com/book/ProfBlevinsSpring2025OfficeHours@cuanschutz.edu/s/jL7GGvwk8Uy3t9An0rnVXQ2) for a 10-minute one-on-one meeting with Professor Blevins during the first three weeks of the semester
 - 💻 Finish Part 2 of [Learning how to use the Command Line]({{site.baseurl}}/in-class/command-line)
 
 In-class:
