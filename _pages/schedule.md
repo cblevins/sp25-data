@@ -1,171 +1,161 @@
 ---
 permalink: /schedule/
-title: Schedule
+title: Schedule 📅
 toc: true
 toc_label: Jump to a Day
 toc_sticky: true
 classes: narrow
 ---
 
-_Note: Assignment due dates appear in highlighted boxes_
-{: .notice--info}
+Refer to this page to see what we will be covering in each of our meetings and what you need to complete (readings, tutorials, homework, etc.) prior to the start of class. We will be using two unofficial "textbooks" this semester. Both of these are freely available online: Melanie Walsh, [_Introduction to Cultural Analytics & Python_](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) and Catherine D'Ignzaio and Lauren Klein, [_Data Feminism_](https://data-feminism.mitpress.mit.edu/).
 
-## Week 01: The Structure of This Course
+> _Note: formal assignment due dates appear in highlighted boxes_
+> {: .notice--primary}
+
+## GETTING UP AND RUNNING
+
+<small>_The first several weeks of the semester we'll spend getting oriented - building our learning community, installing software, and learning some of the basics of the tools we'll be using._</small>
+
+## Week 01
 
 ### Tu. 1/21: Introductions
 
-### Th. 1/23: Github
+### Th. 1/23: Files, Folders, and GitHub
 
 - 📚 Annotate Course Syllabus [[Perusall]()]
 - ✅ Complete the introductory [student survey](https://forms.gle/Hq58iALsU8uQHcoM7) by Sun. 1/26
 - ✅ Sign up for a [10-minute one-on-one meeting with Professor Blevins](https://outlook.office365.com/book/ProfBlevinsSpring2025OfficeHours@cuanschutz.edu/s/jL7GGvwk8Uy3t9An0rnVXQ2)
-- 💻 Complete **Part 1: Github** of [Installing Software]({{site.baseurl}}/modules/installing-software/)
+- 💻 Complete **Part 1: GitHub** of [Installing Software]({{site.baseurl}}/modules/installing-software/)
 
 _In Class_
 
-- [ ] [💻 Getting Up and Running With Github]({{site.baseurl}}/modules/github/)
-- [ ] [Learning how to use the Command Line]({{site.baseurl}}/modules/command-line)
+- [ ] [💻 Getting Up and Running With GitHub]({{site.baseurl}}/modules/github/)
+- [ ] [💻 Learning how to use the Command Line]({{site.baseurl}}/modules/command-line)
 
-_If you haven't done so already, complete the introductory [student survey](https://forms.gle/Hq58iALsU8uQHcoM7) by Sun. 1/26_
-{: .notice--info}
+> 💡 Coding Homework 01 Due
+> {: .notice--info}
 
-Homework Due
-{: .notice--info}
-
-## Week 02: Python Basics I
+## Week 02
 
 ### Tu. 1/28: Python & Jupyter Notebooks
 
+- 📚 "Chapter 1: The Power Chapter" in Catherine D'Ignzaio and Lauren Klein, _Data Feminism_ [[Perusall]()]
 - 🔧 Install Anaconda on your computer (instructions for [Mac](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x), [Windows](https://www.datacamp.com/community/tutorials/installing-anaconda-windows), or [Linux](https://docs.anaconda.com/anaconda/install/linux/))
 - 💻 Complete [How to Use Jupyter Notebooks](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/02-How-to-Use-Jupyter-Notebooks.html) tutorial in Melanie Walsh, _Introduction to Cultural Analytics & Python_ textbook.
-- 💻 Finish Part 2 of [Learning how to use the Command Line]({{site.baseurl}}/modules/command-line)
+- 💻 Finish Part 2 of [Learning how to use the Command Line]({{site.baseurl}}/in-class/command-line)
 
 In-class:
 
-- Command line review
-- Why Python?
 - Getting Started with Jupyter Notebooks [[link to download in-class notebook]({{site.baseurl}}/modules/jupyter-notebooks-intro.ipynb)]
 
 ### Th. 1/30: Navigating Python
 
-- "Chapter 1: The Power Chapter" in Catherine D'Ignzaio and Lauren Klein, _Data Feminism_ [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/qwqJy8cASTjWRxyez)]
-- [Anatomy of a Python Script](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/03-Anatomy-Python-Script.html) (Walsh)
-- [Variables](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/04-Variables.html) (Walsh)
-- [Data Types](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/05-Data-Types.html) (Walsh)
+- 💻 Walsh, [Anatomy of a Python Script](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/03-Anatomy-Python-Script.html)
+- 💻 Walsh, [Variables](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/04-Variables.html)
+- 💻 Walsh, [Data Types](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/05-Data-Types.html)
 
 _In-class_
 
 - [Navigating Python]({{site.baseurl}}/modules/navigating-python)
 
-Homework Due
-{: .notice--info}
+> 💡 Coding Homework 02 Due
+> {: .notice--info}
 
-## Week 03: Python Basics II - Slavery & Data I
+## DATA AND SLAVERY
 
-### Tu. 2/4: Working with Text
+<small>_In our first thematic topic of the semester we'll be looking at the history of slavery in the United States and how data relates to it - both in the 19th century and in how scholars study it today._</small>
 
-_[Homework #1]({{site.baseurl}}/homework/hw-01.ipynb) Due Friday, 9/10 by 11:59PM_
-{: .notice--info}
+## Week 03
 
-### Mon., Sep. 13: Working with Text in Python
+### Tu. 2/4: Narratives vs. Numbers
 
-- [String Methods](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/06-String-Methods.html) (Walsh)
-- [Files and Character Encoding](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/07-Files-Character-Encoding.html) (Walsh)
-- [Comparisons and Conditionals](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/08-Comparisons-Conditionals.html) (Walsh)
+- 📚 Selections from Daina Ramey Berry, _The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave_ (2016), pp. 1-9, 33-57. [Perusall]()
+- 💻 Walsh, [String Methods](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/06-String-Methods.html) (Walsh)
+- 💻 Walsh, [Files and Character Encoding](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/07-Files-Character-Encoding.html) (Walsh)
 
 _In-class_
 
 - [Working with Text in Python]({{site.baseurl}}/modules/working-with-text)
 
-### Wed., Sep. 15: Slavery and Capitalism
+### Th. 2/6: Slavery & The New History of Capitalism
 
-- Excerpt from Eugene Genovese and Elizabeth Fox Genovese, _The Fruits of Merchant Capital: Slavery and Bourgeois Property in the Rise and Expansion of Capitalism_ (1983) [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/P7tj6fxirrjdqeWmr)]
-- Caitlin Rosenthal, "Slavery’s Scientific Management: Masters and Managers" in Sven Beckert and Seth Rockman, eds. _Slavery's Capitalism_ (2015). [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/P7tj6fxirrjdqeWmr)]
+- 📚 Marc Parry, "Shackles and Dollars," _The Chronicle of Higher Education_, December 8, 2016. [[Perusall]()]
+- 💻 Walsh, [Comparisons and Conditionals](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/08-Comparisons-Conditionals.html)
 
-_[Homework #2]({{site.baseurl}}/homework/hw-02.ipynb) Due Friday, 9/17 by 11:59PM_
+> 💡 Coding Homework 03 Due
+> {: .notice--info}
 
-### Mon., Sep. 20: Lists and Loops
+## Week 04
 
-- Anelise Hanson Shrout, [“(Re)Humanizing Data: Digitally Navigating the Bellevue Almshouse”](<https://crdh.rrchnm.org/essays/v01-10-(re)-humanizing-data/>) _Current Research in Digital History 2018_ [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/zNzDxAKqimoxEkJm6)
-- [Lists and Loops Part 1](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/09-Lists-Loops-Part1.html) (Walsh)
-- [Lists and Loops Part 2](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/10-Lists-Loops-Part2.html) (Walsh)
+### Tu. 2/11: Narratives vs. Numbers II | Portfolio Website
 
-_In-class_
+- 📚 Caitlin Rosenthal, "Slavery’s Scientific Management: Masters and Managers" in Sven Beckert and Seth Rockman, eds. _Slavery's Capitalism_ (2015). [[Perusall]()]
+- Complete tutorial on Github Pages
 
-- [Lists and Loops Practice]({{site.baseurl}}/modules/lists-and-loops)
+### Th. 2/13: Building a Portfolio Website
 
-### Wed., Sep. 22: Numbers, Narratives, and Historical Evidence
-
-- John E. Murray's Introduction and Alan L. Olmstead's review of Edward Baptist, _The Half Has Never Been Told: Slavery and the Making of American Capitalism_ in: _The Journal of Economic History_, Vol. 74, Issue 3, September 2015, pp. 919-923. [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/8oTrsutMgagqrxn8q)
-- Selections from Daina Ramey Berry, _The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave_ (2016), pp. 1-9, 33-57. [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/fpShisTf2uYgG7Ev5)
-- Look at Professor Anelise Shrout's [website](http://www.anelisehshrout.com/)
+- Complete tutorial on Github Pages.
 
 _In Class_
 
-- Class visit from Professor [Anelise Shrout](http://www.anelisehshrout.com/)
+> 💡 Coding Homework 04 Due
+> {: .notice--info}
 
-_[Homework #3]({{site.baseurl}}/homework/hw-03.ipynb) Due Friday, 9/24 by 11:59PM_
+## Week 05
 
-### Mon., Sep. 27: Dictionaries and Functions
+### Tu. 2/18: Bodies, Data, and Slavery's Archives
 
-- [Dictionaries](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/11-Dictionaries.html) (Walsh)
-- [Functions](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/12-Functions.html) (Walsh)
-- [Common Python Errors](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/13-Common-Python-Errors.html) (Walsh)
+- 📚 Jessica Marie Johnson, ["Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads"](https://doi.org/10.1215/01642472-7145658) _Social Text_, Vol. 36, No. 4 (2018). [Perusall]()
 
-_In Class_
-
-- Teddy presentation
-- [Dictionaries and Functions Practice]({{site.baseurl}}/modules/dictionaries-functions.ipynb) (Jupyter Notebook file)
-
-### Wed., Sep. 29: Bodies, Archives, and Data
-
-- Jessica Marie Johnson, ["Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads"](https://doi.org/10.1215/01642472-7145658) _Social Text_, Vol. 36, No. 4 (2018). [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/ixkyAYTvx6JH95KKg)
+<!-- - Anelise Hanson Shrout, [“(Re)Humanizing Data: Digitally Navigating the Bellevue Almshouse”](<https://crdh.rrchnm.org/essays/v01-10-(re)-humanizing-data/>) _Current Research in Digital History 2018_ [Perusall]()-->
 
 _In Class_
 
-- Max presentation
 - [Transatlantic Slave Trade Database]({{site.baseurl}}/modules/transatlantic-slave-trade-database)
 
-_[First Self Assessment](https://ucdenver.instructure.com/courses/474404/assignments/1144859) Due Sunday, 10/3 by 11:59PM_
+### Th. 2/20: Project Review Presentations
 
-## Government Data
+- No reading
+- Come to class prepared to give a **5-minute verbal presentation** to classmates on your [Project Review]({{site.baseurl}}/assignments/project-review).
 
-### Mon., Oct. 4: Creating Data
+> [🔍 Project Review]({{site.baseurl}}/assignments/project-review) due on Sunday, 2/23 (no weekly coding homework this week)
+> {: .notice--info}
 
-- "Chapter 4: What Gets Counted Counts" in Catherine D'Ignazio and Lauren Klein, _Data Feminism_ (MIT Press, 2020) [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/nwivG6ntakC7N6aY7)
-- Spreadsheet readings [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/kSt6ZuHhHWyGK6unK)
-  - Robert Kosara, [“Spreadsheet Thinking Versus Database Thinking”](https://eagereyes.org/basics/spreadsheet-thinking-vs-database-thinking)
-  - Sandhya Kambhampati, [“Cleaner, Smarter Spreadsheets Start with Structure”](https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/)
+## GOVERNMENT DATA
 
-_In Class_
+<small>_In our next thematic topic of the semester, we'll be looking at the history of how the US government has collected and used data, primarily through the decennial census - and some of its implications._</small>
 
-- Keira presentation
-- Creating and Structuring Data
+## Week 06
 
-_[Homework #4]({{site.baseurl}}/homework/hw-04.ipynb) Due Tuesday, 10/5 by 11:59PM_
+### Tu. 2/25: Counting Things | Dictionaries & Functions
 
-### Wed., Oct. 6: Government Data I: Origins of the U.S. Census
-
-- “Chapter 4: The Census and Industrial America in the Gilded Age” in Margo Anderson, _The American Census: A Social History_ (pp. 86-114) [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/RpPCDg63tMoeeDMWP)
+- "Chapter 4: What Gets Counted Counts" in Catherine D'Ignazio and Lauren Klein, _Data Feminism_ (MIT Press, 2020) [Perusall]()
 
 _In Class_
 
-- Creating and Structuring Data
+- [Dictionaries](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/11-Dictionaries.html)
+- [Functions](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/12-Functions.html)
+- [Common Python Errors](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/13-Common-Python-Errors.html)
 
-_[Data Biography]({{site.baseurl}}/assignments/data-biography) Due Friday, 10/8 11:59PM_
+### Th. 2/27: The US Census I | Dictionaries & Functions
 
-### Mon., Oct. 11: Data Analysis / Pandas I
-
-- “Chapter 6: The Numbers Don’t Speak for Themselves” in _Data Feminism_ [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/rykw2Bfgw7NCxny3u)
-- [Pandas Basics Part 1](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part1.html) (Walsh)
+- “Chapter 4: The Census and Industrial America in the Gilded Age” in Margo Anderson, _The American Census: A Social History_ (pp. 86-114) [Perusall]()
 
 _In Class_
 
-- [Pandas I Practice]({{site.baseurl}}/modules/pandas-1)
+- [Dictionaries and Functions Practice]({{site.baseurl}}/modules/dictionaries-functions.ipynb) (Jupyter Notebook file)
 
-### Wed., Oct. 13: Government Data II: Census Stories
+> 💡 Coding Homework 05 Due - dictionaries and functions
+> {: .notice--info}
 
-- Historian Dan Bouk will be joining us in class for a Q&A. Annotate the following collection of posts that are part of his _Census Stories_ project [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/4C9wMqf4FZjBtRDxt):
+> [🪞 Self-Assessment #1]() due
+> {: .notice--info}
+
+## Week 07
+
+### Tu. 3/4: The US Census II | Collecting Data
+
+- Annotate the following collection of posts from Dan Bouk's project _Census Stories_ [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/4C9wMqf4FZjBtRDxt):
   - ["Standing on the Crater of a Volcano"](https://censusstories.us/2020/07/27/disfranchisement.html)
   - ["Political Solutions to Imperfect Data"](https://censusstories.us/2020/09/20/rankin.html)
   - ["The Partners of Greenwich Village"](https://censusstories.us/2018/07/03/partners.html)
@@ -173,47 +163,75 @@ _In Class_
 
 _In Class_
 
-- Class visit from Dan Bouk
+- Collecting data
 
-_[Homework #5]({{site.baseurl}}/homework/hw-05.zip) due Friday, 10/15 by 11:59PM_
+### Th. 3/6: Tabular Data and Spreadsheets
 
-### Mon., Oct. 18: Data Analysis / Pandas II
+- Reading TBD
+
+_In Class_
+
+- Structuring datasets
+
+> 💡 Coding Homework 06 Due
+> {: .notice--info}
+
+## Week 08
+
+### Tu. 3/11: Data Analysis / Pandas I
+
+- “Chapter 6: The Numbers Don’t Speak for Themselves” in _Data Feminism_ [Perusall]()
+- Walsh, [Pandas Basics Part 1](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part1.html)
+
+_In Class_
+
+- [Pandas I Practice]({{site.baseurl}}/modules/pandas-1)
+
+### Th. 3/13: Data Analysis / Pandas II
 
 - [Pandas Part 2](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/02-Pandas-Basics-Part2.html) (Walsh)
 
 _In Class_
 
-- Class visit from Melanie Walsh
+> 💡 Coding Homework 07 Due
+> {: .notice--info}
 
-### Wed., Oct. 20: Government Data III: Privacy & Surveillance
+## Week 09
 
-- Sarah Elizabeth _Igo, The Known Citizen: A History of Privacy in Modern America_, p. 57-71, 83-98, 221-223, 232-247. [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/wY4X4x7nhHuz7qJM7)]
+### Tu. 3/18: Surveillance & Privacy
 
-_In Class_
-
-- TJ Presentation
-
-_[Homework #6]({{site.baseurl}}/homework/hw-06.ipynb) due Sunday, 10/24 by 11:59PM_
-
-## Corporate Data
-
-### Mon., Oct. 25: Text Analysis
-
-- [Pandas Part 3](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/03-Pandas-Basics-Part3.html) (Walsh)
-- [Text Analysis: TF-IDF with Scikit-Learn](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html) (Walsh)
+- Sarah Elizabeth _Igo, The Known Citizen: A History of Privacy in Modern America_, p. 57-71, 83-98, 221-223, 232-247. [[Perusall]()] Text Analysis
+- Walsh, [Pandas Part 3](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/03-Pandas-Basics-Part3.html)
 
 _In Class_
 
 - [Pandas III Practice]({{site.baseurl}}/modules/pandas-3)
 
-### Wed. Oct. 27: Corporate Data I
+> 💡 Coding Homework 08 Due - dictionaries and functions
+> {: .notice--info}
 
-- Josh Lauer, "Plastic surveillance: Payment cards and the history of transactional data, 1888 to present" _Big Data & Society_ (2020) [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/rQpeH7n3ZAYc9kqZR)
-- Margaret O'Mara, _The Code: Silicon Valley and the Remaking of America_ (2019), Chapter 5: The Money Men, p. 67-82. [[Perusall]](https://app.perusall.com/courses/data-a-user-manual-fall-2021/omara-the-code-ch-5?assignmentId=aH4KsSvPffLHTvMPG&part=1)
+### Th. 3/20: Catch-Up Day
 
-### Mon., Nov. 1: Data Visualization I
+- Reading TBD
 
-- "Chapter 4: Data-Ink and Graphical Redesign" in Edward Tufte, _The Visual Display of Quantitative Information_ [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/wMpkvkbzLqjPfmNwZ)
+## Spring Break
+
+~~Tu. 3/25: No Class~~
+~~Th. 3/27: No Class~~
+
+> _[Data Biography]({{site.baseurl}}/assignments/data-biography) Due Sunday, 3/30 by 11:59PM_
+> {: .notice--info}
+
+## CORPORATE DATA
+
+<!-- - Walsh, [Text Analysis: TF-IDF with Scikit-Learn](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html)-->
+
+## Week 10
+
+### Tu. 4/1: Corporate Data I | Data Visualization I
+
+- 📚 Josh Lauer, "Plastic surveillance: Payment cards and the history of transactional data, 1888 to present" _Big Data & Society_ (2020) [[Perusall]]()
+- 📚 "Chapter 4: Data-Ink and Graphical Redesign" in Edward Tufte, _The Visual Display of Quantitative Information_ [Perusall]()
 
 _In Class_
 
@@ -221,24 +239,25 @@ _In Class_
   - Read Overview but skip the Getting Started section on installation and virtual environments and go directly to The Basics of Bokeh
   - Ignore parts that say to save or run new .py files - just create a single Jupyter Notebook and insert code into code cells.
 
-### Wed., Nov. 3: Corporate Data II
+### Th. 4/3: Corporate Data II | Data Visualization II
 
-- “Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints” in _Data Feminism_ [[Perusall]](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/J6P5QBfQeBb97xv3h)
-- Primary sources on 1990s smart rooms and ubiquitous computing: [[Perusall]](https://app.perusall.com/courses/data-a-user-manual-fall-2021/pentland-smart-rooms-1996?assignmentId=ozpuaPonZc2SoNCWa&part=1)
-  - Alex Pentland, "Smart Rooms" (1996)
-  - Mark Weiser, "The Future of Ubiquitous Computing on Campus" (1998)
+- 📚 “Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints” in _Data Feminism_ [[Perusall]]()
 
 _In Class_
 
-- Class visit from [John Tinnell](http://johntinnell.com/), Director of Digital Studies Certificate
-- Teddy presentation
+- `TBD`
 
-~~_Homework #7 Due Friday, 11/5 by 11:59PM_~~
+> 💡 Coding Homework 09 Due
+> {: .notice--info}
 
-_Second Self Assessment Due Sunday 11/7_
+> [🪞 Self-Assessment #1]() due
+> {: .notice--info}
 
-### Mon., Nov. 8: Data Visualization II and Spatial Data
+## Week 11
 
+### Tu. 4/8: Corporate Data III | Mapping I
+
+- 📚 Margaret O'Mara, _The Code: Silicon Valley and the Remaking of America_ (2019), Chapter 5: The Money Men, p. 67-82. [[Perusall]]()
 - Walsh chapters on Mapping in Python:
   - [Mapping Intro](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/00-Mapping.html)
   - [Mapping and Geocoding](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/01-Mapping.html)
@@ -248,67 +267,87 @@ _In class_:
 
 - Class visit from [Diane Fritz](https://library.auraria.edu/about/staff-directory/diane-fritz), Geospatial Data Scientist at Auraria Library
 
-_Project Proposal due by Tuesday, 11/9 by 11:59PM_
-
-### Wed., Nov. 10: Corporate Data III | Project Proposals
+### Th. 4/10: Corporate Data IV | Mapping II
 
 - Jerome de Groot, ["Ancestry.com and the Evolving Nature of Historical Information Companies"](https://doi.org/10.1525/tph.2020.42.1.8) _The Public Historian_ (2020) [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/Z5Ha8tXPiie3dgHfR)
 - Prepare a short presentation on your project proposal
 
 _In Class_
 
-- Project proposal presentations
+- Mapping Tutorial
 
-### Mon., Nov. 15: The Data Economy Today
+> 💡 Coding Homework 10 Due
+> {: .notice--info}
 
+## Week 12
+
+### Tu. 4/15: Artificial Intelligence I | Coding with Generative AI
+
+- Reading on the history of Artificial Intelligence (TBD)
+- Lauren Tilton and Taylor Arnold, "Distant Viewing: Analyzing Large Visual Corpora" _Digital Scholarship in the Humanities_ (2019) [Perusall]()
+
+<!--
 - “Chapter 5: Unicorns, Janitors, Ninjas, Wizards, and Rock Stars” in _Data Feminism_ [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/a4khc2e3pQn7YzdCd)
+-->
 
 _In Class_
 
-- Class visit from Colin Schoppert, Product Manager at DoorDash
+- TBD
 
-### Wed., Nov. 17: Computer Vision
+### Th. 4/17: Artificial Intelligence II | Coding with Generative AI
 
-- Lauren Tilton and Taylor Arnold, "Distant Viewing: Analyzing Large Visual Corpora" _Digital Scholarship in the Humanities_ (2019) [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/SHMTmye9gAZiAwTYA)
+- Reading TBD
 
 _In Class_
 
-- Class visit from [Lauren Tilton](https://laurentilton.com/)
+> 💡 Final Project Proposal Due
+> {: .notice--info}
 
-_Research Project Data Biography due Friday, 11/19_
+## RESEARCH PROJECTS
 
-### ~~Mon., Nov. 22: No Class (Fall Break)~~
+## Week 13
 
-### ~~Wed., Nov. 24: No Class (Fall Break)~~
+### Tu. 4/22: Project Proposals
 
-## Research Projects
+- Prepare a short presentation on your project proposal
+- Student presentations on project proposals
 
-### Mon., Nov. 29: Project Workshop
-
+<!--
 - ["Sort and Filter Data"](https://handsondataviz.org/sort.html) and ["Calculate with Formulas"](https://handsondataviz.org/calculate.html) from Chapter 2: Strengthen your Spreadsheet Skills in Jack Dougherty and Ilya Ilyankou, _Hands-On Data Visualization_. (Optional lesson: ["Match Columns with VLOOKUP"](https://handsondataviz.org/vlookup.html#vlookup))
 - Lesson: ["Indexing, Slicing and Subsetting DataFrames in Python"](https://carpentries-incubator.github.io/python-humanities-lesson/02-index-slice-subset/index.html) _Python for Humanities_
 - Before you start this lesson:
   - Create a new working directory in `working-with-data` called `python-humanities-lessons` and create a new Jupyter Notebook in this folder called `02-index-slice-subset.ipynb`. Use this notebook to go through this lesson.
   - Download and extract/unzip the zipped folder `data` distributed on Slack that contains the data files for this lesson, making sure the unzipped folder is in your working directory `python-humanities` for this lesson.
   - Read the two short sections ["Alex's Processing"](https://carpentries-incubator.github.io/python-humanities-lesson/01-starting-with-data/index.html#:~:text=our%20focus%20today.-,alex%E2%80%99s%20processing,-Alex%20is%20a) and ["Our Data"](https://carpentries-incubator.github.io/python-humanities-lesson/01-starting-with-data/index.html#:~:text=Our%20Data,For%20this%20lesson) to get an introduction to the data you'll be using.
+-->
 
 _In-class_
 
 - [Markdown Practice]({{site.baseurl}}/modules/markdown-practice)
 
-### Wed., Dec. 1: Project Workshop
+### Th. 4/24: Project Workshop
 
+<!--
 - Complete the first three parts "For loops", "Automating data processing using For Loops", and "Writing Unique Filenames" from the lesson: ["Data workflows and automation"](https://carpentries-incubator.github.io/python-humanities-lesson/05-loops-and-functions/index.html) _Python for Humanities_ (stop at "Building reusable and modular code with functions").
   - Create a new Jupyter Notebook in your `python-humanities-lessons` folder called `05-loops-and-functions.ipynb` and use it to go through the lesson.
+-->
 
-_Rough Draft of Research Project due Sunday, December 5th by 11:59PM_
+## Week 14
 
-### Mon., Dec. 6: Final Project Presentations
+### Tu. 4/29: Project Workshop
+
+### Th. 5/1: Project Workshop
+
+_Rough Draft of Research Project due Sunday by 11:59PM_
+
+## Week 15
+
+### Tu. 5/6: Final Project Presentations
 
 - Prepare 7-10 minute presentation on the draft of your research project
 
-### Wed., Dec. 8: Wrapping Up
+### Th. 5/8: Wrapping Up
 
-_Final Research Project Due Tuesday, December 14  by 11:59PM_
+_Final Research Project Due xxxx by 11:59PM_
 
-_Final Self Assessment Due Tuesday, December 14  by 11:59PM_
+_Final Self Assessment Due xxxx by 11:59PM_

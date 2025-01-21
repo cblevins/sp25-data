@@ -1,8 +1,8 @@
 # main links
 main:
+  - title: "About The Course"
+    url: /about/
   - title: "Schedule"
     url: /schedule/
   - title: "Assignments"
     url: /assignments/
-  - title: "About This Course"
-    url: /about-this-course/

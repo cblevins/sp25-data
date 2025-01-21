@@ -6,59 +6,56 @@ toc_sticky: true
 classes: narrow
 ---
 
-As stated in the [Course Philosophy]({{site.baseurl}}/policies), I will not be using a traditional grading scheme to evaluate your work. Instead I have established a set of baseline expectations along with formal assignments that you need to complete in order to succeed in this class.
+There are two main types of assignments in this class. The first consists of **ongoing learning** that you can expect to do on a regular, weekly basis. The second consists of more substantive **core assignments**. These require you to apply what you've been learning and to then showcase it on your personal portfolio webpage you'll be building in this class. As stated in the [Course Policies]({{site.baseurl}}/about-this-course), I will not be using a traditional letter-based grading scheme to evaluate these assignments. Instead, I will be using Canvas to keep track of assignments and provide qualitative feedback ([instructions to see instructor feedback in Canvas](https://community.canvaslms.com/t5/Student-Guide/How-do-I-view-assignment-comments-from-my-instructor/ta-p/283)). Please take any feedback from myself and your classmates into account and make an effort to apply it to your assignments. I might ask you to revise and resubmit an assignment if I feel it is necessary.
 
-## Baseline Expectations
+## Ongoing Learning
 
-- Attend each class on time and prepared to discuss that day's topics and readings. I don't expect or require perfect attendance. You do, however, need to be contributing to the classroom community, which is not going to be possible if you miss too many classes. If you need to miss class, please notify Professor Blevins (you don't need to give me a reason) to review the material you missed to get caught up prior to the next class.
-- Actively participate in class activities and discussions. For discussions, this means making observations and asking questions that help the class think together. For hands-on workshops, this means making a good-faith effort to complete the activity and helping your peers to do so as well if they are struggling.
-- Behave professionally and respectfully with each other. You can disagree and push each other to consider other perspectives, but bullying, intimidation, or discrimination will not be tolerated under any circumstances.
-- Complete all assignments described below by the required due date and time of submission.
-- Take feedback from Professor Blevins and your classmates into account and make an effort to apply it to your assignments. I might ask you to revise and resubmit an assignment if I feel it is necessary.
+### 🙋 Learning Community
 
-## Formal Assignments
+Each of you is expected to contribute to the class learning community. This involves:
 
-### 📚 [Perusall Annotations](https://app.perusall.com/courses/data-a-user-manual-fall-2021/)
+- Attend each class on time and prepared to discuss that day's topics and readings. I don't expect or require perfect attendance. You do, however, need to be contributing to the classroom community, which is not going to be possible if you miss too many classes. If you need to miss class, please notify Professor Blevins (you don't need to give me a reason). You are expected to review and complete any material you missed in order to get caught up prior to the next class.
+- Actively participate in class discussions, activities, and hands-on workshops. For discussions and activities, this means making observations, asking questions, and responding to peers in order to help the class think together. For hands-on workshops, this means making a good-faith effort to both complete the activity and help your peers complete it if they are struggling.
+- Behave professionally and respectfully with each other. You can disagree and push each other to consider other perspectives, but bullying, intimidation, or discrimination **will not be tolerated under any circumstances**.
 
-We will be using an online annotation tool called Perusall to collaboratively annotate course readings, or write comments that are anchored to specific parts of the text. You might use your annotations to respond to questions and prompts, connect ideas in the text to prior readings, classroom discussions, or current events, flag big ideas and explain why they are important, or pose questions for your classmates. Rather than reading in isolation, this style of annotation will help you read communally and give you a chance to begin the discussion of that day’s topics online before the start of class. Unless otherwise noted in the Perusall assignment page, you should complete a minimum of **four annotations per reading by 11:00AM the morning of class** in order to give Professor Blevins enough time to review your comments before the start of class. Note that Perusall will assign you a score for each of the readings which you can find in the Gradebook. I will be consulting these scores in a general sense, but following the Course Philosophy I will not be assigning you a numerical grade for every reading. We will discuss the larger issues around algorithmic grading in class.
+### 📚 Perusall Annotations
 
-_Readings that need to be annotated are marked as [Perusall] on the Schedule page._
-{: .notice--info}
+We will be using the social annotation platform Perusall for weekly readings. Rather than passively reading on your own, in Perusall you will write comments and questions linked to specific passages of a document. As you read, you will be able to reply to your classmates’ comments as part of an ongoing conversation. Perusall will then generate a holistic "score" for each reading based on a combination of factors, including the number and length of comments, their quality, and your engagement with your classmates (see here for how Perusall determines comment quality). In keeping with the Course Philosophy, I won't be using these "scores" in a quantitative way to calculate your grade - think of them as a general measuring stick to gauge your annotations.
 
-### 💻 [Coding Homework]({{site.baseurl}}/assignments/coding-homework)
+I acknowledge that not everyone likes this format; however, over many years of teaching I've found it to be the most effective way to facilitate meaningful student engagement with readings and each other outside of class. Having said that: **you get out of it what you put into it.** If you focus solely on "checking boxes" to get a score (post X number of comments, reply "I agree" to Y number of classmates, etc.), it will feel like useless busywork. If you take the time and thought to engage with the reading and your classmates, I promise it will be a much more rewarding experience.
 
-You will be completing a series of coding homework assignments in order to help you learn how to work with data, primarily using the Python programming language. Each exercise will have you apply the skills you learned in the preceding classes. See [the assignment page]({{site.baseurl}}/assignments/coding-homework) for more detailed instructions.
+Unless otherwise noted, you should expect to complete a minimum of **four annotations per reading in Perusall by 11:00AM the morning of class** in order to give Professor Blevins enough time to review your comments before the start of class.
+{: .notice--warning}
 
-- [Homework #1 (9/10)]({{site.baseurl}}/homework/hw-01.ipynb)
-- [Homework #2 (9/17)]({{site.baseurl}}/homework/hw-02.ipynb)
-- [Homework #3 (9/24)]({{site.baseurl}}/homework/hw-03.ipynb)
-- [Homework #4 (10/5)]({{site.baseurl}}/homework/hw-04.ipynb)
-- [Homework #5 (10/15)]({{site.baseurl}}/homework/hw-05.zip)
-- [Homework #6 (10/24)]({{site.baseurl}}/homework/hw-06.ipynb)
-- ~~Homework #7 (11/5)~~
+### 💡 [Coding Homework Assignments]({{site.baseurl}}/assignments/coding-homework)
 
-### 🔍 Project Review
+You will be completing a series of weekly coding assignments in order to help you learn how to work with data, primarily using the Python programming language. Each exercise will have you apply the skills you learned in preceding classes to help you develop your skills. See [more detailed instructions]({{site.baseurl}}/assignments/coding-homework) on how to complete these.
 
-You will be reviewing a data-driven historical project during the semester. This review will include a written submission and a verbal presentation to your classmates. The project can be an academic paper, long-form journalism, or any other substantive work that focuses on some historical topic and uses data in its analysis or presentation. You will then write a 600-800 word review of this project that explains the project’s argument, underlying dataset(s), methodology, and how effective it is (what works, what could be further developed, what is missing). Do not just describe a project; draw on other readings or concepts we've discussed to contextualize your review and evaluate its strengths and weaknesses. In addition to the written review submitted on Canvas, you will sign up for a class period to verbally present the project to your classmates in 5-7 minutes, offering an overview of the work and your evaluation of it.
+Coding Homework Assignments will be due on Sunday of each week.
+{: .notice--warning}
 
-The goal of this assignment is two-fold. First, it will help you develop data literacy, or the ability to critically evaluate data "in action" using real-world examples. Second, in trying to find your project and listening to presentations from your peers you will get exposed to a wider body of data-driven research. Please email me with the project you are thinking of doing before you start your review.
+## Core Assignments
 
-**HIST 5261 only**: if you are enrolled in HIST 5261, you are expected to complete TWO project reviews during the semester.
-{: .notice--info}
+### [Project Review]({{site.baseurl}}/assignments/project-review) 🔍
 
-_Due over the course of the semester - you will sign up for a day(s)._
+Each of you will be writing a review of a **data-driven historical project**. The project you review can be an academic paper, a piece of long-form journalism, a website, or any other substantive work that focuses on some historical topic and uses data in its analysis or presentation.
+
+_Due over the course of the semester - you will sign up for a day._
+{: .notice--warning}
 
 ### 📝 [Data Biography]({{site.baseurl}}/assignments/data-biography)
 
 You will write a "data biography" about a historical dataset that I have selected for you. You will need to put on your detective hats and try to familiarize yourself with the data and its history.
 
-_Due Friday, 10/8 by 11:59PM_
+_Due 11:59PM_
+{: .notice--warning}
 
 ### 🧑‍🏫 HIST 5261 Only: Build Your Own Coding Homework
 
 One of the best ways to learn a technical skill is to think about how you would teach it to others. Rather than have you complete a homework, for this assignment you are going to design one from scratch. Using the coding exercises I have assigned and your own experience completing them, you will build your own coding homework from scratch. You should select some set of Python concepts and techniques and then design a homework assignment that would help a student practice those skills. After you have completed the questions, make a Jupyter Notebook that includes the _answers_ to each question (modeled as if it were a completed homework submission) and upload the file to Canvas.
 
-_Due Friday, 10/29 by 11:59PM_
+Due Friday, 10/29 by 11:59PM
+{: .notice--warning}
 
 ### 📊 [Research Project]({{site.baseurl}}/assignments/research-project)
 
@@ -71,10 +68,6 @@ The major assignment for this course is a research project in which you find or 
 - ~~HIST 5261: Feedback on classmates' projects (12/7)~~
 - Research Project: Final (12/14)
 
-### 🪞 Self Assessments
+### 🪞 Self-Assessments
 
-You will be writing three self assessments in this class spread over the course of the semester. The first two self assessments are short, 2-3 paragraphs submitted on Canvas that should convey to me the areas of the class in which you've been doing well (with concrete examples), the areas of the class in which you could be doing better, and what steps you plan to take to address your weaknesses or achieve your learning goals for the remainder of the semester. The final self assessment is a longer, 2-3 page reflection on the semester as a whole that expands on what you accomplished (with concrete examples), any areas in which you struggled or wish you had done better, how you want to apply what you've learned in this class to your studies or career moving forward, and the overall grade that you feel you deserve for the class.
-
-- [Self-Assessment #1 due by 10/3](https://ucdenver.instructure.com/courses/474404/assignments/1144859)
-- [Self-Assessment #2 due by 11/7](https://ucdenver.instructure.com/courses/474404/assignments/1144860)
-- [Self-Assessment #3 due by 12/14](https://ucdenver.instructure.com/courses/474404/assignments/1144861)
+You will be writing three self-assessments in this class spread over the course of the semester. The first two self assessments are short, 2-3 paragraphs submitted on Canvas that should convey to me the areas of the class in which you've been doing well (with concrete examples), the areas of the class in which you could be doing better, and what steps you plan to take to address your weaknesses or achieve your learning goals for the remainder of the semester. The final self assessment is a longer, 2-3 page reflection on the semester as a whole that expands on what you accomplished (with concrete examples), any areas in which you struggled or wish you had done better, how you want to apply what you've learned in this class to your studies or career moving forward, and the overall grade that you feel you deserve for the class.
