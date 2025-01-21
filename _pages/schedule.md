@@ -9,8 +9,8 @@ classes: narrow
 
 Refer to this page to see what we will be covering in each of our meetings and what you need to complete (readings, tutorials, homework, etc.) prior to the start of class. We will be using two unofficial "textbooks" this semester. Both of these are freely available online: Melanie Walsh, [_Introduction to Cultural Analytics & Python_](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) and Catherine D'Ignzaio and Lauren Klein, [_Data Feminism_](https://data-feminism.mitpress.mit.edu/).
 
-> _Note: formal assignment due dates appear in highlighted boxes_
-> {: .notice--primary}
+_Note: formal assignment due dates appear in highlighted boxes_
+{: .notice--primary}
 
 ## GETTING UP AND RUNNING
 
@@ -24,16 +24,16 @@ Refer to this page to see what we will be covering in each of our meetings and w
 
 - 📚 Annotate Course Syllabus [[Perusall]()]
 - ✅ Complete the introductory [student survey](https://forms.gle/Hq58iALsU8uQHcoM7) by Sun. 1/26
-- ✅ Sign up for a [10-minute one-on-one meeting with Professor Blevins](https://outlook.office365.com/book/ProfBlevinsSpring2025OfficeHours@cuanschutz.edu/s/jL7GGvwk8Uy3t9An0rnVXQ2)
-- 💻 Complete **Part 1: GitHub** of [Installing Software]({{site.baseurl}}/modules/installing-software/)
+- ✅ [Sign up](https://outlook.office365.com/book/ProfBlevinsSpring2025OfficeHours@cuanschutz.edu/s/jL7GGvwk8Uy3t9An0rnVXQ2) for a 10-minute one-on-one meeting with Professor Blevins during the first three weeks of the semester
+- 💻 Complete [Installing GitHub]({{site.baseurl}}/modules/installing-github/)
 
 _In Class_
 
-- [ ] [💻 Getting Up and Running With GitHub]({{site.baseurl}}/modules/github/)
-- [ ] [💻 Learning how to use the Command Line]({{site.baseurl}}/modules/command-line)
+- [💻 Getting Up and Running With GitHub]({{site.baseurl}}/modules/github/)
+- 💻 Part 1 of [Learning how to use the Command Line]({{site.baseurl}}/modules/command-line)
 
-> 💡 Coding Homework 01 Due
-> {: .notice--info}
+💡 Coding Homework 01 Due
+{: .notice--info}
 
 ## Week 02
 
@@ -58,8 +58,8 @@ _In-class_
 
 - [Navigating Python]({{site.baseurl}}/modules/navigating-python)
 
-> 💡 Coding Homework 02 Due
-> {: .notice--info}
+💡 Coding Homework 02 Due
+{: .notice--info}
 
 ## DATA AND SLAVERY
 
@@ -82,8 +82,8 @@ _In-class_
 - 📚 Marc Parry, "Shackles and Dollars," _The Chronicle of Higher Education_, December 8, 2016. [[Perusall]()]
 - 💻 Walsh, [Comparisons and Conditionals](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/08-Comparisons-Conditionals.html)
 
-> 💡 Coding Homework 03 Due
-> {: .notice--info}
+💡 Coding Homework 03 Due
+{: .notice--info}
 
 ## Week 04
 
@@ -98,8 +98,8 @@ _In-class_
 
 _In Class_
 
-> 💡 Coding Homework 04 Due
-> {: .notice--info}
+💡 Coding Homework 04 Due
+{: .notice--info}
 
 ## Week 05
 
@@ -118,8 +118,8 @@ _In Class_
 - No reading
 - Come to class prepared to give a **5-minute verbal presentation** to classmates on your [Project Review]({{site.baseurl}}/assignments/project-review).
 
-> [🔍 Project Review]({{site.baseurl}}/assignments/project-review) due on Sunday, 2/23 (no weekly coding homework this week)
-> {: .notice--info}
+[🔍 Project Review]({{site.baseurl}}/assignments/project-review) due on Sunday, 2/23 (no weekly coding homework this week)
+{: .notice--info}
 
 ## GOVERNMENT DATA
 
@@ -145,11 +145,11 @@ _In Class_
 
 - [Dictionaries and Functions Practice]({{site.baseurl}}/modules/dictionaries-functions.ipynb) (Jupyter Notebook file)
 
-> 💡 Coding Homework 05 Due - dictionaries and functions
-> {: .notice--info}
+💡 Coding Homework 05 Due - dictionaries and functions
+{: .notice--info}
 
-> [🪞 Self-Assessment #1]() due
-> {: .notice--info}
+[🪞 Self-Assessment #1]() due Sun. 3/2
+{: .notice--info}
 
 ## Week 07
 
@@ -173,8 +173,8 @@ _In Class_
 
 - Structuring datasets
 
-> 💡 Coding Homework 06 Due
-> {: .notice--info}
+💡 Coding Homework 06 Due
+{: .notice--info}
 
 ## Week 08
 
@@ -193,8 +193,8 @@ _In Class_
 
 _In Class_
 
-> 💡 Coding Homework 07 Due
-> {: .notice--info}
+💡 Coding Homework 07 Due
+{: .notice--info}
 
 ## Week 09
 
@@ -207,8 +207,8 @@ _In Class_
 
 - [Pandas III Practice]({{site.baseurl}}/modules/pandas-3)
 
-> 💡 Coding Homework 08 Due - dictionaries and functions
-> {: .notice--info}
+💡 Coding Homework 08 Due - dictionaries and functions
+{: .notice--info}
 
 ### Th. 3/20: Catch-Up Day
 
@@ -219,8 +219,8 @@ _In Class_
 ~~Tu. 3/25: No Class~~
 ~~Th. 3/27: No Class~~
 
-> _[Data Biography]({{site.baseurl}}/assignments/data-biography) Due Sunday, 3/30 by 11:59PM_
-> {: .notice--info}
+_[Data Biography]({{site.baseurl}}/assignments/data-biography) Due Sunday, 3/30 by 11:59PM_
+{: .notice--info}
 
 ## CORPORATE DATA
 
@@ -249,11 +249,11 @@ _In Class_
 
 - `TBD`
 
-> 💡 Coding Homework 09 Due
-> {: .notice--info}
+💡 Coding Homework 09 Due
+{: .notice--info}
 
-> [🪞 Self-Assessment #2]() due
-> {: .notice--info}
+[🪞 Self-Assessment #2]() due Sun. 4/6
+{: .notice--info}
 
 ## Week 11
 
@@ -277,8 +277,8 @@ _In Class_
 
 - Mapping Tutorial
 
-> 💡 Coding Homework 10 Due
-> {: .notice--info}
+💡 Coding Homework 10 Due
+{: .notice--info}
 
 ## Week 12
 
@@ -295,10 +295,12 @@ _In Class_
 
 - Reading TBD
 
-> 💡 Final Project Proposal Due Sunday, 4/20
-> {: .notice--info}
+📊 Final Project Proposal Due Sunday, 4/20
+{: .notice--info}
 
 ## RESEARCH PROJECTS
+
+<small>_During the final weeks of the semester you will be working on your research project. I have set aside time in class for project workshops, and will assign readings, tutorials, etc. depending on the needs of the class._</small>
 
 ## Week 13
 
@@ -334,15 +336,15 @@ _In Class_
 
 ### Tu. 5/6: Final Project Presentation
 
-- Prepare 7-10 minute presentation on the draft of your research project
+- Prepare a 5-minute presentation on the draft of your research project
 
-> 💡 Rough Draft of Research Project Due by beginning of class
-> {: .notice--info}
+📊 Rough Draft of Research Project Due by beginning of class
+{: .notice--info}
 
 ### Th. 5/8: Wrapping Up
 
-> 💡 Final Version of Research Project Due 5/14 by 11:59PM
-> {: .notice--info}
+📊 Final Version of Research Project Due 5/14 by 11:59PM
+{: .notice--info}
 
-> 🪞 Self-Assessment #3 Due 5/14 by 11:59PM
-> {: .notice--info}
+🪞 Self-Assessment #3 Due 5/14 by 11:59PM
+{: .notice--info}

@@ -105,13 +105,15 @@ analytics:
 
 # Site Author
 author:
-  name: "Prof. Cameron Blevins"
-  avatar: "/assets/images/blevins-headshot-2022-small.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: ""
+  name: "HIST 4261/5261:<br>Working With Data"
+  #avatar: "/assets/images/blevins-headshot-2022-small.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/favicon.svg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  #avatar: 
+  bio: "CU Denver (Spring 2025)"
   location: # "King Center 205"
   email:
   links:
-    - label: "Email"
+    - label: "Instructor Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:cameron.blevins@ucdenver.edu"
     - label: "Course Website"

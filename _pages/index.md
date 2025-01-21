@@ -11,8 +11,7 @@ University of Colorado Denver, Spring 2025<br>
 Prof. Cameron Blevins (he/him/his)<br>
 cameron.blevins@ucdenver.edu<br>
 Tu/Th 2:00-3:15pm, King Center 205<br>
-Office Hours: Weds. 1:30-2:30pm (over Zoom) (<a href="https://outlook.office365.com/owa/calendar/ProfBlevinsSpring2025OfficeHours@cuanschutz.edu/bookings/s/jL7GGvwk8Uy3t9An0rnVXQ2">reserve time here</a>)<br>
-Office: Student Commons 3108<br>
+Office Hours: Weds. 1:30-2:30pm (over Zoom)<br>
 </p>
 </div>
 

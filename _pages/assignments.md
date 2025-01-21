@@ -50,7 +50,7 @@ You will write a "data biography" about a historical dataset that I have selecte
 _Due Sunday, 3/30 by 11:59PM_
 {: .notice--warning}
 
-### 💡 [Research Project]({{site.baseurl}}/assignments/research-project)
+### 📊 [Research Project]({{site.baseurl}}/assignments/research-project)
 
 The major culminating assignment for this course is a research project in which you find or create a dataset that allows you to investigate a historical topic. You will then use Python to process and analyze the data in order to present an argument, interpretation, or narrative based on that analysis. You are free to choose any topic or dataset that you want, but it must be generally historical in nature. The assignment is scaffolded across several stages (proposal, draft, presentation, and final version). See [full assignment description]({{site.baseurl}}/assignments/research-project) for more details on each of these steps, including due dates.
 
@@ -64,3 +64,8 @@ _Due Sunday, 5/11 by 11:59PM_
 ### 🪞 Self-Assessments
 
 You will be writing three self-assessments in this class spread over the course of the semester. The first two self assessments are short, 2-3 paragraphs submitted on Canvas that should convey to me the areas of the class in which you've been doing well (with concrete examples), the areas of the class in which you could be doing better, and what steps you plan to take to address your weaknesses or achieve your learning goals for the remainder of the semester. The final self assessment is a longer, 2-3 page reflection on the semester as a whole that expands on what you accomplished (with concrete examples), any areas in which you struggled or wish you had done better, how you want to apply what you've learned in this class to your studies or career moving forward, and the overall grade that you feel you deserve for the class.
+
+[Self-Assessment #1]() due 3/2<br>
+[Self-Assessment #2]() due 4/6<br>
+[Self-Assessment #3]() Due 5/14
+{: .notice--warning}
