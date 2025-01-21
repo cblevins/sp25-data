@@ -33,7 +33,7 @@ _In Class_
 - [💻 Getting Up and Running With GitHub]({{site.baseurl}}/modules/github/)
 - 💻 Part 1 of [Learning how to use the Command Line]({{site.baseurl}}/modules/command-line)
 
-💡 Coding Homework 01 Due
+💡 Coding Homework 01 Due Sunday 1/26
 {: .notice--info}
 
 ## Week 02
