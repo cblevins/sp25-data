@@ -1,10 +1,11 @@
 ---
 permalink: /schedule/
-title: Schedule 📅
+title: Course Schedule
 toc: true
 toc_label: Jump to a Day
 toc_sticky: true
 classes: narrow
+layout: schedule
 ---
 
 Refer to this page to see what we will be covering in each of our meetings and what you need to complete (readings, tutorials, homework, etc.) prior to the start of class. We will be using two unofficial "textbooks" this semester. Both of these are freely available online: Melanie Walsh, [_Introduction to Cultural Analytics & Python_](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) and Catherine D'Ignzaio and Lauren Klein, [_Data Feminism_](https://data-feminism.mitpress.mit.edu/).
@@ -20,6 +21,10 @@ _Note: formal assignment due dates appear in highlighted boxes_
 
 ### Tu. 1/21: Introductions
 
+In Class:
+
+- [Slides](https://docs.google.com/presentation/d/1IekLRZEXj2LUs16hgdKp_2Hi0sHYjm48BeGgMcn7F6I/edit?usp=sharing)
+
 ### Th. 1/23: Files, Folders, and GitHub
 
 - 📚 Annotate Course Syllabus [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/syllabus-working-with-data-sp25?assignmentId=N5JocikA46SCknFeL&part=1)]
@@ -28,13 +33,14 @@ _Note: formal assignment due dates appear in highlighted boxes_
 - ✅ [Sign up](https://outlook.office365.com/book/ProfBlevinsSpring2025OfficeHours@cuanschutz.edu/s/jL7GGvwk8Uy3t9An0rnVXQ2) for a 10-minute one-on-one meeting with Professor Blevins during the first three weeks of the semester
 - 💻 Complete [Installing GitHub]({{site.baseurl}}/modules/installing-github/)
 
-_In Class_
+In Class:
 
 - 💻 [Getting Up and Running With GitHub]({{site.baseurl}}/modules/github-intro/)
 - 💻 Part 1 of [Learning how to use the Command Line]({{site.baseurl}}/modules/command-line)
 
-💡 Coding Homework 01 Due Sunday 1/26
-{: .notice--info}
+Due this week:
+
+- 💡 Coding Homework 01 due Sunday 1/26
 
 ## Week 02
 
@@ -47,9 +53,9 @@ _In Class_
 - 💻 Complete [How to Use Jupyter Notebooks](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/02-How-to-Use-Jupyter-Notebooks.html) tutorial in Melanie Walsh, _Introduction to Cultural Analytics & Python_ textbook.
 - ✅ If you haven't done so already, [sign up](https://outlook.office365.com/book/ProfBlevinsSpring2025OfficeHours@cuanschutz.edu/s/jL7GGvwk8Uy3t9An0rnVXQ2) for a 10-minute one-on-one meeting with Professor Blevins during the first three weeks of the semester
 
-In-class:
+In Class:
 
-- Getting Started with Jupyter Notebooks [[link to download in-class notebook]({{site.baseurl}}/modules/jupyter-notebooks-intro.ipynb)]
+- Getting Started with Jupyter Notebooks [[link to download notebook]({{site.baseurl}}/modules/jupyter-notebooks-intro.ipynb)]
 
 ### Th. 1/30: Navigating Python
 
@@ -57,12 +63,13 @@ In-class:
 - 💻 Walsh, [Variables](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/04-Variables.html)
 - 💻 Walsh, [Data Types](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/05-Data-Types.html)
 
-_In-class_
+In Class:
 
 - [Navigating Python]({{site.baseurl}}/modules/navigating-python)
 
-💡 Coding Homework 02 Due
-{: .notice--info}
+Due this week:
+
+- 💡 Coding Homework 02 due Sunday 2/2
 
 ## DATA AND SLAVERY
 
@@ -76,7 +83,7 @@ _In-class_
 - 💻 Walsh, [String Methods](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/06-String-Methods.html) (Walsh)
 - 💻 Walsh, [Files and Character Encoding](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/07-Files-Character-Encoding.html) (Walsh)
 
-_In-class_
+In Class:
 
 - [Working with Text in Python]({{site.baseurl}}/modules/working-with-text)
 
@@ -85,8 +92,9 @@ _In-class_
 - 📚 Marc Parry, "Shackles and Dollars," _The Chronicle of Higher Education_, December 8, 2016. [[Perusall]()]
 - 💻 Walsh, [Comparisons and Conditionals](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/08-Comparisons-Conditionals.html)
 
-💡 Coding Homework 03 Due
-{: .notice--info}
+Due this week:
+
+- 💡 Coding Homework 03 due Sunday
 
 ## Week 04
 
@@ -101,13 +109,14 @@ _In-class_
   - 📚 David Mora and Michelle Jia, ["Is the Love Song Dying?"](https://pudding.cool/2024/11/love-songs/) _The Pudding_ (11 November 2024).
 - 💻 Complete tutorial on Github Pages.
 
-_In Class_
+In Class:
 
 - Project review of "Is the Love Song Dying?"
 - Building a Portfolio Website
 
-💡 Coding Homework 04 Due
-{: .notice--info}
+Due this week:
+
+- 💡 Coding Homework 04 due Sunday
 
 ## Week 05
 
@@ -117,7 +126,7 @@ _In Class_
 
 <!-- - Anelise Hanson Shrout, [“(Re)Humanizing Data: Digitally Navigating the Bellevue Almshouse”](<https://crdh.rrchnm.org/essays/v01-10-(re)-humanizing-data/>) _Current Research in Digital History 2018_ [Perusall]()-->
 
-_In Class_
+In Class:
 
 - [Transatlantic Slave Trade Database]({{site.baseurl}}/modules/transatlantic-slave-trade-database)
 
@@ -126,8 +135,9 @@ _In Class_
 - No reading
 - Come to class prepared to give a **5-minute verbal presentation** to classmates on your [Project Review]({{site.baseurl}}/assignments/project-review).
 
-[🔍 Project Review]({{site.baseurl}}/assignments/project-review) due on Sunday, 2/23 (no coding homework this week)
-{: .notice--info}
+Due this week:
+
+- [🔍 Project Review]({{site.baseurl}}/assignments/project-review) due on Sunday, 2/23 (no coding homework this week)
 
 ## GOVERNMENT DATA
 
@@ -139,7 +149,7 @@ _In Class_
 
 - "Chapter 4: What Gets Counted Counts" in Catherine D'Ignazio and Lauren Klein, _Data Feminism_ (MIT Press, 2020) [Perusall]()
 
-_In Class_
+In Class:
 
 - [Dictionaries](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/11-Dictionaries.html)
 - [Functions](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/12-Functions.html)
@@ -149,15 +159,14 @@ _In Class_
 
 - “Chapter 4: The Census and Industrial America in the Gilded Age” in Margo Anderson, _The American Census: A Social History_ (pp. 86-114) [Perusall]()
 
-_In Class_
+In Class:
 
 - [Dictionaries and Functions Practice]({{site.baseurl}}/modules/dictionaries-functions.ipynb) (Jupyter Notebook file)
 
-💡 Coding Homework 05 Due - dictionaries and functions
-{: .notice--info}
+Due this week:
 
-[🪞 Self-Assessment #1]() due Sun. 3/2
-{: .notice--info}
+- 💡 Coding Homework 05 due Sunday - dictionaries and functions
+- [🪞 Self-Assessment #1]() due Sun. 3/2
 
 ## Week 07
 
@@ -169,7 +178,7 @@ _In Class_
   - ["The Partners of Greenwich Village"](https://censusstories.us/2018/07/03/partners.html)
   - ["8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!"](https://censusstories.us/2018/10/29/Alaska-paths.html)
 
-_In Class_
+In Class:
 
 - Collecting data
 
@@ -177,12 +186,13 @@ _In Class_
 
 - Reading TBD
 
-_In Class_
+In Class:
 
 - Structuring datasets
 
-💡 Coding Homework 06 Due
-{: .notice--info}
+Due this week:
+
+- 💡 Coding Homework 06 due Sunday
 
 ## Week 08
 
@@ -190,7 +200,7 @@ _In Class_
 
 - Walsh, [Pandas Basics Part 1](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part1.html)
 
-_In Class_
+In Class:
 
 - [Pandas I Practice]({{site.baseurl}}/modules/pandas-1)
 
@@ -198,10 +208,13 @@ _In Class_
 
 - [Pandas Part 2](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/02-Pandas-Basics-Part2.html) (Walsh)
 
-_In Class_
+In Class:
 
-💡 Coding Homework 07 Due
-{: .notice--info}
+- Pandas practice
+
+Due this week:
+
+- 💡 Coding Homework 07 due Sunday
 
 ## Week 09
 
@@ -210,12 +223,13 @@ _In Class_
 - Sarah Elizabeth _Igo, The Known Citizen: A History of Privacy in Modern America_, p. 57-71, 83-98, 221-223, 232-247. [[Perusall]()] Text Analysis
 - Walsh, [Pandas Part 3](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/03-Pandas-Basics-Part3.html)
 
-_In Class_
+In Class:
 
 - [Pandas III Practice]({{site.baseurl}}/modules/pandas-3)
 
-💡 Coding Homework 08 Due - dictionaries and functions
-{: .notice--info}
+Due this week:
+
+- 💡 Coding Homework 08 due Sunday
 
 ### Th. 3/20: Catch-Up Day
 
@@ -242,7 +256,7 @@ _[Data Biography]({{site.baseurl}}/assignments/data-biography) Due Sunday, 3/30 
 - 📚 Josh Lauer, "Plastic surveillance: Payment cards and the history of transactional data, 1888 to present" _Big Data & Society_ (2020) [[Perusall]]()
 - 📚 "Chapter 4: Data-Ink and Graphical Redesign" in Edward Tufte, _The Visual Display of Quantitative Information_ [Perusall]()
 
-_In Class_
+In Class:
 
 - Charlie Harper, ["Visualizing Data with Bokeh and Pandas"](https://programminghistorian.org/en/lessons/visualizing-with-bokeh) _The Programming Historian_ (2018)
   - Read Overview but skip the Getting Started section on installation and virtual environments and go directly to The Basics of Bokeh
@@ -252,15 +266,14 @@ _In Class_
 
 - 📚 “Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints” in _Data Feminism_ [[Perusall]]()
 
-_In Class_
+In Class:
 
-- `TBD`
+- TBD
 
-💡 Coding Homework 09 Due
-{: .notice--info}
+Due this week:
 
-[🪞 Self-Assessment #2]() due Sun. 4/6
-{: .notice--info}
+- 💡 Coding Homework 09 due Sunday
+- [🪞 Self-Assessment #2]() due Sun. 4/6
 
 ## Week 11
 
@@ -272,7 +285,7 @@ _In Class_
   - [Mapping and Geocoding](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/01-Mapping.html)
   - [Custom Map Backgrounds](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/02-Custom-Maps.html)
 
-_In class_:
+In Class:
 
 - Class visit from [Diane Fritz](https://library.auraria.edu/about/staff-directory/diane-fritz), Geospatial Data Scientist at Auraria Library
 
@@ -280,12 +293,13 @@ _In class_:
 
 - 📚 Jerome de Groot, ["Ancestry.com and the Evolving Nature of Historical Information Companies"](https://doi.org/10.1525/tph.2020.42.1.8) _The Public Historian_ (2020) [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/Z5Ha8tXPiie3dgHfR)
 
-_In Class_
+In Class:
 
 - Mapping Tutorial
 
-💡 Coding Homework 10 Due
-{: .notice--info}
+Due this week:
+
+- 💡 Coding Homework 10 due Sunday
 
 ## Week 12
 
@@ -302,8 +316,9 @@ _In Class_
 
 - Reading TBD
 
-📊 Final Project Proposal Due Sunday, 4/20
-{: .notice--info}
+Due this week:
+
+- 📊 Final Project Proposal Due Sunday, 4/20
 
 ## RESEARCH PROJECTS
 
@@ -344,14 +359,11 @@ _In Class_
 ### Tu. 5/6: Final Project Presentation
 
 - Prepare a 5-minute presentation on the draft of your research project
-
-📊 Rough Draft of Research Project Due by beginning of class
-{: .notice--info}
+- 📊 Rough Draft of Research Project Due by beginning of class
 
 ### Th. 5/8: Wrapping Up
 
-📊 Final Version of Research Project Due 5/14 by 11:59PM
-{: .notice--info}
+Due this week:
 
-🪞 Self-Assessment #3 Due 5/14 by 11:59PM
-{: .notice--info}
+- 📊 Final Version of Research Project Due 5/14 by 11:59PM
+- 🪞 Self-Assessment #3 Due 5/14 by 11:59PM

@@ -89,4 +89,4 @@ If you need to, you can also update your forked repository through Github's webs
 - Click the "Sync fork" button near the top
 - ⚠️ ⚠️ ⚠️ Do NOT click `Discard changes` - this will delete all of your own material, homework, etc. You _can_ undo this, but you'd rather not.
 - Click "Update branch"
-- Remember: this has only updated your forked Github repository that lives on Github's servers, NOT your the local version on your computer. To make sure those updates get down to your computer, you'll need to open Github Desktop and click the "Push origin" button.
+- Remember: this has only updated your **forked Github repository** that lives on Github's servers, NOT the local version **on your computer**. To make sure those updates get down to your computer, you'll need to open Github Desktop and click the `Fetch origin` button.

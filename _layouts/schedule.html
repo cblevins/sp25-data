@@ -1,0 +1,181 @@
+---
+layout: single
+---
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const mainContent = document.querySelector("article.page");
+    const sessions = mainContent.querySelectorAll("h3");
+
+    sessions.forEach((session) => {
+      let content = [];
+      let element = session.nextElementSibling;
+
+      // Only collect content until we hit "Due this week:" or next h2/h3
+      while (
+        element &&
+        !["H2", "H3"].includes(element.tagName) &&
+        !(
+          element.tagName === "P" &&
+          element.textContent.trim() === "Due this week:"
+        )
+      ) {
+        content.push(element);
+        element = element.nextElementSibling;
+      }
+
+      // Create card container
+      const card = document.createElement("div");
+      card.className = "class-card";
+
+      // Create header
+      const header = document.createElement("div");
+      header.className = "class-card-header";
+      header.appendChild(session.cloneNode(true));
+
+      // Create content section
+      const cardContent = document.createElement("div");
+      cardContent.className = "class-card-content";
+
+      let currentSection = null;
+
+      // Add content sections based on lists and markers
+      content.forEach((el) => {
+        if (el.tagName === "P" && el.textContent.includes("In Class:")) {
+          currentSection = "in-class";
+          const heading = document.createElement("h4");
+          heading.textContent = "In Class:";
+          const section = document.createElement("div");
+          section.className = "materials-section";
+          section.appendChild(heading);
+          cardContent.appendChild(section);
+          el.remove();
+        } else if (el.tagName === "UL") {
+          const section = document.createElement("div");
+
+          // If this is the first list after h3 and not after "In-Class:", it's due items
+          if (!currentSection) {
+            currentSection = "due";
+            const heading = document.createElement("h4");
+            heading.textContent = "Before Class:";
+            section.className = "due-section";
+            section.appendChild(heading);
+          } else if (currentSection === "in-class") {
+            section.className = "materials-section";
+          }
+
+          section.appendChild(el.cloneNode(true));
+          cardContent.appendChild(section);
+        }
+      });
+
+      // Assemble card
+      card.appendChild(header);
+      card.appendChild(cardContent);
+
+      // Replace original content with card
+      session.parentNode.insertBefore(card, session);
+      content.forEach((el) => el.remove());
+      session.remove();
+    });
+
+    // Handle "Due this week" sections
+    const weekDueSections = mainContent.querySelectorAll("p");
+    weekDueSections.forEach((section) => {
+      if (section.textContent.trim() === "Due this week:") {
+        const nextElement = section.nextElementSibling;
+        if (nextElement && nextElement.tagName === "UL") {
+          // Create a new section for weekly due items
+          const weekDueSection = document.createElement("div");
+          weekDueSection.className = "week-due-section";
+
+          // Add header
+          const heading = document.createElement("h4");
+          heading.textContent = "⚠️ Due this week:";
+          weekDueSection.appendChild(heading);
+
+          // Add the list
+          weekDueSection.appendChild(nextElement.cloneNode(true));
+
+          // Replace the original elements
+          section.parentNode.insertBefore(weekDueSection, section);
+          section.remove();
+          nextElement.remove();
+        }
+      }
+    });
+  });
+</script>
+
+<!-- adjusting style layout for schedule page - need to move this to a separate stylesheet later -->
+<style>
+  article.page .class-card {
+    border: 2px solid #dddddd;
+    border-radius: 5px;
+    margin-bottom: 1em;
+  }
+
+  article.page .class-card-header {
+    background: #cce9f4;
+    padding: 0.5em 1em;
+    border-bottom: 2px solid #dddddd;
+  }
+
+  article.page .class-card-header h3 {
+    margin: 0;
+    /*font-size: 1.3em;*/
+    line-height: 1.2;
+  }
+
+  article.page .class-card-content {
+    padding: 0.7em 1em;
+  }
+
+  article.page .due-section h4,
+  article.page .materials-section h4 {
+    margin: 0.3em 0;
+    font-size: 1em; /* Reduced from 1.1em */
+    line-height: 1.2;
+    font-weight: normal; /* Remove bold */
+    color: #575757; /* Softer text color */
+  }
+
+  article.page .due-section ul,
+  article.page .materials-section ul {
+    margin: 0.3em 0;
+    font-size: 0.9em;
+  }
+
+  article.page .due-section li,
+  article.page .materials-section li {
+    margin-bottom: 0.2em;
+    line-height: 1.3;
+  }
+
+  article.page .week-due-section {
+    margin: 1em 0;
+    padding: 0.7em 1em;
+    background: #fff6e1; /* Very light amber */
+    border: 1px solid #fae39b; /* Slightly darker amber for border */
+    border-radius: 5px;
+  }
+
+  article.page .week-due-section h4 {
+    font-size: 1em;
+    line-height: 1.2;
+    font-weight: normal; /* Remove bold */
+    color: #575757;
+    margin: 0 0 0.3em 0;
+  }
+
+  article.page .week-due-section ul {
+    margin: 0.3em 0;
+  }
+
+  article.page .week-due-section li {
+    margin-bottom: 0.2em;
+    line-height: 1.3;
+  }
+</style>
+
+{{ content }}
