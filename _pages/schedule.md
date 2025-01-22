@@ -40,7 +40,9 @@ _In Class_
 
 ### Tu. 1/28: Python & Jupyter Notebooks
 
-- 📚 "Chapter 1: The Power Chapter" in Catherine D'Ignzaio and Lauren Klein, _Data Feminism_ [[Perusall]()]
+<!-- 📚 "Chapter 1: The Power Chapter" in Catherine D'Ignzaio and Lauren Klein, _Data Feminism_ [[Perusall]()] -->
+
+- 📚 "Chapter 6: The Numbers Don’t Speak for Themselves" in Catherine D'Ignzaio and Lauren Klein, _Data Feminism_ [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/the-numbers-don-t-speak-for-themselves?assignmentId=rkjyrEXk3YoGXXKag&part=1)
 - 🔧 Install Anaconda on your computer (instructions for [Mac](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x), [Windows](https://www.datacamp.com/community/tutorials/installing-anaconda-windows), or [Linux](https://docs.anaconda.com/anaconda/install/linux/))
 - 💻 Complete [How to Use Jupyter Notebooks](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/02-How-to-Use-Jupyter-Notebooks.html) tutorial in Melanie Walsh, _Introduction to Cultural Analytics & Python_ textbook.
 - ✅ If you haven't done so already, [sign up](https://outlook.office365.com/book/ProfBlevinsSpring2025OfficeHours@cuanschutz.edu/s/jL7GGvwk8Uy3t9An0rnVXQ2) for a 10-minute one-on-one meeting with Professor Blevins during the first three weeks of the semester
@@ -96,9 +98,13 @@ _In-class_
 
 ### Th. 2/13: Building a Portfolio Website
 
-- Complete tutorial on Github Pages.
+- 📚 Read the following data project (on their website - not on Perusall): ["Is the Love Song Dying?"](https://pudding.cool/2024/11/love-songs/) _The Pudding_ (11 November 2024).
+- 💻 Complete tutorial on Github Pages.
 
 _In Class_
+
+- Project review of "Is the Love Song Dying?"
+- Building a Portfolio Website
 
 💡 Coding Homework 04 Due
 {: .notice--info}
@@ -120,7 +126,7 @@ _In Class_
 - No reading
 - Come to class prepared to give a **5-minute verbal presentation** to classmates on your [Project Review]({{site.baseurl}}/assignments/project-review).
 
-[🔍 Project Review]({{site.baseurl}}/assignments/project-review) due on Sunday, 2/23 (no weekly coding homework this week)
+[🔍 Project Review]({{site.baseurl}}/assignments/project-review) due on Sunday, 2/23 (no coding homework this week)
 {: .notice--info}
 
 ## GOVERNMENT DATA
@@ -182,7 +188,6 @@ _In Class_
 
 ### Tu. 3/11: Data Analysis / Pandas I
 
-- “Chapter 6: The Numbers Don’t Speak for Themselves” in _Data Feminism_ [Perusall]()
 - Walsh, [Pandas Basics Part 1](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part1.html)
 
 _In Class_
