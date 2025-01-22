@@ -30,7 +30,7 @@ _Note: formal assignment due dates appear in highlighted boxes_
 
 _In Class_
 
-- [💻 Getting Up and Running With GitHub]({{site.baseurl}}/modules/github/)
+- 💻 [Getting Up and Running With GitHub]({{site.baseurl}}/modules/github-intro/)
 - 💻 Part 1 of [Learning how to use the Command Line]({{site.baseurl}}/modules/command-line)
 
 💡 Coding Homework 01 Due Sunday 1/26
@@ -46,7 +46,6 @@ _In Class_
 - 🔧 Install Anaconda on your computer (instructions for [Mac](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x), [Windows](https://www.datacamp.com/community/tutorials/installing-anaconda-windows), or [Linux](https://docs.anaconda.com/anaconda/install/linux/))
 - 💻 Complete [How to Use Jupyter Notebooks](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/02-How-to-Use-Jupyter-Notebooks.html) tutorial in Melanie Walsh, _Introduction to Cultural Analytics & Python_ textbook.
 - ✅ If you haven't done so already, [sign up](https://outlook.office365.com/book/ProfBlevinsSpring2025OfficeHours@cuanschutz.edu/s/jL7GGvwk8Uy3t9An0rnVXQ2) for a 10-minute one-on-one meeting with Professor Blevins during the first three weeks of the semester
-- 💻 Finish Part 2 of [Learning how to use the Command Line]({{site.baseurl}}/in-class/command-line)
 
 In-class:
 
@@ -98,7 +97,8 @@ _In-class_
 
 ### Th. 2/13: Building a Portfolio Website
 
-- 📚 Read the following data project (on their website - not on Perusall): ["Is the Love Song Dying?"](https://pudding.cool/2024/11/love-songs/) _The Pudding_ (11 November 2024).
+- Read the following data project (online, not on Perusall) and be prepared to analyze in class:
+  - 📚 David Mora and Michelle Jia, ["Is the Love Song Dying?"](https://pudding.cool/2024/11/love-songs/) _The Pudding_ (11 November 2024).
 - 💻 Complete tutorial on Github Pages.
 
 _In Class_
