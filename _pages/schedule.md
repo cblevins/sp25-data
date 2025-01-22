@@ -10,9 +10,6 @@ layout: schedule
 
 Refer to this page to see what we will be covering in each of our meetings and what you need to complete (readings, tutorials, homework, etc.) prior to the start of class. We will be using two unofficial "textbooks" this semester. Both of these are freely available online: Melanie Walsh, [_Introduction to Cultural Analytics & Python_](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) and Catherine D'Ignzaio and Lauren Klein, [_Data Feminism_](https://data-feminism.mitpress.mit.edu/).
 
-_Note: formal assignment due dates appear in highlighted boxes_
-{: .notice--primary}
-
 ## GETTING UP AND RUNNING
 
 <small>_The first several weeks of the semester we'll spend getting oriented - building our learning community, installing software, and learning some of the basics of the tools we'll be using._</small>
@@ -35,8 +32,9 @@ In Class:
 
 In Class:
 
+- 💻 [Files and Folders]({{site.baseurl}}/modules/files-folders/)
 - 💻 [Getting Up and Running With GitHub]({{site.baseurl}}/modules/github-intro/)
-- 💻 Part 1 of [Learning how to use the Command Line]({{site.baseurl}}/modules/command-line)
+<!-- - 💻 Part 1 of [Learning how to use the Command Line]({{site.baseurl}}/modules/command-line)-->
 
 Due this week:
 
@@ -92,6 +90,8 @@ In Class:
 - 📚 Marc Parry, "Shackles and Dollars," _The Chronicle of Higher Education_, December 8, 2016. [[Perusall]()]
 - 💻 Walsh, [Comparisons and Conditionals](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/08-Comparisons-Conditionals.html)
 
+In Class:
+
 Due this week:
 
 - 💡 Coding Homework 03 due Sunday
@@ -102,6 +102,10 @@ Due this week:
 
 - 📚 Caitlin Rosenthal, "Slavery’s Scientific Management: Masters and Managers" in Sven Beckert and Seth Rockman, eds. _Slavery's Capitalism_ (2015). [[Perusall]()]
 - Complete tutorial on Github Pages
+
+In Class:
+
+- Building a Portfolio Website
 
 ### Th. 2/13: Building a Portfolio Website
 
@@ -134,6 +138,10 @@ In Class:
 
 - No reading
 - Come to class prepared to give a **5-minute verbal presentation** to classmates on your [Project Review]({{site.baseurl}}/assignments/project-review).
+
+In Class:
+
+- Project reviews
 
 Due this week:
 
@@ -235,13 +243,17 @@ Due this week:
 
 - Reading TBD
 
+In Class:
+
 ## Spring Break
 
-~~Tu. 3/25: No Class~~
-~~Th. 3/27: No Class~~
+### ~~Tu. 3/25: No Class~~
 
-_[Data Biography]({{site.baseurl}}/assignments/data-biography) Due Sunday, 3/30 by 11:59PM_
-{: .notice--info}
+### ~~Th. 3/27: No Class~~
+
+Due this week:
+
+- [📝 Data Biography]({{site.baseurl}}/assignments/data-biography) Due Sunday, 3/30 by 11:59PM
 
 ## CORPORATE DATA
 

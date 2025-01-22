@@ -4,7 +4,7 @@ title: Introduction to GitHub <i class="fa-brands fa-github"></i>
 
 ## Overview
 
-As the name `Working With Data` implies, this class will involve a lot of hands-on work, either in class or on your own. It will require you to not only install different pieces of software, but to work with a lot of different kind of files (programming files, data files, etc.). This process will also come with a lot of troubleshooting and collaborative work, with your instructor and classmates taking a look at your work to help you find solutions. To help us handle the workflow, we're going to be using GitHub - one of the most widely-used platforms for sharing and collaborating on code and data projects.
+As the name `Working With Data` implies, this class will involve a lot of hands-on work, either in class or on your own. It will require you to not only install different pieces of software, but to work with a lot of different kind of files (programming files, data files, etc.). In the module `Files and Folder`, you learned how to make and organize folders and files on your own computer. In this tutorial, we're going to learn about a different system of organization: Github<i class="fa-brands fa-github"></i> - one of the most widely-used platforms for sharing and collaborating on code and data projects.
 
 At its core, GitHub is a way for people to work together on data-driven projects. It keeps track of changes to files over time (like an unlimited "undo" button), allows multiple people to work on the same project without overwriting each other's work, and makes it easy to share files with others. If you continue working with code or data after this class, you'll almost certainly encounter GitHub again - it's become an essential tool across many fields.
 
@@ -47,7 +47,7 @@ In our class, we'll be using a **three-level system** that enables everyone to w
 - The first step is to "fork" the `sp25-data-materials` repository - this creates a duplicate copy of the instructor's repository of course materials within your own Github account.
 - Go to https://github.com/cblevins/sp25-data-materials in your web browser
 - Click the "Fork" button in the top-right corner
-- **Change the name of the repository** from `sp25-data-materials` to add your last name - ex. `blevins-sp25-data-materials`. This is not technically necessary, but will help future you keep the different repository's (your instructor's and your own) straight.
+- **Change the name of the repository** from `sp25-data-materials` to add your last name - ex. `blevins-sp25-data-materials`. This is not technically necessary, but will help future you keep the different repositories straight (ie. your instructor's and your own)
 - Leave all other settings at their defaults and click "Create fork"
 - Wait a moment while GitHub copies the repository to your account
 
