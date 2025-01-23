@@ -12,13 +12,13 @@ This guide will help you get set up with Github and the general workflow we're g
 
 ## The Github Repository System
 
-Think of a GitHub repository (or "repo" for short) as a collection of files, folders, etc. You might create a repository to store all the files for, say, a research paper (storing your notes, drafts, data, and figures), a website you're building, or a programming project. To use a pen-and-paper analogy: it's like a three-ring binder with a bunch of papers and folders in it. But unlike a paper binder, a Github repository remembers every change you make to its contents - what changed, when it changed, and who changed it. It's like a super-powered version of Google Docs' revision history, but for any kind of file.
+Think of a GitHub `repository` (or "repo" for short) as a collection of files, folders, etc. You might create a repository to store all the files for, say, a research paper (storing your notes, drafts, data, and figures), a website you're building, or a programming project. To use a pen-and-paper analogy: it's like a three-ring binder with a bunch of papers and folders in it. But unlike a paper binder, a Github repository remembers every change you make to its contents - what changed, when it changed, and who changed it. It's like a super-powered version of Google Docs' revision history, but for any kind of file.
 
-When you make changes to files in your repository - like editing a Python script or adding new data or even writing notes - you'll take a snapshot of those changes (called a "commit"). This creates a record that you can look back on or even return to if you need to undo something. Your repository also makes it easy to share your work with others. If you're working on a group project, your teammates can copy your repository to their own computers, make their own changes, and then sync everything back together. Or you might share it with your instructor when you need help debugging some code. Many people also use GitHub repositories to show off their work to potential employers - like a portfolio of your coding and data analysis skills.
+When you make changes to files in your repository - like editing a Python script or adding new data or even writing notes - you'll take a snapshot of those changes (called a `commit`). This creates a record that you can look back on or even return to if you need to undo something. Your repository also makes it easy to share your work with others. If you're working on a group project, your teammates can copy your repository to their own computers, make their own changes, and then sync everything back together. Or you might share it with your instructor when you need help debugging some code. Many people also use GitHub repositories to show off their work to potential employers - like a portfolio of your coding and data analysis skills.
 
 ## Using Github in this Course
 
-For this course, you're going to be using several different Github repositories. We'll get into the other repository later in the semester, but the first repository consists of class material that you will use to complete weekly exercises, homework, tutorials, etc: `sp25-data-materials`. If you [take a look at this repository](https://github.com/cblevins/sp25-data-materials), you'll see some folders for each week of the semester (`week-01`, `week-02`, etc.) along with files inside each folder.
+For this course, you're going to be using several different Github repositories. We'll get into the other repository later in the semester, but the first repository consists of class material that you will use to complete weekly exercises, homework, tutorials, etc: `sp25-data-materials`. If you [take a look at the repository on Github.com](https://github.com/cblevins/sp25-data-materials), you'll see some folders for each week of the semester (`week-01`, `week-02`, etc.) along with files inside each folder.
 
 Let's return to the three-ring-binder analogy: The instructor has a "main" binder (the `sp25-data-materials` repository) with course materials, all organized into different parts and sections. One solution would be for the instructor to photocopy all of the material in here and give each of you your own individual copy of the binder at the start of the semester. This system works fine if the binder never has to be changed. But what happens if your instructor wants to add new material or update existing material as the semester progresses? They'd need to make handouts and distribute them in class, and the students would have to hole-punch them, add them to the right section, etc. It would be a pain to keep everything up-to-date.
 
@@ -39,20 +39,26 @@ In our class, we'll be using a **three-level system** that enables everyone to w
 ### Get Set Up
 
 - If you have not done so already, follow [these instructions]({{site.baseurl}}/modules/installing-github/) to sign up for a Github account and install GitHub Desktop
-- If you have not done so already, create a course folder on your computer named `working-with-data` (I would recommend somewhere easy for you to navigate to and near the "root" of your computer - ex. in your "Documents" folder or something similar)
+- If you have not done so already in a previous tutorial, make sure you've created a course folder on your computer named `working-with-data` (I would recommend somewhere easy for you to navigate to and near the "root" of your computer - ex. in your "Documents" folder or something similar)
 - Open GitHub Desktop and log in with your GitHub account
 
 ### Fork the Course Repository
 
 - The first step is to "fork" the `sp25-data-materials` repository - this creates a duplicate copy of the instructor's repository of course materials within your own Github account.
-- Go to https://github.com/cblevins/sp25-data-materials in your web browser
+- Make sure you're logged into GitHub
+- Go to <https://github.com/cblevins/sp25-data-materials> in your web browser
 - Click the "Fork" button in the top-right corner
-- **Change the name of the repository** from `sp25-data-materials` to add your last name - ex. `blevins-sp25-data-materials`. This is not technically necessary, but will help future you keep the different repositories straight (ie. your instructor's and your own)
+- **Change the name of the repository** from `sp25-data-materials` to add your last name to the start of the repository name - ex. `blevins-sp25-data-materials`. This is not technically necessary, but will help future you keep the different repositories straight (ie. your instructor's and your own)
 - Leave all other settings at their defaults and click "Create fork"
 - Wait a moment while GitHub copies the repository to your account
+- Go to your main user account page on GitHub: <https://github.com/yourusername>
+- Click `Repositories` and you should see the new repository you just forked (copied) from the instructor. This is **your** version of the class material repository, living on GitHub's servers.
+
+But you'll also want to also be able to work with this material on your own computer, not through a web browser on GithHub's servers. Which brings us to....
 
 ### Clone Your Fork Using GitHub Desktop
 
+- To get your forked repostiroy onto your local computer, you are going to "clone" it
 - Open GitHub Desktop
 - Click "File" -> "Clone Repository"
 - Select the tab Github.com
@@ -60,7 +66,7 @@ In our class, we'll be using a **three-level system** that enables everyone to w
 - Under Local Path, navigate to your main course folder on your computer: `working-with-data`
 - Click "Clone"
 - Select "For my own purposes" in the dialog box
-- If you go to `working-with-data` folder on your computer, you should see a new folder called something like `yourlastname-sp25-course-materials` (ex. `blevins-sp25-course-materials`). If you check inside it, you'll see a bunch of folders, each of which has some files and material already inside them.
+- If you go to `working-with-data` folder on your computer, you should see a new folder called something like `yourlastname-sp25-course-materials` (ex. `blevins-sp25-course-materials`). If you check inside it, you'll see a bunch of folders, each of which has some files and material already inside them. All of this should match your forked repository living on GitHub's servers.
 
 ## The Github Repository Workflow
 
@@ -90,3 +96,97 @@ If you need to, you can also update your forked repository through Github's webs
 - ⚠️ ⚠️ ⚠️ Do NOT click `Discard changes` - this will delete all of your own material, homework, etc. You _can_ undo this, but you'd rather not.
 - Click "Update branch"
 - Remember: this has only updated your **forked Github repository** that lives on Github's servers, NOT the local version **on your computer**. To make sure those updates get down to your computer, you'll need to open Github Desktop and click the `Fetch origin` button.
+
+## Practice: Creating Your First File on GitHub.com
+
+- We're going to practice adding a new file to this repository
+- Click the "Add file" button near the top of the repository
+- Select "Create new file"
+- In the "Name your file" box, type: `week-01.txt`
+- In the larger text box below, copy and paste: "This is some sample text for Week 1"
+- Scroll to the bottom of the page
+- Under commit new file:
+
+  - In the first box, write a short message describing what you did (ex. "Added week-01.txt file")
+  - Leave the "Add an optional extended description" box empty for now
+  - Keep the "Commit directly to the main branch" option selected
+  - Click the green "Commit new file" button
+
+- Now your file is saved in your GitHub repository!
+
+  - Click on the file name to view it
+  - You can edit it by clicking the pencil icon (✏️) in the top right of the file view
+
+## Practice: Making Your First Changes on your Computer
+
+- First, let's create a simple text file using whatever program is available on your computer:
+
+  - On Windows: Open Notepad (press Windows key and type "notepad")
+  - On Mac: Open TextEdit (click the magnifying glass and type "textedit")
+  - On either system: You can also use Word if that's what you're comfortable with
+
+- Create a new file:
+
+  - Type your name at the top of the file
+  - Add today's date
+  - Write "Figuring out how to use Github"
+  - Save the file as `practice-notes.txt` in the `week-01` folder inside `yourlastname-sp25-data-materials` (the one you cloned to your computer)
+  - Make sure to save it as a plain text file - if using Word, choose "Save As" and select "Plain Text (\*.txt)" as the file type
+
+- Open GitHub Desktop and you should see your new file appearing in the "Changes" tab
+
+  - The left panel will show your new file in green (indicating it's been added)
+  - The right panel will show the contents of your file in green
+
+- Create your first commit
+
+  - At the bottom left of GitHub Desktop, write a brief "Summary" of what you did (ex. "Added practice notes file")
+  - Click "Commit to main"
+  - Click "Push origin" to sync these changes to your GitHub fork
+
+- Verify your changes online
+  - Go to your repository on GitHub.com - ex. `https://github.com/yourusername/yourlastname-sp25-data-materials`
+  - You should see your new `practice-notes.txt` file
+  - Click on it to make sure the contents are there
+
+## Practice: Getting Updates from Instructor's Repository
+
+I'll write a section that guides students through a live practice of pulling updates, assuming you'll make changes during class:
+
+## Practice: Getting Updates from your Instructor's Repository
+
+Let's practice getting updates from the instructor's repository in real time.
+
+First, make sure your repository is up to date before we start:
+
+- Open GitHub Desktop
+- Click "Fetch origin"
+- If you see "Pull origin", click that too
+- Go to Branch → "Merge into current branch"
+- Select "upstream/main"
+- If it says "This branch is up to date with upstream/main", you're ready!
+
+Your instructor will now make some changes to the `week-01` folder in the main course repository
+
+- Watch what they're doing - they might add a new file or modify an existing one
+- This simulates how new course materials will be added throughout the semester
+
+Once the instructor has made their changes, let's get those updates:
+
+- In GitHub Desktop, click "Fetch origin"
+- Go to Branch → "Merge into current branch"
+- Select "upstream/main" again
+- This time, you should see a message about new changes to merge
+- Click "Create a merge commit"
+
+Let's verify the updates worked:
+
+- Look in your local `week-01` folder - you should see the new or modified files
+- In GitHub Desktop, click the "History" tab on the left
+- You should see the instructor's recent changes listed there
+- Click on the commit to see exactly what changed (green shows additions, red shows deletions)
+
+Final step - keep everything in sync:
+
+- Click "Push origin" to sync these updates to your GitHub fork
+- Go to your repository on GitHub.com to verify the changes are there

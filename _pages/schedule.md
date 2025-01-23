@@ -10,6 +10,8 @@ layout: schedule
 
 Refer to this page to see what we will be covering in each of our meetings and what you need to complete (readings, tutorials, homework, etc.) prior to the start of class. We will be using two unofficial "textbooks" this semester. Both of these are freely available online: Melanie Walsh, [_Introduction to Cultural Analytics & Python_](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) and Catherine D'Ignzaio and Lauren Klein, [_Data Feminism_](https://data-feminism.mitpress.mit.edu/).
 
+---
+
 ## GETTING UP AND RUNNING
 
 <small>_The first several weeks of the semester we'll spend getting oriented - building our learning community, installing software, and learning some of the basics of the tools we'll be using._</small>
@@ -47,7 +49,7 @@ Due this week:
 <!-- 📚 "Chapter 1: The Power Chapter" in Catherine D'Ignzaio and Lauren Klein, _Data Feminism_ [[Perusall]()] -->
 
 - 📚 "Chapter 6: The Numbers Don’t Speak for Themselves" in Catherine D'Ignzaio and Lauren Klein, _Data Feminism_ [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/the-numbers-don-t-speak-for-themselves?assignmentId=rkjyrEXk3YoGXXKag&part=1)
-- 🔧 Install Anaconda on your computer (instructions for [Mac](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x), [Windows](https://www.datacamp.com/community/tutorials/installing-anaconda-windows), or [Linux](https://docs.anaconda.com/anaconda/install/linux/))
+- 💻 Complete [Installing Python]({{site.baseurl}}/modules/installing-python/)
 - 💻 Complete [How to Use Jupyter Notebooks](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/02-How-to-Use-Jupyter-Notebooks.html) tutorial in Melanie Walsh, _Introduction to Cultural Analytics & Python_ textbook.
 - ✅ If you haven't done so already, [sign up](https://outlook.office365.com/book/ProfBlevinsSpring2025OfficeHours@cuanschutz.edu/s/jL7GGvwk8Uy3t9An0rnVXQ2) for a 10-minute one-on-one meeting with Professor Blevins during the first three weeks of the semester
 
