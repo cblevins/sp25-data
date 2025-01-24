@@ -40,7 +40,7 @@ In Class:
 
 Due this week:
 
-- 💡 Coding Homework 01 due Sunday 1/26
+- 💡 [Coding Homework 01]({{ "/assignments/homework-01" | relative_url }}) due Sunday 1/26
 
 ## Week 02
 

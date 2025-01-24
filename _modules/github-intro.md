@@ -74,20 +74,33 @@ Whenever you sit down to do any kind of coding work for this class (in class exe
 
 ### Regular Updates (Do This Before You Start Anything New)
 
+Before you start working each time, follow these four steps to make sure everything is up to date:
+
+#### Step 1: Check for All Updates on Github.com (instructor repository & your forked repository)
+
 - Open GitHub Desktop
 - Make sure your course repository is selected
 - Click `Fetch origin`
+
+#### Step 2: Get Instructor Updates
+
 - Go to Branch → `Merge into current branch`
 - Select "Other Branches" -> `upstream/main` from the list
-- If there are no updates from the instructor, it will say "This branch is up to date with upstream/main"
-- If there **ARE** updates from the instructor, it will say something like "This will merge 2 commits from upstream/main into main"
-- If there are changes, click the button "Create a merge commit" to get any instructor updates
-- If you click on History tab on the left, you'll see a summary of the new changes that have been made.
-- If you open your folder on your computer, these local files will have been updated - but you have one remaining step: you want to keep your local files up to date with your forked repository on Github. Trust me - this will help you if you ever make some mistakes and need to "rewind" to recover files you might have accidentally deleted or changed.
-- To keep them up to date, click the "Push origin" button in Github Desktop to sync these updates up to your GitHub fork
-- Check to make sure the changes have been made - go to your repository in a browser on github.com (ex. https://github.com/YOURUSERNAME/yourlastname-sp25-data-materials) and see if the new files are there.
+- If there are no updates from the instructor, it will say "This branch is up to date with upstream/main" - great! Continue to Step 3
+- If there **ARE** updates from the instructor, it will say something like "This will merge 2 commits from upstream/main into main". Click `Create a merge commit`
 
-If you need to, you can also update your forked repository through Github's website rather than Github Desktop:
+#### Step 3: Get Any Changes from your personal repository on GitHub.com
+
+- Click `Pull origin` if the button is available
+- If the button is grey, you're already up to date!
+
+#### Step 4: Final Sync
+
+- Click `Push origin` to make sure your forked repository and your local copy are in sync
+
+Now you're ready to work! Remember to repeat these steps each time you start working on course materials.
+
+If you ever want to, here are instructions for updating your forked repository through Github's website (you'd then need to pull these changes down to your local copy on your computer):
 
 - Go to your `yourlastname-sp25-data-materials` repository on Github.com
 - Check and see if there have been any updates from the instructor. If there are, it will say something like `This branch is 1 commit behind cblevins/sp25-data-materials:main` at the top of the repository
@@ -113,9 +126,8 @@ If you need to, you can also update your forked repository through Github's webs
   - Click the green "Commit new file" button
 
 - Now your file is saved in your GitHub repository!
-
-  - Click on the file name to view it
-  - You can edit it by clicking the pencil icon (✏️) in the top right of the file view
+- Click on the file name to view it
+- You can edit it by clicking the pencil icon (✏️) in the top right of the file view
 
 ## Practice: Making Your First Changes on your Computer
 
@@ -148,10 +160,6 @@ If you need to, you can also update your forked repository through Github's webs
   - Go to your repository on GitHub.com - ex. `https://github.com/yourusername/yourlastname-sp25-data-materials`
   - You should see your new `practice-notes.txt` file
   - Click on it to make sure the contents are there
-
-## Practice: Getting Updates from Instructor's Repository
-
-I'll write a section that guides students through a live practice of pulling updates, assuming you'll make changes during class:
 
 ## Practice: Getting Updates from your Instructor's Repository
 

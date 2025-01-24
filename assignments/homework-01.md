@@ -12,36 +12,33 @@ This assignment will help you get comfortable with the GitHub workflow we'll be 
 
 ## Review
 
-- Before starting, make sure you've completed all the setup steps from the tutorial [💻 Getting Up and Running With GitHub]({{site.baseurl}}/modules/github-intro/):
+- Before starting, make sure you've completed all of the following steps from the tutorial [💻 Getting Up and Running With GitHub]({{site.baseurl}}/modules/github-intro/):
   - Created a GitHub account
   - Installed GitHub Desktop
   - Forked the course repository and renamed it to include your last name (ex. `blevins-sp25-data-materials`)
   - Cloned your fork to your local computer
+
+As a reminder, here is the GitHub workflow:
+
+![Image]({{ "/modules/img/git-flow-diagram.svg" | relative_url }})
 
 ### Check For Updates
 
 ⚠️ ⚠️ ⚠️ Before starting any new work in this class, you always want to check for any updates from your instructor's `sp25-data-materials` repository.
 {: .notice--warning}
 
-- Open GitHub Desktop
-- Make sure your course repository (`yourlastname-sp25-data-materials`) is selected
-- Click `Fetch origin`
-- Go to Branch → `Merge into current branch`
-- Select "Other Branches" -> `upstream/main` from the list
-- If there are no updates from the instructor, it will say "This branch is up to date with upstream/main"
-- If there **ARE** updates from the instructor, it will say something like "This will merge 2 commits from upstream/main into main"
-- If there are changes, click the button "Create a merge commit" to get any instructor updates
-- If you click on History tab on the left, you'll see a summary of the new changes that have been made.
-- If you open your folder on your computer, these local files will have been updated - but you have one remaining step: **you want to keep your local files up to date with your forked repository on Github.** Trust me - this will help you if you ever make some mistakes and need to "rewind" to recover files you might have accidentally deleted or changed.
-- To keep them up to date, click the **"Push origin"** button in Github Desktop to sync these updates up to your GitHub fork
-- Check to make sure the changes have been made - go to your repository in a browser on github.com (ex. https://github.com/YOURUSERNAME/yourlastname-sp25-data-materials) and see if the new files are there.
+- Open GitHub Desktop and select your course repository
+- Click `Fetch origin` to check for any changes
+- Go to Branch → `Merge into current branch` → select `upstream/main` and click `Create a merge commit` if there are updates
+- Click `Pull origin` if it's available (if not, you're up to date!)
+- Click `Push origin` to sync everything up
 
 ### Task 1: Add a New File and Push it to your Fork
 
 - Inside your local `week-01` folder, navigate to `week-01-homework`
 - Create a text file called `github-notes.txt` inside `week-01-homework`
-- Write down EITHER the steps you followed to check for updates OR a question you have about the GitHub workflow
-- Commit this file using GitHub Desktop with a descriptive summary
+- Write down either a question you have about the GitHub workflow OR which Github vocabulary word you find the funniest: fork, clone, or fetch.
+- `Commit` this file using GitHub Desktop (ie. officially take a snapshot of your changes)
 - Push the changes to your fork repository
 
 ### Task 2: Web-Based Editing on Github.com (with bonus Markdown practice!)
@@ -49,7 +46,7 @@ This assignment will help you get comfortable with the GitHub workflow we'll be 
 The next step is to create a new file on your fork on Github.com, then pull those updates down to your local computer. We are going to practice making a file in **Markdown** - a format we'll talk more about in coming weeks. Don't worry too much about it for now!
 
 - Go to your repository on GitHub.com
-- Navigate to your `week-01/week-01-hw` folder
+- Navigate to your `week-01/week-01-homework` folder
 - Create a new file called `about-me.md`
 - This is a Markdown file. Take a look at the [Basic Syntax](https://www.markdownguide.org/basic-syntax/) guide and refer to it to do the following:
   - Write "About Me" as a Heading Level 1
@@ -64,19 +61,19 @@ The next step is to create a new file on your fork on Github.com, then pull thos
 ### Task 3: Adding a Local Image File
 
 - Find a photo of one of your favorite places (can be a place you've been or want to visit)
-- Save or move this photo to your `week-01/week-01-hw` folder on your computer
+- Save or move this photo to your `week-01/week-01-homework` folder on your computer
 - Open GitHub Desktop and you should see the new file appear
-- Write a descriptive commit message explaining what the photo is
-- Push these changes to your repository
+- `Commit` these changes with a summary message explaining what the photo is
+- `Push` these changes in Github Desktop to your forked repository on Github.com
 
 ## Submission
 
-Before submitting, check to make sure that your local copy and the fork on Github.com are matching up. They should have three new files in them:
+Before submitting, check to make sure that your local repository and your forked repository on Github.com are matching up. Each of them should have three new files in `week-01-homework` folder:
 
 - `github-notes.txt`
 - `about-me.md`
 - `some photo file`
 
 - Submit the following on Canvas:
-  - The URL to your GitHub repository (ex. https://github.com/yourusername/yourlastname-sp25-data-materials)
-  - A screenshot of your local repository on your computer that shows all the above files inside the correct folder system
+  - The URL to your GitHub repository (ie. https://github.com/yourusername/yourlastname-sp25-data-materials)
+  - A screenshot of your local repository on your computer that shows all the above files inside the correct folder system (Screenshot instructions for [Mac](https://support.apple.com/guide/mac-help/take-a-screenshot-mh26782/mac#:~:text=Press%20Shift%2DCommand%2D3.&text=Press%20Shift%2DCommand%2D4%2C,the%20mouse%20or%20trackpad%20button.&text=Press%20Shift%2DCommand%2D4%2C%20then%20press%20the%20Space%20bar.), [Windows](https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b))
