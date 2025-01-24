@@ -66,7 +66,7 @@ The next step is to create a new file on your fork on Github.com, then pull thos
 - `Commit` these changes with a summary message explaining what the photo is
 - `Push` these changes in Github Desktop to your forked repository on Github.com
 
-## Submission
+## Check your work
 
 Before submitting, check to make sure that your local repository and your forked repository on Github.com are matching up. Each of them should have three new files in `week-01-homework` folder:
 
@@ -74,7 +74,10 @@ Before submitting, check to make sure that your local repository and your forked
 - `about-me.md`
 - `some photo file`
 
-- You're going to make two submissions (ie. two "attempts") on [the Canvas assignment page](https://ucdenver.instructure.com/courses/552717/assignments/1909256):
-  - First submission: Submit a URL link to your GitHub repository (ie. https://github.com/yourusername/yourlastname-sp25-data-materials)
-  - Second submission: Submit a screenshot (or several screenshots, if necessary) of your local repository on your computer that shows all the above files inside the correct folder system (Screenshot instructions for [Mac](https://support.apple.com/guide/mac-help/take-a-screenshot-mh26782/mac#:~:text=Press%20Shift%2DCommand%2D3.&text=Press%20Shift%2DCommand%2D4%2C,the%20mouse%20or%20trackpad%20button.&text=Press%20Shift%2DCommand%2D4%2C%20then%20press%20the%20Space%20bar.), [Windows](https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b))
-  - If you're having trouble with multiple attempts, you can also [add a comment on your Canvas assignment](https://community.canvaslms.com/t5/Student-Guide/How-do-I-add-a-comment-to-a-submission-as-a-student/ta-p/606650) that provides the URL link to your GitHub repository (ie. https://github.com/yourusername/yourlastname-sp25-data-materials)
+## Submission
+
+You're going to make two submissions (ie. two "attempts") on [the Canvas assignment page](https://ucdenver.instructure.com/courses/552717/assignments/1909256):
+
+- First submission: Submit a URL link to your GitHub repository (ie. https://github.com/yourusername/yourlastname-sp25-data-materials)
+- Second submission: Submit a screenshot (or several screenshots, if necessary) of your local repository on your computer that shows all the above files inside the correct folder system (Screenshot instructions for [Mac](https://support.apple.com/guide/mac-help/take-a-screenshot-mh26782/mac#:~:text=Press%20Shift%2DCommand%2D3.&text=Press%20Shift%2DCommand%2D4%2C,the%20mouse%20or%20trackpad%20button.&text=Press%20Shift%2DCommand%2D4%2C%20then%20press%20the%20Space%20bar.), [Windows](https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b))
+- If you're having trouble with multiple attempts, you can also [add a comment on your Canvas assignment](https://community.canvaslms.com/t5/Student-Guide/How-do-I-add-a-comment-to-a-submission-as-a-student/ta-p/606650) that provides the URL link to your GitHub repository
