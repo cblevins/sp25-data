@@ -22,7 +22,7 @@ Refer to this page to see what we will be covering in each of our meetings and w
 
 In Class:
 
-- [Slides](https://docs.google.com/presentation/d/1IekLRZEXj2LUs16hgdKp_2Hi0sHYjm48BeGgMcn7F6I/edit?usp=sharing)
+- 🧑‍🏫 [Slides](https://docs.google.com/presentation/d/1IekLRZEXj2LUs16hgdKp_2Hi0sHYjm48BeGgMcn7F6I/edit?usp=sharing)
 
 ### Th. 1/23: Files, Folders, and GitHub
 
@@ -34,6 +34,7 @@ In Class:
 
 In Class:
 
+- 🧑‍🏫 [Slides](https://docs.google.com/presentation/d/13kUaBQ3nWayrB3_lurDkpG41mTDJc1X_hPilN4trlCk/edit?usp=sharing)
 - 💻 [Files and Folders]({{site.baseurl}}/modules/files-folders/)
 - 💻 [Getting Up and Running With GitHub]({{site.baseurl}}/modules/github-intro/)
 <!-- - 💻 Part 1 of [Learning how to use the Command Line]({{site.baseurl}}/modules/command-line)-->
@@ -44,7 +45,7 @@ Due this week:
 
 ## Week 02
 
-### Tu. 1/28: Python & Jupyter Notebooks
+### Tu. 1/28: Jupyter Notebooks & Python
 
 <!-- 📚 "Chapter 1: The Power Chapter" in Catherine D'Ignzaio and Lauren Klein, _Data Feminism_ [[Perusall]()] -->
 
@@ -52,10 +53,12 @@ Due this week:
 - 💻 Complete [Installing Python]({{site.baseurl}}/modules/installing-python/)
 - 💻 Complete [How to Use Jupyter Notebooks](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/02-How-to-Use-Jupyter-Notebooks.html) tutorial in Melanie Walsh, _Introduction to Cultural Analytics & Python_ textbook.
 - ✅ If you haven't done so already, [sign up](https://outlook.office365.com/book/ProfBlevinsSpring2025OfficeHours@cuanschutz.edu/s/jL7GGvwk8Uy3t9An0rnVXQ2) for a 10-minute one-on-one meeting with Professor Blevins during the first three weeks of the semester
+- ✅ If you haven't done so already, complete the introductory [student survey](https://forms.gle/Hq58iALsU8uQHcoM7)
 
 In Class:
 
-- Getting Started with Jupyter Notebooks [[link to download notebook]({{site.baseurl}}/modules/jupyter-notebooks-intro.ipynb)]
+- 🧑‍🏫 [Slides](https://docs.google.com/presentation/d/1KFX01gJTYrXcIgqjkBnTatn1oVs7-J8GHFmQ_DHpGNg/edit?usp=sharing)
+- Jupyter Notebooks & Python
 
 ### Th. 1/30: Navigating Python
 
