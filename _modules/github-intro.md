@@ -80,6 +80,7 @@ Before you start working each time, follow these four steps to make sure everyth
 
 - Open GitHub Desktop
 - Make sure your course repository is selected
+- Make sure it says: `Current Branch: main` (ie. you're on the main branch)
 - Click `Fetch origin`
 
 #### Step 2: Get Instructor Updates
@@ -91,11 +92,13 @@ Before you start working each time, follow these four steps to make sure everyth
 
 #### Step 3: Get Any Changes from your personal repository on GitHub.com
 
+- Make sure it says: `Current Branch: main` (ie. you're on the main branch)
 - Click `Pull origin` if the button is available
 - If the button is grey, you're already up to date!
 
 #### Step 4: Final Sync
 
+- Make sure it says: `Current Branch: main` (ie. you're on the main branch)
 - Click `Push origin` to make sure your forked repository and your local copy are in sync
 
 Now you're ready to work! Remember to repeat these steps each time you start working on course materials.

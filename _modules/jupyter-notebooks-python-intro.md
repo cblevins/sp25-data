@@ -24,6 +24,7 @@ As a reminder, here is the GitHub workflow:
 {: .notice--warning}
 
 - Open GitHub Desktop and select your course repository
+- Make sure it says: `Current Branch: main` (ie. you're on the main branch)
 - Click `Fetch origin` to check for any changes
 - Go to Branch → `Merge into current branch` → select `upstream/main` and click `Create a merge commit` if there are updates
 - Click `Pull origin` if it's available (if not, you're up to date!)
@@ -37,15 +38,18 @@ As a reminder, here is the GitHub workflow:
 - Look inside `week-02` and make sure you have the following files:
   - `jupyter-notebooks-intro.ipynb`
   - `python-variables.ipynb`
-- Double-click `jupyter-notebooks-intro.ipynb` to open it
+- Duplicate (ie. make a copy of) of `jupyter-notebooks-intro.ipynb` (right-click `Duplicate`) then **rename** your notebok
 - Follow along with your instructor as you work through the notebook
+
+Always remember to duplicate the `.ipynb` file and save your work as you go!
+{: .notice--warning}
 
 ## Part 2: Python
 
 - Within Jupyter Labs, look inside `week-02` and open `python-variables.ipynb`
 - Follow along with your instructor as you work through the notebook
 
-⚠️ ⚠️ ⚠️ SAVE YOUR WORK!!!
+Always remember to duplicate the `.ipynb` file and save your work as you go!
 {: .notice--warning}
 
 ### Sync Your Local Repository and Your Forked Repository

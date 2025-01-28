@@ -58,7 +58,7 @@ Due this week:
 In Class:
 
 - 🧑‍🏫 [Slides](https://docs.google.com/presentation/d/1KFX01gJTYrXcIgqjkBnTatn1oVs7-J8GHFmQ_DHpGNg/edit?usp=sharing)
-- Jupyter Notebooks & Python
+- [Jupyter Notebooks & Python]({{site.baseurl}}/modules/jupyter-notebooks-python-intro/)
 
 ### Th. 1/30: Navigating Python
 
