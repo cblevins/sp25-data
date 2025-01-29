@@ -58,13 +58,13 @@ Due this week:
 In Class:
 
 - 🧑‍🏫 [Slides](https://docs.google.com/presentation/d/1KFX01gJTYrXcIgqjkBnTatn1oVs7-J8GHFmQ_DHpGNg/edit?usp=sharing)
-- [Jupyter Notebooks & Python]({{site.baseurl}}/modules/jupyter-notebooks-python-intro/)
+- 💻 Part 1: Jupyter Notebooks in [Jupyter Notebooks & Python]({{site.baseurl}}/modules/jupyter-notebooks-python-intro/)
 
 ### Th. 1/30: Navigating Python
 
+- 💻 Complete Part 2: Python Variables in [Jupyter Notebooks & Python]({{site.baseurl}}/modules/jupyter-notebooks-python-intro/) and submit your Jupyter Notebook on Canvas.
 - 💻 Walsh, [Anatomy of a Python Script](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/03-Anatomy-Python-Script.html)
-- 💻 Walsh, [Variables](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/04-Variables.html)
-- 💻 Walsh, [Data Types](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/05-Data-Types.html)
+<!-- 💻 Walsh, [Data Types](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/05-Data-Types.html)-->
 
 In Class:
 
@@ -90,7 +90,7 @@ In Class:
 
 - [Working with Text in Python]({{site.baseurl}}/modules/working-with-text)
 
-### Th. 2/6: Slavery & The New History of Capitalism
+### Th. 2/6: Slavery & Capitalism
 
 - 📚 Marc Parry, "Shackles and Dollars," _The Chronicle of Higher Education_, December 8, 2016. [[Perusall]()]
 - 💻 Walsh, [Comparisons and Conditionals](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/08-Comparisons-Conditionals.html)
