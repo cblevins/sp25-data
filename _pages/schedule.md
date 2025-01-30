@@ -82,6 +82,7 @@ Due this week:
 
 ### Tu. 2/4: Slavery & Capitalism
 
+- 📚 Optional: Watch [Crash Course US HistoryL Slavery](https://www.youtube.com/watch?v=Ajn9g5Gsv98) (14:24 min.) for a "big-picture" introduction to the topic of slavery in US history
 - 📚 Marc Parry, "Shackles and Dollars," _The Chronicle of Higher Education_, December 8, 2016. [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/parry-shackles-and-dollars?assignmentId=BZgGDe7m8qdkoZAcM&part=1)]
 - 📚 HIST 5212: Roundtable on Ed Baptist, _The Other Half Has Never Been Told_ in _Journal of Economic History_ (2015) [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/baptist-reviews-journal-economic-history-2015?assignmentId=r58Y9YBB3KYrQFJRe&part=1)]
 - 💻 Walsh, [String Methods](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/06-String-Methods.html)
