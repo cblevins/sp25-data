@@ -64,11 +64,11 @@ In Class:
 
 - 💻 Complete Part 2: Python Variables in [Jupyter Notebooks & Python]({{site.baseurl}}/modules/jupyter-notebooks-python-intro/) and submit your Jupyter Notebook on Canvas.
 - 💻 Walsh, [Anatomy of a Python Script](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/03-Anatomy-Python-Script.html)
-<!-- 💻 Walsh, [Data Types](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/05-Data-Types.html)-->
 
 In Class:
 
-- [Navigating Python]({{site.baseurl}}/modules/navigating-python)
+- 💻 Walsh, [Data Types](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/05-Data-Types.html)
+- [💻 Navigating Python]({{site.baseurl}}/modules/navigating-python)
 
 Due this week:
 
@@ -80,19 +80,20 @@ Due this week:
 
 ## Week 03
 
-### Tu. 2/4: Narratives vs. Numbers
+### Tu. 2/4: Slavery & Capitalism
 
-- 📚 Selections from Daina Ramey Berry, _The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave_ (2016), pp. 1-9, 33-57. [Perusall]()
-- 💻 Walsh, [String Methods](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/06-String-Methods.html) (Walsh)
-- 💻 Walsh, [Files and Character Encoding](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/07-Files-Character-Encoding.html) (Walsh)
+- 📚 Marc Parry, "Shackles and Dollars," _The Chronicle of Higher Education_, December 8, 2016. [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/parry-shackles-and-dollars?assignmentId=BZgGDe7m8qdkoZAcM&part=1)]
+- 📚 HIST 5212: Roundtable on Ed Baptist, _The Other Half Has Never Been Told_ in _Journal of Economic History_ (2015) [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/baptist-reviews-journal-economic-history-2015?assignmentId=r58Y9YBB3KYrQFJRe&part=1)]
+- 💻 Walsh, [String Methods](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/06-String-Methods.html)
+- 💻 Walsh, [Files and Character Encoding](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/07-Files-Character-Encoding.html)
 
 In Class:
 
 - [Working with Text in Python]({{site.baseurl}}/modules/working-with-text)
 
-### Th. 2/6: Slavery & Capitalism
+### Th. 2/6: Narratives vs. Numbers I
 
-- 📚 Marc Parry, "Shackles and Dollars," _The Chronicle of Higher Education_, December 8, 2016. [[Perusall]()]
+- 📚 Selections from Daina Ramey Berry, _The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave_ (2016) (selections) [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/berry-the-price-for-their-pound-of-flesh-introduction?assignmentId=Ei78J5LXH4QJvvahd&part=1)
 - 💻 Walsh, [Comparisons and Conditionals](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/08-Comparisons-Conditionals.html)
 
 In Class:
@@ -105,8 +106,8 @@ Due this week:
 
 ### Tu. 2/11: Narratives vs. Numbers II | Portfolio Website
 
-- 📚 Caitlin Rosenthal, "Slavery’s Scientific Management: Masters and Managers" in Sven Beckert and Seth Rockman, eds. _Slavery's Capitalism_ (2015). [[Perusall]()]
-- Complete tutorial on Github Pages
+- 📚 Caitlin Rosenthal, "Slavery’s Scientific Management: Masters and Managers" in Sven Beckert and Seth Rockman, eds. _Slavery's Capitalism_ (2015). [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/rosenthal_slavery-s-scientific-management?assignmentId=gXkvsCWjuRG9w3xb9&part=1)]
+- 💻 Complete tutorial on Github Pages.
 
 In Class:
 
@@ -116,7 +117,6 @@ In Class:
 
 - Read the following data project (online, not on Perusall) and be prepared to analyze in class:
   - 📚 David Mora and Michelle Jia, ["Is the Love Song Dying?"](https://pudding.cool/2024/11/love-songs/) _The Pudding_ (11 November 2024).
-- 💻 Complete tutorial on Github Pages.
 
 In Class:
 
@@ -131,7 +131,7 @@ Due this week:
 
 ### Tu. 2/18: Bodies, Data, and Slavery's Archives
 
-- 📚 Jessica Marie Johnson, ["Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads"](https://doi.org/10.1215/01642472-7145658) _Social Text_, Vol. 36, No. 4 (2018). [Perusall]()
+- 📚 Jessica Marie Johnson, ["Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads"](https://doi.org/10.1215/01642472-7145658) _Social Text_, Vol. 36, No. 4 (2018). [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/johnson_markupbodies?assignmentId=GsKRPKSujGovpyPpF&part=1)
 
 <!-- - Anelise Hanson Shrout, [“(Re)Humanizing Data: Digitally Navigating the Bellevue Almshouse”](<https://crdh.rrchnm.org/essays/v01-10-(re)-humanizing-data/>) _Current Research in Digital History 2018_ [Perusall]()-->
 
