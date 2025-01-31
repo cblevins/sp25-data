@@ -72,7 +72,7 @@ In Class:
 
 Due this week:
 
-- 💡 Coding Homework 02 due Sunday 2/2
+- 💡 [Coding Homework 02]({{ "/assignments/homework-02" | relative_url }}) due Monday, 2/3
 
 ## DATA AND SLAVERY
 
