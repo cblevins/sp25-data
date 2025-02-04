@@ -82,7 +82,7 @@ Due this week:
 
 ### Tu. 2/4: Slavery & Capitalism
 
-- 📚 Optional: Watch [Crash Course US HistoryL Slavery](https://www.youtube.com/watch?v=Ajn9g5Gsv98) (14:24 min.) for a "big-picture" introduction to the topic of slavery in US history
+- 📚 Optional: Watch [Crash Course US History: Slavery](https://www.youtube.com/watch?v=Ajn9g5Gsv98) (14:24 min.) for a "big-picture" introduction to the topic of slavery in US history
 - 📚 Marc Parry, "Shackles and Dollars," _The Chronicle of Higher Education_, December 8, 2016. [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/parry-shackles-and-dollars?assignmentId=BZgGDe7m8qdkoZAcM&part=1)]
 - 📚 HIST 5212: Roundtable on Ed Baptist, _The Other Half Has Never Been Told_ in _Journal of Economic History_ (2015) [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/baptist-reviews-journal-economic-history-2015?assignmentId=r58Y9YBB3KYrQFJRe&part=1)]
 - 💻 Walsh, [String Methods](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/06-String-Methods.html)
@@ -90,7 +90,10 @@ Due this week:
 
 In Class:
 
-- [Working with Text in Python]({{site.baseurl}}/modules/working-with-text)
+- 🧑‍🏫 [Slides](https://docs.google.com/presentation/d/1oFOcE7sgRrsKW-kB5RSMvezzdpL9YpHPlKB5H1HTdjo/edit?usp=sharing)
+- Slavery & Capitalism discussion
+- Analysis of ["The Forced Migration of Enslaved People"](https://dsl.richmond.edu/panorama/forcedmigration/)
+- [💻 Working with Text in Python]({{site.baseurl}}/modules/working-with-text)
 
 ### Th. 2/6: Narratives vs. Numbers I
 
@@ -105,7 +108,7 @@ Due this week:
 
 ## Week 04
 
-### Tu. 2/11: Narratives vs. Numbers II | Portfolio Website
+### Tu. 2/11: Narratives vs. Numbers II | Building a Portfolio Website
 
 - 📚 Caitlin Rosenthal, "Slavery’s Scientific Management: Masters and Managers" in Sven Beckert and Seth Rockman, eds. _Slavery's Capitalism_ (2015). [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/rosenthal_slavery-s-scientific-management?assignmentId=gXkvsCWjuRG9w3xb9&part=1)]
 - 💻 Complete tutorial on Github Pages.

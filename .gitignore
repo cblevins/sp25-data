@@ -39,3 +39,8 @@ Thumbs.db
 # Jekyll stuff #
 ################
 _site/
+
+# Jupyter Notebook and Anaconda stuff #
+.ipynb_checkpoints
+.virtual_documents
+anaconda_projects
