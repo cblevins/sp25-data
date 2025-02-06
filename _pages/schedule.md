@@ -103,6 +103,7 @@ In Class:
 In Class:
 
 - [💻 Working with Text in Python]({{site.baseurl}}/modules/working-with-text)
+- [💻 Comparisons and Conditionals Practice]({{site.baseurl}}/modules/working-with-text)
 
 Due this week:
 
