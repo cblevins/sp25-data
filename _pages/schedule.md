@@ -97,14 +97,14 @@ In Class:
 
 ### Th. 2/6: Narratives vs. Numbers I
 
-- 🧑‍🏫 [Slides](https://docs.google.com/presentation/d/135KfKCTmHiBRESJtfTJRaAN8GK1U3Enny20k-HL5ca0/edit?usp=sharing)
 - 📚 Selections from Daina Ramey Berry, _The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave_ (2016) (selections) [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/berry-the-price-for-their-pound-of-flesh-introduction?assignmentId=Ei78J5LXH4QJvvahd&part=1)
 - 💻 Walsh, [Comparisons and Conditionals](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/08-Comparisons-Conditionals.html)
 
 In Class:
 
+- 🧑‍🏫 [Slides](https://docs.google.com/presentation/d/135KfKCTmHiBRESJtfTJRaAN8GK1U3Enny20k-HL5ca0/edit?usp=sharing)
 - [💻 Working with Text in Python]({{site.baseurl}}/modules/working-with-text)
-- [💻 Comparisons and Conditionals Practice]({{site.baseurl}}/modules/working-with-text)
+- [💻 Comparisons and Conditionals Practice]({{site.baseurl}}/modules/comparisons-conditionals)
 
 Due this week:
 
