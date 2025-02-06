@@ -102,6 +102,8 @@ In Class:
 
 In Class:
 
+- [💻 Working with Text in Python]({{site.baseurl}}/modules/working-with-text)
+
 Due this week:
 
 - 💡 Coding Homework 03 due Sunday
