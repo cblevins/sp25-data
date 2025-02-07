@@ -49,7 +49,8 @@ Today we'll be working with a single text: a narrative dictated by [Venture Smit
 - Check and see what's in your new variable by using the following code (don't worry if you don't understand it):
 
 ```python
-for
+for line in smith_lines:
+  print(line)
 ```
 
 - The [`len()`](https://www.w3schools.com/python/ref_func_len.asp) function tells you how long something is. In this case, we've created a variable called `smith_lines` containing a list of all the lines from Smith's narrative. Use `len()` and `smith_lines` to show the length of Smith's narrative in terms of the number of lines.

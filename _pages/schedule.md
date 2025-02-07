@@ -108,17 +108,17 @@ In Class:
 
 Due this week:
 
-- 💡 Coding Homework 03 due Sunday
+- 💡 [Coding Homework 03]({{ "/assignments/homework-03" | relative_url }}) due Monday 2/10
 
 ## Week 04
 
 ### Tu. 2/11: Narratives vs. Numbers II | Building a Portfolio Website
 
 - 📚 Caitlin Rosenthal, "Slavery’s Scientific Management: Masters and Managers" in Sven Beckert and Seth Rockman, eds. _Slavery's Capitalism_ (2015). [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/rosenthal_slavery-s-scientific-management?assignmentId=gXkvsCWjuRG9w3xb9&part=1)]
-- 💻 Complete tutorial on Github Pages.
 
 In Class:
 
+- [💻 Comparisons and Conditionals Practice]({{site.baseurl}}/modules/comparisons-conditionals)
 - Building a Portfolio Website
 
 ### Th. 2/13: Building a Portfolio Website
@@ -133,7 +133,7 @@ In Class:
 
 Due this week:
 
-- 💡 Coding Homework 04 due Sunday
+- 💡 Coding Homework 04 due Monday
 
 ## Week 05
 
@@ -186,7 +186,7 @@ In Class:
 
 Due this week:
 
-- 💡 Coding Homework 05 due Sunday - dictionaries and functions
+- 💡 Coding Homework 05 due Monday - dictionaries and functions
 - [🪞 Self-Assessment #1]() due Sun. 3/2
 
 ## Week 07
@@ -213,7 +213,7 @@ In Class:
 
 Due this week:
 
-- 💡 Coding Homework 06 due Sunday
+- 💡 Coding Homework 06 due Monday
 
 ## Week 08
 
@@ -235,7 +235,7 @@ In Class:
 
 Due this week:
 
-- 💡 Coding Homework 07 due Sunday
+- 💡 Coding Homework 07 due Monday
 
 ## Week 09
 
@@ -250,7 +250,7 @@ In Class:
 
 Due this week:
 
-- 💡 Coding Homework 08 due Sunday
+- 💡 Coding Homework 08 due Monday
 
 ### Th. 3/20: Catch-Up Day
 
@@ -297,7 +297,7 @@ In Class:
 
 Due this week:
 
-- 💡 Coding Homework 09 due Sunday
+- 💡 Coding Homework 09 due Monday
 - [🪞 Self-Assessment #2]() due Sun. 4/6
 
 ## Week 11
@@ -324,7 +324,7 @@ In Class:
 
 Due this week:
 
-- 💡 Coding Homework 10 due Sunday
+- 💡 Coding Homework 10 due Monday
 
 ## Week 12
 
