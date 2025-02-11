@@ -126,10 +126,13 @@ In Class:
 
 - Read the following data project (online, not on Perusall) and be prepared to analyze in class:
   - 📚 David Mora and Michelle Jia, ["Is the Love Song Dying?"](https://pudding.cool/2024/11/love-songs/) _The Pudding_ (11 November 2024).
+- [Lists and Loops Part 1](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/09-Lists-Loops-Part1.html) (Walsh)
+- [Lists and Loops Part 2](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/10-Lists-Loops-Part2.html) (Walsh)
 
 In Class:
 
 - Project review of "Is the Love Song Dying?"
+- Lists and Loops Practice
 - Building a Portfolio Website
 
 Due this week:
