@@ -112,14 +112,15 @@ Due this week:
 
 ## Week 04
 
-### Tu. 2/11: Narratives vs. Numbers II | Building a Portfolio Website
+### Tu. 2/11: Narratives vs. Numbers II | GitHub Pages
 
 - 📚 Caitlin Rosenthal, "Slavery’s Scientific Management: Masters and Managers" in Sven Beckert and Seth Rockman, eds. _Slavery's Capitalism_ (2015). [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/rosenthal_slavery-s-scientific-management?assignmentId=gXkvsCWjuRG9w3xb9&part=1)]
 
 In Class:
 
+- 🧑‍🏫 [Slides](https://docs.google.com/presentation/d/1aP_Die0r1Fx6v9wcqtNHm72FNqJqAHlGW7BmTU2bjOQ/edit?usp=sharing)
 - [💻 Comparisons and Conditionals Practice]({{site.baseurl}}/modules/comparisons-conditionals)
-- Building a Portfolio Website
+- [💻 GitHub Pages]({{site.baseurl}}/modules/github-pages)
 
 ### Th. 2/13: Building a Portfolio Website
 
