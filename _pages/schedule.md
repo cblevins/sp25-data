@@ -144,6 +144,7 @@ Due this week:
 ### Tu. 2/18: Bodies, Data, and Slavery's Archives
 
 - 📚 Jessica Marie Johnson, ["Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads"](https://doi.org/10.1215/01642472-7145658) _Social Text_, Vol. 36, No. 4 (2018). [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/johnson_markupbodies?assignmentId=GsKRPKSujGovpyPpF&part=1)
+- 📚 HIST 5261: Daniel Immerwahr, "Burning Down the House: Slavery and Arson in America," _Journal of American History_, vol. 110, no. 3 (December 2023): 449-473.
 
 <!-- - Anelise Hanson Shrout, [“(Re)Humanizing Data: Digitally Navigating the Bellevue Almshouse”](<https://crdh.rrchnm.org/essays/v01-10-(re)-humanizing-data/>) _Current Research in Digital History 2018_ [Perusall]()-->
 
