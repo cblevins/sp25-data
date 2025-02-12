@@ -38,7 +38,7 @@ The first step is going to be to create a new repository in your Github account 
 ```yaml
 title: My Example Site
 description: Learning how to use Jekyll and GitHub Pages
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/dinky@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 ```
@@ -51,7 +51,7 @@ plugins:
 
 ```markdown
 ---
-layout: home
+layout: defaut
 ---
 
 # Welcome to My Site!
@@ -114,7 +114,7 @@ You have content in here, but the last step to get a working website is to tell 
 
 ```markdown
 ---
-layout: page
+layout: default
 title: My Cat
 permalink: /cat/
 ---
@@ -130,28 +130,17 @@ Cats are so cool.
 
 You can easily change the theme of your Github Pages site to several "official" (or "supported") themes. These are fairly limited, but you can find a list here: <https://pages.github.com/themes/>.
 
+- We've been using the [Dinky theme](https://pages-themes.github.io/dinky/) (lol) which we specified in the `_config.yml` file with the line of code starting with `remote_theme`
 - To change the theme, you'll need to update the `_config.yml` file
 - Click `_config.yml` file in your repository then click on the pencil icon ✎ in the upper right to edit it.
-- To change the theme, you'll replace the line of code that starts with `remote_theme`
-- Let's try the [Dinky theme](https://pages-themes.github.io/dinky/) (lol) - replace the line of code with: `remote_theme: pages-themes/dinky@v0.2.0`.
-- Your file should now look like this:
-
-```yaml
-title: My Example Site
-description: Learning how to use Jekyll and GitHub Pages
-remote_theme: pages-themes/dinky@v0.2.0
-plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
-```
-
-- Check the Actions tab, wait until the page has been successfully built and deployed, then reload your website and see how the look and feel has changed (it will take a few minutes)
-- Change your website to one of the following themes:
-
-### Architect Theme ([Example](https://pages-themes.github.io/architect/))
+- Let's change it to the Architect Theme ([Example](https://pages-themes.github.io/architect/)) by changing the `remote_theme` line of code to:
 
 ```yaml
 remote_theme: pages-themes/architect@v0.2.0
 ```
+
+- Check the Actions tab, wait until the page has been successfully built and deployed, then reload your website and see how the look and feel has changed (it will take a few minutes)
+- Change your website to one of the following themes:
 
 ### Tactile Theme ([Example](https://pages-themes.github.io/tactile/))
 
