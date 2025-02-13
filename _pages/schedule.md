@@ -131,13 +131,14 @@ In Class:
 
 In Class:
 
-- Project review of "Is the Love Song Dying?"
-- Lists and Loops Practice
-- Building a Portfolio Website
+- 🧑‍🏫 [Slides](https://docs.google.com/presentation/d/1_kmwTsT5FFdDNWIh-yAGqHvOstOdpLHYb86wBKFlltk/edit?usp=sharing)
+- [💻 Building a Portfolio Site with Github Pages]({{site.baseurl}}/modules/portfolio-site)
+- [💻 Lists and Loops Practice]({{site.baseurl}}/modules/lists-loops)
 
 Due this week:
 
-- 💡 Coding Homework 04 due Monday
+- Email your instructor your choice of project for the [🔍 Project Review]({{site.baseurl}}/assignments/project-review) by Sun. 2/16
+- 💡 Coding Homework 04 due Monday 2/17
 
 ## Week 05
 

@@ -48,7 +48,7 @@ baseurl: "" # Remove the baseurl content since this will be your main site
   - `name`
   - `email`
   - `description`
-  - Under `social_links` -> change the Github `url`
+  - Under `social_links` -> change the Github `url` to your Github url. Optional: change the LinkedIn URL to your LinkedIn Page.
 
 ## Working With Pages
 
@@ -70,8 +70,7 @@ profile_image: /assets/img/profile.jpg # Add your image path here
 ---
 ```
 
-- These are variables that are telling Jekyll certain things about the page - ex. `layout` variable determines how the page should be formatted, while the `profile_image` points Jekyll towards the image file to use on the landing page (currently Albert Einstein)
-- You will eventually want to replace the current `profile.jpg` file in your repository (which you can find in the folders `assets` -> `img` )
+- These are variables that are telling Jekyll certain things about the page - ex. `layout` variable determines how the page should be formatted, while the `profile_image` points Jekyll towards the image file to use on the landing page (currently Albert Einstein - you'll change this eventually)
 
 ### Edit Your Homepage (index.md)
 
@@ -82,9 +81,18 @@ profile_image: /assets/img/profile.jpg # Add your image path here
 I'm [Your Name], a student at [Your University] studying [Your Field]. This portfolio showcases my work in HIST 4261/5261: Working With Data.
 ```
 
-### Edit Your Project Review (project-review.md)
+### Change Your Profile Picture (index.md)
 
-- The page `project-review.md` is a placeholder. You will edit this file to complete and submit your first major assignment of the semester (your project review).
+- Let's change the current profile photo that is defined in the YAML front matter:
+- Navigate to `assets` -> `img` within the Code section nof the Github repository and locate the `profile.jpg` file.
+- Let's add a second image file to this `img` folder that we're going ot use intsead for your profile. If you have a photo of yourself you want to add, upload it here nad name it `profile-1` (with whatever file type ending after it - ex. `profile-1.jpg` or `profile-1.png`)
+- If you don't have a photo of yourself you want to use, let's add a temporary placeholder image of the CU Denver logo. Download the logo from [this page](https://www.ucdenver.edu/images/default-source/global-theme-images/cu_logo.png), then upload the file into the `img` folder and rename it `profile-1.png`
+- Change the YAML front matter in `index.md` to change where it says `profile.jpg` to say `profile-1.png` (or .jpg or whatever file you chose)
+- Once Github has fininshed building and deploying your site, see if the image is updated!
+
+### Edit Your Project Review Page (project-review.md)
+
+- The page `project-review.md` (in the `_pages` folder) is an empty placeholder file. You will edit this file to complete and submit your first major assignment of the semester (your project review).
 - Look at the front matter and note the variable `date`.
 - If you look below the front matter at the content, you will see some text that is actually referencing the variable `date` (ie. `{{ page.date }}`)
 - Go to `https://yourusername.github.io/project-review` - notice how instead of printing `{{ page.date }}` it's printing the _value_ of that variable.
@@ -92,6 +100,8 @@ I'm [Your Name], a student at [Your University] studying [Your Field]. This port
 - Edit the content of the page (beneath the front matter) by adding the words "this is some more placeholder text" on a new line.
 - Commit your changes
 - Go to your repository's Actions tab, wait until it has finished deploying, then go to `https://yourusername.github.io/project-review` and see if your changes are getting rendered correctly.
+
+## Site Layout
 
 ## Troubleshooting
 
