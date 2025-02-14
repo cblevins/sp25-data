@@ -101,7 +101,31 @@ I'm [Your Name], a student at [Your University] studying [Your Field]. This port
 - Commit your changes
 - Go to your repository's Actions tab, wait until it has finished deploying, then go to `https://yourusername.github.io/project-review` and see if your changes are getting rendered correctly.
 
-## Site Layout
+## Site Layout and Navigation
+
+You'll want to make sure your site is easy and logical to navigate for a user. The main way they will do this is through the navigation links on the top of the page. To make modifications to these you'll change this part of the `_config.yml` file:
+
+```yaml
+navigation:
+  main:
+    - title: "About Me"
+      url: "/"
+    - title: "Portfolio"
+      url: "/portfolio/"
+    - title: "Another Website"
+      url: "https://cblevins.github.io/sp25-data/"
+```
+
+- Notice how each link has two variables: the `title` which is the text you want to show up on the top of your website that a user can click on, and the `url` which is a link to the actual page you want them to be able to navigate to
+- The last navigation link shows you how you can add a link to somewhere else (not just a page on your portfolio site). We don't actually need this.
+- To practice adding a new link, replace the last two lines of code with a link to your Project Review page:
+
+```yaml
+- title: "Project Review"
+  url: "/project-review/"
+```
+
+- This is just a temporary link that will allow your instructor to easily navigate to that page. Later in the semester we'll get rid of it
 
 ## Troubleshooting
 
