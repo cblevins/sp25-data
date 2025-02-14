@@ -58,7 +58,11 @@ To get you ready for your Project Review, you're going to practice inserting an 
   - Displays the image at 80% of the width of the page
 - You can reuse this code for your Project Review assignment, adjusting it to point towards the actual images you want to use.
 
-## Bonus Tasks for your Portfolio Site
+## Optional Bonus Tasks for your Portfolio Site
 
 - Add a brand new page to the site called "Skills". Make a list of either your existing technical skills or ones you hope to learn in this class. Add a link to the site's navigation bar that allows a user to navigate to this new page.
 - The theme we're using is able to display a variety of social media icons at the bottom of the site (the footer). [Here is a list](https://fontawesome.com/search?o=r&ip=brands) of all of them. See if you can figure out how to add an additional icon that's not already in the `_config.yml` file. Note: you can just use a fake URL if you don't want to link to a personal social media account.
+
+## Submission
+
+Submit a link to your portfolio homepage on Canvas.
