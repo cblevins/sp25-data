@@ -94,8 +94,7 @@ I'm [Your Name], a student at [Your University] studying [Your Field]. This port
 
 - The page `project-review.md` (in the `_pages` folder) is an empty placeholder file. You will edit this file to complete and submit your first major assignment of the semester (your project review).
 - Look at the front matter and note the variable `date`.
-- If you look below the front matter at the content, you will see some text that is actually referencing the variable `date` (ie. `{{ page.date }}`)
-- Go to `https://yourusername.github.io/project-review` - notice how instead of printing `{{ page.date }}` it's printing the _value_ of that variable.
+- If you look below the front matter at the content, you will see some text that is referencing the variable `date` defined in the front matter (it's doing so via some curly brackets surrounding `page.date`). Go to `https://yourusername.github.io/project-review` - notice how it's printing the _value_ of that variable.
 - Try changing the value of `date` to today's date.
 - Edit the content of the page (beneath the front matter) by adding the words "this is some more placeholder text" on a new line.
 - Commit your changes
