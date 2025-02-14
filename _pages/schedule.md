@@ -137,8 +137,8 @@ In Class:
 
 Due this week:
 
-- Email instructor your choice of project for the [🔍 Project Review]({{site.baseurl}}/assignments/project-review) by Sun. 2/16
-- 💡 Coding Homework 04 due Monday 2/17
+- ~~Email instructor your choice of project for the [🔍 Project Review]({{site.baseurl}}/assignments/project-review) by Sun. 2/16~~ Note: this assignment has been folded into your Coding Homework 04 for this week.
+- 💡 [Coding Homework 04]({{ "/assignments/homework-04" | relative_url }}) due Sunday 2/16
 
 ## Week 05
 
