@@ -115,9 +115,11 @@ navigation:
       url: "https://cblevins.github.io/sp25-data/"
 ```
 
-- Notice how each link has two variables: the `title` which is the text you want to show up on the top of your website that a user can click on, and the `url` which is a link to the actual page you want them to be able to navigate to
+- Notice how each link has two variables: the `title` which is the text you want to show up on the top of your website that a user can click on, and the `url` which is a link to the actual page you want them to be able to navigate to.
+- For pages on your site, instead of typing the full `https://yourusername.github.io/portfolio/` for the URL, you only need to add the last part of the URL to go to a specific page (ie. `/portfolio/`).
 - The last navigation link shows you how you can add a link to somewhere else (not just a page on your portfolio site). We don't actually need this.
-- To practice adding a new link, replace the last two lines of code with a link to your Project Review page:
+- Note: spaces matter - make sure all your lines in this section stay indented correctly!
+- To practice adding a new link, replace the last two lines of code (the "Another Website" one) with a link to your Project Review page:
 
 ```yaml
 - title: "Project Review"
@@ -125,6 +127,7 @@ navigation:
 ```
 
 - This is just a temporary link that will allow your instructor to easily navigate to that page. Later in the semester we'll get rid of it
+- Once the page has been buitl and deployed, go back to your portfolio site and see if there is a new link to the Project Review page
 
 ## Troubleshooting
 
