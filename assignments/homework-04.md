@@ -65,4 +65,4 @@ To get you ready for your Project Review, you're going to practice inserting an 
 
 ## Submission
 
-Submit a link to your portfolio homepage on Canvas.
+Submit a link to your portfolio homepage on [the Canvas assignment page](https://ucdenver.instructure.com/courses/552717/assignments/1916034).
