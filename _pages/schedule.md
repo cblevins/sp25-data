@@ -146,12 +146,13 @@ Due this week:
 
 - 📚 Jessica Marie Johnson, ["Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads"](https://doi.org/10.1215/01642472-7145658) _Social Text_, Vol. 36, No. 4 (2018). [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/johnson_markupbodies?assignmentId=GsKRPKSujGovpyPpF&part=1)
 - 📚 HIST 5261: Daniel Immerwahr, "Burning Down the House: Slavery and Arson in America," _Journal of American History_, vol. 110, no. 3 (December 2023): 449-473.
-
 <!-- - Anelise Hanson Shrout, [“(Re)Humanizing Data: Digitally Navigating the Bellevue Almshouse”](<https://crdh.rrchnm.org/essays/v01-10-(re)-humanizing-data/>) _Current Research in Digital History 2018_ [Perusall]()-->
 
 In Class:
 
-- [Transatlantic Slave Trade Database]({{site.baseurl}}/modules/transatlantic-slave-trade-database)
+- 🧑‍🏫 [Slides](https://docs.google.com/presentation/d/1OJJ2e6hEqQXtosBJHjS94IuOSO2GM8h9Zx2UG__yU7w/edit?usp=sharing)
+- [💻 Lists and Loops Practice]({{site.baseurl}}/modules/lists-loops)
+<!-- - [Transatlantic Slave Trade Database]({{site.baseurl}}/modules/transatlantic-slave-trade-database)-->
 
 ### Th. 2/20: Project Review Presentations
 
@@ -160,7 +161,7 @@ In Class:
 
 In Class:
 
-- Project reviews
+- Project review presentations
 
 Due this week:
 
@@ -168,7 +169,7 @@ Due this week:
 
 ## GOVERNMENT DATA
 
-<small>_In our next thematic topic of the semester, we'll be looking at the history of how the US government has collected and used data, primarily through the decennial census - and some of its implications._</small>
+<small>_In our next thematic topic of the semester, we'll be looking at the history of how the US government has collected and used data, primarily through the US Census._</small>
 
 ## Week 06
 
@@ -184,7 +185,7 @@ In Class:
 
 ### Th. 2/27: The US Census I | Dictionaries & Functions
 
-- “Chapter 4: The Census and Industrial America in the Gilded Age” in Margo Anderson, _The American Census: A Social History_ (pp. 86-114) [Perusall]()
+- “Chapter 4: The Census and Industrial America in the Gilded Age” in Margo Anderson, _The American Census: A Social History_ (pp. 86-114) [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/anderson-the-american-census-a-social-history?assignmentId=rq8A6dbqgis2feAYp&part=1)
 
 In Class:
 
@@ -199,7 +200,7 @@ Due this week:
 
 ### Tu. 3/4: The US Census II | Collecting Data
 
-- Annotate the following collection of posts from Dan Bouk's project _Census Stories_ [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/4C9wMqf4FZjBtRDxt):
+- Annotate the following collection of posts from Dan Bouk's project _Census Stories_ [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/standing-on-the-crater-of-a-volcano-or-census-stories-usa?assignmentId=jjiJeLZSXCMPTarcw&part=1):
   - ["Standing on the Crater of a Volcano"](https://censusstories.us/2020/07/27/disfranchisement.html)
   - ["Political Solutions to Imperfect Data"](https://censusstories.us/2020/09/20/rankin.html)
   - ["The Partners of Greenwich Village"](https://censusstories.us/2018/07/03/partners.html)

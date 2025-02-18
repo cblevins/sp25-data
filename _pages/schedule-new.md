@@ -8,6 +8,8 @@ classes: narrow
 layout: schedule
 ---
 
+[link text](https://talk.jekyllrb.com/t/how-can-i-ensure-my-links-open-in-a-new-tab/4318/3){:target="\_blank"}
+
 Refer to this page to see what we will be covering in each of our meetings and what you need to complete (readings, tutorials, homework, etc.) prior to the start of class. We will be using two unofficial "textbooks" this semester. Both of these are freely available online: Melanie Walsh, [_Introduction to Cultural Analytics & Python_](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) and Catherine D'Ignzaio and Lauren Klein, [_Data Feminism_](https://data-feminism.mitpress.mit.edu/).
 
 ## GETTING UP AND RUNNING
