@@ -41,4 +41,4 @@ Unlike the printed journal reviews, on your website you can and should take adva
 
 ### Submission
 
-Submit a URL link to your page on the Canvas assignment page.
+Submit a URL link to your page on [the Canvas assignment page](https://ucdenver.instructure.com/courses/552717/assignments/1919269).
