@@ -173,20 +173,22 @@ Due this week:
 
 ## Week 06
 
-### Tu. 2/25: Counting Things | Dictionaries & Functions
+### Tu. 2/25: Counting Things | Dictionaries
 
 - "Chapter 4: What Gets Counted Counts" in Catherine D'Ignazio and Lauren Klein, _Data Feminism_ (MIT Press, 2020) [Perusall]()
+- [Dictionaries](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/11-Dictionaries.html)
 
 In Class:
 
-- [Dictionaries](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/11-Dictionaries.html)
-- [Functions](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/12-Functions.html)
-- [Common Python Errors](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/13-Common-Python-Errors.html)
+- Lists vs. Dictionaties 
 
-### Th. 2/27: The US Census I | Dictionaries & Functions
+
+### Th. 2/27: The US Census I | Functions
 
 - “Chapter 4: The Census and Industrial America in the Gilded Age” in Margo Anderson, _The American Census: A Social History_ (pp. 86-114) [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/anderson-the-american-census-a-social-history?assignmentId=rq8A6dbqgis2feAYp&part=1)
-
+- [Functions](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/12-Functions.html)
+- [Common Python Errors](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/13-Common-Python-Errors.html)
+- 
 In Class:
 
 - [Dictionaries and Functions Practice]({{site.baseurl}}/modules/dictionaries-functions.ipynb) (Jupyter Notebook file)
