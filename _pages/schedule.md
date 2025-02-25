@@ -175,23 +175,22 @@ Due this week:
 
 ### Tu. 2/25: Counting Things | Dictionaries
 
-- "Chapter 4: What Gets Counted Counts" in Catherine D'Ignazio and Lauren Klein, _Data Feminism_ (MIT Press, 2020) [Perusall]()
+- 📚 "Chapter 4: What Gets Counted Counts" in Catherine D'Ignazio and Lauren Klein, _Data Feminism_ (MIT Press, 2020) [Perusall]()
 - [Dictionaries](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/11-Dictionaries.html)
 
 In Class:
 
-- Lists vs. Dictionaties 
-
+- [💻 Dictionaries Practice]({{site.baseurl}}/modules/dictionaries)
 
 ### Th. 2/27: The US Census I | Functions
 
-- “Chapter 4: The Census and Industrial America in the Gilded Age” in Margo Anderson, _The American Census: A Social History_ (pp. 86-114) [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/anderson-the-american-census-a-social-history?assignmentId=rq8A6dbqgis2feAYp&part=1)
+- 📚 “Chapter 4: The Census and Industrial America in the Gilded Age” in Margo Anderson, _The American Census: A Social History_ (pp. 86-114) [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/anderson-the-american-census-a-social-history?assignmentId=rq8A6dbqgis2feAYp&part=1)
 - [Functions](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/12-Functions.html)
 - [Common Python Errors](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/13-Common-Python-Errors.html)
-- 
+
 In Class:
 
-- [Dictionaries and Functions Practice]({{site.baseurl}}/modules/dictionaries-functions.ipynb) (Jupyter Notebook file)
+- [💻 Dictionaries and Functions Practice]({{site.baseurl}}/modules/dictionaries-functions.ipynb) (Jupyter Notebook file)
 
 Due this week:
 
@@ -200,9 +199,18 @@ Due this week:
 
 ## Week 07
 
-### Tu. 3/4: The US Census II | Collecting Data
+### Tu. 3/4: Tabular Data
 
-- Annotate the following collection of posts from Dan Bouk's project _Census Stories_ [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/standing-on-the-crater-of-a-volcano-or-census-stories-usa?assignmentId=jjiJeLZSXCMPTarcw&part=1):
+- Walsh, [Pandas Basics Part 1](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part1.html)
+
+In Class:
+
+- Structuring Datasets
+- 💻 Pandas Practice I
+
+### Th. 3/6: The US Census II
+
+- 📚 Annotate the following collection of posts from Dan Bouk's project _Census Stories_ [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/standing-on-the-crater-of-a-volcano-or-census-stories-usa?assignmentId=jjiJeLZSXCMPTarcw&part=1):
   - ["Standing on the Crater of a Volcano"](https://censusstories.us/2020/07/27/disfranchisement.html)
   - ["Political Solutions to Imperfect Data"](https://censusstories.us/2020/09/20/rankin.html)
   - ["The Partners of Greenwich Village"](https://censusstories.us/2018/07/03/partners.html)
@@ -210,15 +218,7 @@ Due this week:
 
 In Class:
 
-- Collecting data
-
-### Th. 3/6: Tabular Data and Spreadsheets
-
-- Reading TBD
-
-In Class:
-
-- Structuring datasets
+- Pandas Practice I
 
 Due this week:
 
@@ -227,8 +227,6 @@ Due this week:
 ## Week 08
 
 ### Tu. 3/11: Data Analysis / Pandas I
-
-- Walsh, [Pandas Basics Part 1](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part1.html)
 
 In Class:
 
