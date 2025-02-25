@@ -180,6 +180,7 @@ Due this week:
 
 In Class:
 
+- [📜 1930 Census Instructions]({{site.baseurl}}/assets/pdf/1930-census-instructions-excerpt.pdf)
 - [💻 Dictionaries Practice]({{site.baseurl}}/modules/dictionaries)
 
 ### Th. 2/27: The US Census I | Functions
