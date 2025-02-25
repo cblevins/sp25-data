@@ -180,6 +180,7 @@ Due this week:
 
 In Class:
 
+- 🧑‍🏫 [Slides](https://docs.google.com/presentation/d/12hAhcWWU-A36XMGDtgolj4teJeD4Nj5cvxM68UKxEf0/edit?usp=sharing)
 - [📜 1930 Census Instructions]({{site.baseurl}}/assets/pdf/1930-census-instructions-excerpt.pdf)
 - [💻 Dictionaries Practice]({{site.baseurl}}/modules/dictionaries)
 
