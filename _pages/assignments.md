@@ -65,7 +65,7 @@ _Due Sunday, 5/11 by 11:59PM_
 
 You will be writing three self-assessments in this class spread over the course of the semester. The first two self assessments are short, 2-3 paragraphs submitted on Canvas that should convey to me the areas of the class in which you've been doing well (with concrete examples), the areas of the class in which you could be doing better, and what steps you plan to take to address your weaknesses or achieve your learning goals for the remainder of the semester. The final self assessment is a longer, 2-3 page reflection on the semester as a whole that expands on what you accomplished (with concrete examples), any areas in which you struggled or wish you had done better, how you want to apply what you've learned in this class to your studies or career moving forward, and the overall grade that you feel you deserve for the class.
 
-[Self-Assessment #1]() due 3/2<br>
-[Self-Assessment #2]() due 4/6<br>
-[Self-Assessment #3]() Due 5/14
+[Self-Assessment #1](https://ucdenver.instructure.com/courses/552717/assignments/1920220) due 3/2<br>
+[Self-Assessment #2](https://ucdenver.instructure.com/courses/552717/assignments/1920221) due 4/6<br>
+[Self-Assessment #3](https://ucdenver.instructure.com/courses/552717/assignments/1920222) Due 5/14
 {: .notice--warning}

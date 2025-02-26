@@ -126,8 +126,8 @@ In Class:
 
 - Read the following data project (online, not on Perusall) and be prepared to analyze in class:
   - 📚 David Mora and Michelle Jia, ["Is the Love Song Dying?"](https://pudding.cool/2024/11/love-songs/) _The Pudding_ (11 November 2024).
-- [Lists and Loops Part 1](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/09-Lists-Loops-Part1.html) (Walsh)
-- [Lists and Loops Part 2](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/10-Lists-Loops-Part2.html) (Walsh)
+- 💻 Walsh, [Lists and Loops Part 1](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/09-Lists-Loops-Part1.html) (Walsh)
+- 💻 Walsh, [Lists and Loops Part 2](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/10-Lists-Loops-Part2.html) (Walsh)
 
 In Class:
 
@@ -187,40 +187,38 @@ In Class:
 ### Th. 2/27: The US Census I | Functions
 
 - 📚 “Chapter 4: The Census and Industrial America in the Gilded Age” in Margo Anderson, _The American Census: A Social History_ (pp. 86-114) [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/anderson-the-american-census-a-social-history?assignmentId=rq8A6dbqgis2feAYp&part=1)
-- [Functions](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/12-Functions.html)
-- [Common Python Errors](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/13-Common-Python-Errors.html)
+- 💻 Walsh, [Functions](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/12-Functions.html)
+- 💻 Walsh, [Common Python Errors](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/13-Common-Python-Errors.html)
 
 In Class:
 
-- [💻 Dictionaries and Functions Practice]({{site.baseurl}}/modules/dictionaries-functions.ipynb) (Jupyter Notebook file)
+- [💻 Dictionaries Practice]({{site.baseurl}}/modules/dictionaries)
+- [💻 Functions Practice]({{site.baseurl}}/modules/dictionaries-functions.ipynb) (Jupyter Notebook file)
 
 Due this week:
 
-- 💡 Coding Homework 05 due Monday - dictionaries and functions
-- [🪞 Self-Assessment #1]() due Sun. 3/2
+- 💡 Coding Homework 05 due Monday
+- [🪞 Self-Assessment #1](https://ucdenver.instructure.com/courses/552717/assignments/1920220) due Sun. 3/2
 
 ## Week 07
 
-### Tu. 3/4: Tabular Data
+### Tu. 3/4: The US Census II | Tabular Data
 
-- Walsh, [Pandas Basics Part 1](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part1.html)
+- 📚 Alec Barrett and TWO-N, "The Evolution of the American Census" _The Pudding_ (March 2020) - read the interactive online version, then annotate in [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/the-evolution-of-the-american-census?assignmentId=LzdenjrJuF7JxySrK&part=1)
+- 💻 Walsh, [Pandas Basics Part 1](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part1.html)
 
 In Class:
 
 - Structuring Datasets
 - 💻 Pandas Practice I
 
-### Th. 3/6: The US Census II
+### Th. 3/6: Data Analysis / Pandas I
 
-- 📚 Annotate the following collection of posts from Dan Bouk's project _Census Stories_ [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/standing-on-the-crater-of-a-volcano-or-census-stories-usa?assignmentId=jjiJeLZSXCMPTarcw&part=1):
-  - ["Standing on the Crater of a Volcano"](https://censusstories.us/2020/07/27/disfranchisement.html)
-  - ["Political Solutions to Imperfect Data"](https://censusstories.us/2020/09/20/rankin.html)
-  - ["The Partners of Greenwich Village"](https://censusstories.us/2018/07/03/partners.html)
-  - ["8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!"](https://censusstories.us/2018/10/29/Alaska-paths.html)
+- 📚 Amanda Regan and Eric Gonzaba, [Mapping the Gay Guides](https://www.mappingthegayguides.org/) - spend several minutes exploring this project's website, especially the [Map page](https://www.mappingthegayguides.org/viz/map/). Then add your annotations of the Home page and Methodology page in [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/home-or-mapping-the-gay-guides?assignmentId=GgRrcCzD3YY8ayA9Z&part=1).
 
 In Class:
 
-- Pandas Practice I
+- 💻 Pandas Practice I
 
 Due this week:
 
@@ -228,15 +226,22 @@ Due this week:
 
 ## Week 08
 
-### Tu. 3/11: Data Analysis / Pandas I
+### Tu. 3/11: The US Census III
+
+- 📚 Annotate the following collection of posts from Dan Bouk's project _Census Stories_ [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/standing-on-the-crater-of-a-volcano-or-census-stories-usa?assignmentId=jjiJeLZSXCMPTarcw&part=1):
+  - ["Standing on the Crater of a Volcano"](https://censusstories.us/2020/07/27/disfranchisement.html)
+  - ["Political Solutions to Imperfect Data"](https://censusstories.us/2020/09/20/rankin.html)
+  - ["The Partners of Greenwich Village"](https://censusstories.us/2018/07/03/partners.html)
+  - ["8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!"](https://censusstories.us/2018/10/29/Alaska-paths.html)
+- 📚 HIST 5212: Introduction to Dan Bouk, _Democracy's Data: The Hidden Stories in the U.S. Census and How to Read Them_ [Perusall]
 
 In Class:
 
-- [Pandas I Practice]({{site.baseurl}}/modules/pandas-1)
+- Pandas II
 
 ### Th. 3/13: Data Analysis / Pandas II
 
-- [Pandas Part 2](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/02-Pandas-Basics-Part2.html) (Walsh)
+- 💻 Walsh, [Pandas Basics Part 2](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/02-Pandas-Basics-Part2.html)
 
 In Class:
 
@@ -250,7 +255,7 @@ Due this week:
 
 ### Tu. 3/18: Surveillance & Privacy
 
-- Sarah Elizabeth _Igo, The Known Citizen: A History of Privacy in Modern America_, p. 57-71, 83-98, 221-223, 232-247. [[Perusall]()] Text Analysis
+- 📚 HIST 5212: Sarah Elizabeth _Igo, The Known Citizen: A History of Privacy in Modern America_, p. 57-71, 83-98, 221-223, 232-247. [[Perusall]()]
 - Walsh, [Pandas Part 3](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/03-Pandas-Basics-Part3.html)
 
 In Class:
@@ -307,7 +312,7 @@ In Class:
 Due this week:
 
 - 💡 Coding Homework 09 due Monday
-- [🪞 Self-Assessment #2]() due Sun. 4/6
+- [🪞 Self-Assessment #2](https://ucdenver.instructure.com/courses/552717/assignments/1920221) due Sun. 4/6
 
 ## Week 11
 
@@ -400,4 +405,4 @@ Due this week:
 Due this week:
 
 - 📊 Final Version of Research Project Due 5/14 by 11:59PM
-- 🪞 Self-Assessment #3 Due 5/14 by 11:59PM
+- [🪞 Self-Assessment #3](https://ucdenver.instructure.com/courses/552717/assignments/1920222) Due 5/14 by 11:59PM
