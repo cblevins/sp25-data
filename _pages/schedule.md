@@ -214,10 +214,11 @@ In Class:
 
 ### Th. 3/6: Data Analysis / Pandas I
 
-- 📚 Amanda Regan and Eric Gonzaba, [Mapping the Gay Guides](https://www.mappingthegayguides.org/) - spend several minutes exploring this project's website, especially the [Map page](https://www.mappingthegayguides.org/viz/map/). Then add your annotations of the Home page and Methodology page in [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/home-or-mapping-the-gay-guides?assignmentId=GgRrcCzD3YY8ayA9Z&part=1).
+- 📚 Amanda Regan and Eric Gonzaba, [Mapping the Gay Guides](https://www.mappingthegayguides.org/) - explore the project website, especially the [Map page](https://www.mappingthegayguides.org/viz/map/). Then annotate the Home page and Methodology page in [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/home-or-mapping-the-gay-guides?assignmentId=GgRrcCzD3YY8ayA9Z&part=1).
 
 In Class:
 
+- Data Biography Practice
 - 💻 Pandas Practice I
 
 Due this week:
@@ -226,7 +227,15 @@ Due this week:
 
 ## Week 08
 
-### Tu. 3/11: The US Census III
+### Tu. 3/11: Data Analysis / Pandas II
+
+- 💻 Walsh, [Pandas Basics Part 2](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/02-Pandas-Basics-Part2.html)
+
+In Class:
+
+- 💻 Pandas Practice II
+
+### Th. 3/13: The US Census III
 
 - 📚 Annotate the following collection of posts from Dan Bouk's project _Census Stories_ [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/standing-on-the-crater-of-a-volcano-or-census-stories-usa?assignmentId=jjiJeLZSXCMPTarcw&part=1):
   - ["Standing on the Crater of a Volcano"](https://censusstories.us/2020/07/27/disfranchisement.html)
@@ -237,15 +246,7 @@ Due this week:
 
 In Class:
 
-- Pandas II
-
-### Th. 3/13: Data Analysis / Pandas II
-
-- 💻 Walsh, [Pandas Basics Part 2](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/02-Pandas-Basics-Part2.html)
-
-In Class:
-
-- Pandas practice
+- 💻 Pandas Practice II
 
 Due this week:
 
