@@ -179,6 +179,10 @@ faculty_emails = {}
 
 # Loop through the faculty list
 for name in faculty_list:
+    #check and make sure it's not an empty or blank string - if it is, skip to the next item
+    if not name.strip():
+        continue
+
     # Generate email for this faculty member
     email = generate_email(name)
 
@@ -224,6 +228,8 @@ for name, email in faculty_emails.items():
 For the bonus, students should process the student file and create more complex dictionaries:
 
 ```python
+# Your bonus solution here
+
 # Read the student file
 student_file = open('history-department/history-students.txt', 'r').read()
 student_list = student_file.split('\n')
@@ -231,65 +237,22 @@ student_list = student_file.split('\n')
 # Create a dictionary for student emails
 student_emails = {}
 for name in student_list:
+    #check and make sure it's not an empty or blank string - if it is, skip to the next item
+    if not name.strip():
+        continue
     # Generate email for this student
     email = generate_email(name)
 
     # Add to dictionary with name as key and email as value
     student_emails[name] = email
 
-# Create a combined dictionary for both faculty and students
-all_emails = {**faculty_emails, **student_emails}  # Python 3.5+ dictionary unpacking
-print(f"Combined dictionary has {len(all_emails)} entries")
+combined_emails = {}
 
-# Create a nested dictionary with additional information
-detailed_directory = {}
-
-# Add faculty to the detailed directory
-for name in faculty_list:
-    detailed_directory[name] = {
-        "name": name,
-        "email": generate_email(name),
-        "status": "faculty"
-    }
-
-# Add students to the detailed directory
-for name in student_list:
-    detailed_directory[name] = {
-        "name": name,
-        "email": generate_email(name),
-        "status": "student"
-    }
-
-# Print a sample from the detailed directory
-for name, info in list(detailed_directory.items())[:5]:  # Just show first 5
-    print(f"{name}:")
-    for key, value in info.items():
-        print(f"  {key}: {value}")
-    print()
-
-# Create a combined dictionary for both faculty and students
-all_emails = {}
-# Add faculty emails
 for name, email in faculty_emails.items():
-    all_emails[name] = email
-# Add student emails
+    combined_emails[name]=email
 for name, email in student_emails.items():
-    all_emails[name] = email
-print(f"Combined dictionary has {len(all_emails)} entries")
+    combined_emails[name]=email
 
-# Expected output:
-# Combined dictionary has 25 entries
-#
-# Christopher Agee:
-#   name: Christopher Agee
-#   email: christopher.agee@ucdenver.edu
-#   status: faculty
-#
-# Cameron Blevins:
-#   name: Cameron Blevins
-#   email: cameron.blevins@ucdenver.edu
-#   status: faculty
-#
-# ...etc...
+combined_emails
 
 ```
