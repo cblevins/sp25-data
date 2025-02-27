@@ -193,11 +193,11 @@ In Class:
 In Class:
 
 - [💻 Dictionaries Practice]({{site.baseurl}}/modules/dictionaries)
-- [💻 Functions Practice]({{site.baseurl}}/modules/dictionaries-functions.ipynb) (Jupyter Notebook file)
+- 💻 Lists, Dictionaries, and Functions Practice - see Jupyter Notebook file in `week-06` folder of `sp25-data-materials`
 
 Due this week:
 
-- 💡 Coding Homework 05 due Monday
+- 💡 [Coding Homework 05]({{ "/assignments/homework-05" | relative_url }}) due Monday
 - [🪞 Self-Assessment #1](https://ucdenver.instructure.com/courses/552717/assignments/1920220) due Sun. 3/2
 
 ## Week 07
