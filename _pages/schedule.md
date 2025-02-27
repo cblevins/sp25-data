@@ -193,7 +193,7 @@ In Class:
 In Class:
 
 - [💻 Dictionaries Practice]({{site.baseurl}}/modules/dictionaries)
-- 💻 Lists, Dictionaries, and Functions Practice - see Jupyter Notebook file in `week-06` folder of `sp25-data-materials`
+- [💻 Lists, Dictionaries, and Functions Practice](https://github.com/cblevins/sp25-data-materials/blob/main/week-06/lists-dictionaries-functions.ipynb) - in `week-06` folder in `sp25-data-materials` repository
 
 Due this week:
 
