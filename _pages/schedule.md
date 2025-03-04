@@ -209,8 +209,8 @@ Due this week:
 
 In Class:
 
-- Structuring Datasets
-- 💻 Pandas Practice I
+- 🧑‍🏫 [Slides](https://docs.google.com/presentation/d/13grYD_8V9JRmlqYkM0HO-SHuaRi1WaJscToZoY08DKk/edit?usp=sharing)
+- Tabular Data
 
 ### Th. 3/6: Data Analysis / Pandas I
 
