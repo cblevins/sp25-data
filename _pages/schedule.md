@@ -212,7 +212,7 @@ In Class:
 - 🧑‍🏫 [Slides](https://docs.google.com/presentation/d/13grYD_8V9JRmlqYkM0HO-SHuaRi1WaJscToZoY08DKk/edit?usp=sharing)
 - Tabular Data
 
-### Th. 3/6: Data Analysis / Pandas I
+### Th. 3/6: Data Biography / Pandas I
 
 - 📚 Amanda Regan and Eric Gonzaba, [Mapping the Gay Guides](https://www.mappingthegayguides.org/) - explore the project website, especially the [Map page](https://www.mappingthegayguides.org/viz/map/). Then annotate the Home page and Methodology page in [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/home-or-mapping-the-gay-guides?assignmentId=GgRrcCzD3YY8ayA9Z&part=1).
 
