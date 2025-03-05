@@ -346,10 +346,26 @@ defaults:
       comments: false
       toc: true
       toc_sticky: true
+      classes: wide2
+  # _assignments collection
+  - scope:
+      path: ""
+      type: assignments
+    values:
+      layout: single
+      classes: wide2
+      author_profile: false
+      share: false
+      comments: false
+      toc: true
+      toc_sticky: true
       classes: wide2 
 
 # Collections
 collections:
   modules:
+    output: true
+    permalink: /:collection/:path/
+  assignments:
     output: true
     permalink: /:collection/:path/
