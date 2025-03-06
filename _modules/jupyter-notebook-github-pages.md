@@ -54,25 +54,27 @@ There are a few different ways to include images in a Jupyter Notebook.
 
 ## Rendering a Jupyter Notebook on Github Pages
 
-The issue with a Jupyter Notebook file is that it can be tricky to show on a website. If you want to showcase your notebook on your Github Pages site, you can follow these steps:
+The issue with a Jupyter Notebook file is that it can be a bit tricky to display on a website. If you want to showcase your notebook on your Github Pages site, you can follow these steps:
 
-- In Jupyter Lab, run all of the cells from start to finish so that they are outputting correctly
+- In Jupyter Lab, run all of the cells in your notebook from start to finish so that they are outputting correctly.
 - In Jupyter Lab, go to `File` -> `Save and Export Notebook As` -> `HTML` then save the HTML file inside the `_pages` folder, naming it the same as your Jupyter Notebook file (substituting `.html` at the end for `.ipynb`)
-  - This creates a "snapshot" of your Jupyter Notebook with all of its outputted cells, formatted as a static HTML file. If you double-click this file, you should see it opened up in web browser. This looks decent, but we're going to add some more code to make it make it show up as a page on your Github Pages portfolio site.
-- Use Github Desktop to push your changes to your Github repository on Github.com
+  - This creates a "snapshot" of your Jupyter Notebook with all of its outputted cells, formatted as a static HTML file. If you double-click this file on your computer and open it in a web browser, you should see the cells and their output. This looks decent, but we're going to add some more code to integrate the file as a page on your Github Pages portfolio site.
+- Use Github Desktop to push the changes from your local repository to your Github repository on Github.com
 - Navigate to your `username.github.io` repository on Github.com
-- Find your HTML file under the `_pages` folder. Click to edit the file and make changes.
-- Copy and paste the following code at the very top of your HTML file and make sure to change the `title`, `permalink`, `date`, and `description` fields:
+- Locate the newly created HTML file from your notebook under the `_pages` folder. Click the pencil icon to edit the file.
+- Copy and paste the following frontmatter at the very top of your HTML file, making sure to change the values for the `title`, `permalink` (change to something specific for your notebook), `date`, and `description` variables:
 
 ```yaml
 ---
 layout: notebook
-title: "Example Title You Can Change"
-permalink: /some-file/
+title: "Example Title You Will Change"
+permalink: /some-notebook/
 showcase: true
 tools: ["Python"]
-date: 2021-12-10
+date: 2025-01-01
 description: >
   This is an example of a Jupyter Notebook file rendered as a page on Github Pages.
 ---
 ```
+
+- You can check to see if the page is appearing correctly by going to `https://username.github.io/` + whatever you edited the `permalink` to in its frontmatter - ie. `https://username.github.io/some-notebook/`.

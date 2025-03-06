@@ -218,8 +218,8 @@ In Class:
 
 In Class:
 
-- Data Biography Practice
-- 💻 Pandas Practice I
+- 🧑‍🏫 [Slides](https://docs.google.com/presentation/d/1qmYLC-SnfevgQSM-QX6inFsiC-tFGZ1mAsxB6E0-qng/edit?usp=sharing)
+- 💻 [Pandas Practice I]({{ "/modules/pandas-1" | relative_url }})
 
 Due this week:
 
