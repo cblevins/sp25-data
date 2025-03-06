@@ -1,5 +1,5 @@
 ---
-title: Pandas 1
+title: Pandas Practice I
 ---
 
 First create a new directory within your class folder `working-with-data` called `pandas-1`. Launch Jupyter Labs and create a new Jupyter Notebook in that folder with the filename: `pandas-1.ipynb`.
