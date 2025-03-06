@@ -2,11 +2,20 @@
 title: Pandas Practice I
 ---
 
-First create a new directory within your class folder `working-with-data` called `pandas-1`. Launch Jupyter Labs and create a new Jupyter Notebook in that folder with the filename: `pandas-1.ipynb`.
+## Get Started
 
-We're going to be working with census data collected about Colorado counties from 1900-1950. Download [this CSV file]({{site.baseurl}}/modules/co-census-skinny.csv) and make sure it is in your `pandas-1` folder.
+- Open GitHub Desktop and select your course repository (`lastname-sp25-data-materials`)
+- Click `Fetch origin` to check for any changes
+- Go to Branch → `Merge into current branch` → select `upstream/main` and click `Create a merge commit` if there are updates
+- Click `Pull origin` if it's available (if not, you're up to date!)
+- Click `Push origin` to sync everything up
 
-To replicate best coding practices, you're going to use alternating Markdown and Code cells in your Jupyter Notebook. Copy and paste each of the following steps into a new Markdown cell that documents in your own words what you're doing in the following code cell. Then insert a new code cell and write your Python code that completes the task for that step.
+## Pandas Practice
+
+- Launch Jupyter Labs and navigate to this week's folder
+- Create a new Jupyter Notebook in this week's folder with the filename: `yourlastname-pandas-1.ipynb`.
+- We are going to be working with census data from the state of Colorado between 1900-1950. This is contained in the file: `co-census-skinny.csv`
+- Complete the following steps:
 
 1. Import the pandas library (`import pandas as pd`)
 2. Read in the contents of the CSV of Colorado census data and assign it to a variable `co_df` (ie. Colorado dataframe)
@@ -20,5 +29,5 @@ To replicate best coding practices, you're going to use alternating Markdown and
 
 _Bonus Practice_:
 
-- Save your line graph for Denver's population growth as a .png file
+- Save your line graph for Denver's population growth as a `.png` file
 - Export a new CSV file that just contains records for Denver (`denver_df`) - see [Walsh's example](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part1.html#:~:text=To%20output%20a%20new%20CSV%20file).
