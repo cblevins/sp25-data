@@ -84,7 +84,7 @@ Due this week:
 
 - 📚 Optional: Watch [Crash Course US History: Slavery](https://www.youtube.com/watch?v=Ajn9g5Gsv98) (14:24 min.) for a "big-picture" introduction to the topic of slavery in US history
 - 📚 Marc Parry, "Shackles and Dollars," _The Chronicle of Higher Education_, December 8, 2016. [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/parry-shackles-and-dollars?assignmentId=BZgGDe7m8qdkoZAcM&part=1)]
-- 📚 HIST 5212: Roundtable on Ed Baptist, _The Other Half Has Never Been Told_ in _Journal of Economic History_ (2015) [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/baptist-reviews-journal-economic-history-2015?assignmentId=r58Y9YBB3KYrQFJRe&part=1)]
+- 📚 HIST 5261: Roundtable on Ed Baptist, _The Other Half Has Never Been Told_ in _Journal of Economic History_ (2015) [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/baptist-reviews-journal-economic-history-2015?assignmentId=r58Y9YBB3KYrQFJRe&part=1)]
 - 💻 Walsh, [String Methods](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/06-String-Methods.html)
 - 💻 Walsh, [Files and Character Encoding](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/07-Files-Character-Encoding.html)
 
@@ -230,6 +230,7 @@ Due this week:
 ### Tu. 3/11: Data Analysis / Pandas II
 
 - 💻 Walsh, [Pandas Basics Part 2](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/02-Pandas-Basics-Part2.html)
+- 📚 HIST 5261: Christopher Groskopf, ["The Quartz Guide to Bad Data"](https://qz.com/572338/the-quartz-guide-to-bad-data) _Quartz_ (December 15, 2015) [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/the-quartz-guide-to-bad-data-106075527?assignmentId=FB9i78LpnJRmzztT6&part=1)]
 
 In Class:
 
@@ -237,12 +238,16 @@ In Class:
 
 ### Th. 3/13: The US Census III
 
+- 📚 Dan Bouk, _Democracy's Data: The Hidden Stories in the U.S. Census and How to Read Them_, Chapter 3: Partners [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/bouk-chapter-3-partners-compressed?assignmentId=fh62f38dEghmuj8SM&part=1)]
+- 📚 HIST 5261: Katie Rawson and Trevor Muñoz, “Against Cleaning” in Debates in Digital Humanities 2019 [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/web-page-98120366?assignmentId=ZvnKpDNx2mHAcvwn5&part=1)]
+
+<!--
 - 📚 Annotate the following collection of posts from Dan Bouk's project _Census Stories_ [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/standing-on-the-crater-of-a-volcano-or-census-stories-usa?assignmentId=jjiJeLZSXCMPTarcw&part=1):
   - ["Standing on the Crater of a Volcano"](https://censusstories.us/2020/07/27/disfranchisement.html)
   - ["Political Solutions to Imperfect Data"](https://censusstories.us/2020/09/20/rankin.html)
   - ["The Partners of Greenwich Village"](https://censusstories.us/2018/07/03/partners.html)
   - ["8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!"](https://censusstories.us/2018/10/29/Alaska-paths.html)
-- 📚 HIST 5212: Introduction to Dan Bouk, _Democracy's Data: The Hidden Stories in the U.S. Census and How to Read Them_ [Perusall]
+-->
 
 In Class:
 
@@ -256,7 +261,7 @@ Due this week:
 
 ### Tu. 3/18: Surveillance & Privacy
 
-- 📚 HIST 5212: Sarah Elizabeth _Igo, The Known Citizen: A History of Privacy in Modern America_, p. 57-71, 83-98, 221-223, 232-247. [[Perusall]()]
+- 📚 HIST 5261: Sarah Elizabeth _Igo, The Known Citizen: A History of Privacy in Modern America_, p. 57-71, 83-98, 221-223, 232-247. [[Perusall]()]
 - Walsh, [Pandas Part 3](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/03-Pandas-Basics-Part3.html)
 
 In Class:
