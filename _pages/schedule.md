@@ -234,12 +234,13 @@ Due this week:
 
 In Class:
 
-- 💻 Pandas Practice II
+- 💻 [Pandas Practice II]({{ "/modules/pandas-2" | relative_url }})
 
 ### Th. 3/13: The US Census III
 
 - 📚 Dan Bouk, _Democracy's Data: The Hidden Stories in the U.S. Census and How to Read Them_, Chapter 3: Partners [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/bouk-chapter-3-partners-compressed?assignmentId=fh62f38dEghmuj8SM&part=1)]
 - 📚 HIST 5261: Katie Rawson and Trevor Muñoz, “Against Cleaning” in Debates in Digital Humanities 2019 [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/web-page-98120366?assignmentId=ZvnKpDNx2mHAcvwn5&part=1)]
+- 💻 Walsh, [Pandas Basics Part 3](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/03-Pandas-Basics-Part3.html)
 
 <!--
 - 📚 Annotate the following collection of posts from Dan Bouk's project _Census Stories_ [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/standing-on-the-crater-of-a-volcano-or-census-stories-usa?assignmentId=jjiJeLZSXCMPTarcw&part=1):
@@ -251,7 +252,7 @@ In Class:
 
 In Class:
 
-- 💻 Pandas Practice II
+- 💻 Pandas Practice III
 
 Due this week:
 
@@ -261,10 +262,11 @@ Due this week:
 
 ### Tu. 3/18: Surveillance & Privacy
 
+- Reading TBD
+<!--
 - 📚 HIST 5261: Sarah Elizabeth _Igo, The Known Citizen: A History of Privacy in Modern America_, p. 57-71, 83-98, 221-223, 232-247. [[Perusall]()]
-- Walsh, [Pandas Part 3](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/03-Pandas-Basics-Part3.html)
-
-In Class:
+  -->
+  In Class:
 
 - [Pandas III Practice]({{site.baseurl}}/modules/pandas-3)
 
