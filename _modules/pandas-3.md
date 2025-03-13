@@ -23,7 +23,7 @@ To replicate best coding practices, you're going to use alternating Markdown and
 
 - Import the pandas library
 - Read in the contents of the CSV of Utah census data and assign it to a variable `utah_df` (ie. Utah dataframe)
-- Let's take a look at the contents of the dataframe. Since there are a lot of columns, copy and paste this code, which tells Python not to "truncate" the columns and instead show all of them: `pandas.set_option('display.max_columns', None)`. Then write a line of code to display a random sample of 12 rows from the dataframe.
+- Let's take a look at the contents of the dataframe. Since there are a lot of columns, copy and paste this code, which tells Python not to "truncate" the columns and instead show all of them: `pd.set_option('display.max_columns', None)`. Then write a line of code to display a random sample of 12 rows from the dataframe.
 
 ---
 
