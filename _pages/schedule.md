@@ -252,7 +252,8 @@ In Class:
 
 In Class:
 
-- 💻 Pandas Practice III
+- 🐼 [Pandas Concepts]({{ "/modules/pandas-concepts" | relative_url }})
+- 💻 [Pandas Practice III]({{ "/modules/pandas-3" | relative_url }})
 
 Due this week:
 
@@ -260,15 +261,17 @@ Due this week:
 
 ## Week 09
 
-### Tu. 3/18: Surveillance & Privacy
+### Tu. 3/18: Data Visualization I
 
-- Reading TBD
+- 📚 "Chapter 5: Visualizing with Clarity" from Nathan Yau, _Data Points: Visualization That Means Something_[[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/selection-from-data-points-visualizing-with-clarity?assignmentId=S9SWmBm2fEqooMv4n&part=1)]
+
 <!--
 - 📚 HIST 5261: Sarah Elizabeth _Igo, The Known Citizen: A History of Privacy in Modern America_, p. 57-71, 83-98, 221-223, 232-247. [[Perusall]()]
-  -->
-  In Class:
+-->
 
-- [Pandas III Practice]({{site.baseurl}}/modules/pandas-3)
+In Class:
+
+- 💻 Data Visualization I
 
 Due this week:
 
@@ -276,7 +279,7 @@ Due this week:
 
 ### Th. 3/20: Catch-Up Day
 
-- Reading TBD
+- Plotly Tutorial
 
 In Class:
 
@@ -298,10 +301,9 @@ Due this week:
 
 ## Week 10
 
-### Tu. 4/1: Corporate Data I | Data Visualization I
+### Tu. 4/1: Corporate Data I | Data Visualization II
 
 - 📚 Josh Lauer, "Plastic surveillance: Payment cards and the history of transactional data, 1888 to present" _Big Data & Society_ (2020) [[Perusall]]()
-- 📚 "Chapter 4: Data-Ink and Graphical Redesign" in Edward Tufte, _The Visual Display of Quantitative Information_ [Perusall]()
 
 In Class:
 
@@ -309,7 +311,7 @@ In Class:
   - Read Overview but skip the Getting Started section on installation and virtual environments and go directly to The Basics of Bokeh
   - Ignore parts that say to save or run new .py files - just create a single Jupyter Notebook and insert code into code cells.
 
-### Th. 4/3: Corporate Data II | Data Visualization II
+### Th. 4/3: Corporate Data II | Data Visualization III
 
 - 📚 “Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints” in _Data Feminism_ [[Perusall]]()
 
@@ -328,8 +330,7 @@ Due this week:
 
 - 📚 Margaret O'Mara, _The Code: Silicon Valley and the Remaking of America_ (2019), Chapter 5: The Money Men, p. 67-82. [[Perusall]]()
 - Walsh chapters on Mapping in Python:
-  - [Mapping Intro](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/00-Mapping.html)
-  - [Mapping and Geocoding](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/01-Mapping.html)
+  - [Making Interactive Maps](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/01-Mapping.html#making-interactive-maps)
   - [Custom Map Backgrounds](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/02-Custom-Maps.html)
 
 In Class:

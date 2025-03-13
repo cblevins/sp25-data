@@ -17,7 +17,7 @@ Each group will be assigned one dataset to analyze. Your goal is to explore the 
 - Click `Push origin` to sync everything up
 - Launch Jupyter Labs and navigate to this week's folder
 - You should see four `.csv` data files - each group will be assigned one of these datasets
-- Create a new Jupyter Notebook in this week's folder with the filename: `yourlastname-pandas-2.ipynb`
+- Create a new Jupyter Notebook in this week's folder with the filename: `yourlastname-pandas-3.ipynb`
 
 ## The Data
 
