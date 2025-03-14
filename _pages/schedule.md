@@ -257,7 +257,7 @@ In Class:
 
 Due this week:
 
-- 💡 Coding Homework 07 due Monday
+- 💡 [Coding Homework 07](https://ucdenver.instructure.com/courses/552717/assignments/1924958) due Monday
 
 ## Week 09
 
