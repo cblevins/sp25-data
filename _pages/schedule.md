@@ -263,7 +263,11 @@ Due this week:
 
 ### Tu. 3/18: Data Visualization I
 
-- 📚 "Chapter 5: Visualizing with Clarity" from Nathan Yau, _Data Points: Visualization That Means Something_[[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/selection-from-data-points-visualizing-with-clarity?assignmentId=S9SWmBm2fEqooMv4n&part=1)]
+- 📚 "Chapter 5: Visualizing with Clarity" from Nathan Yau, _Data Points: Visualization That Means Something_ [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/selection-from-data-points-visualizing-with-clarity?assignmentId=S9SWmBm2fEqooMv4n&part=1)]
+- Use Jupyter Labs to follow and recreate the code in the following YouTube tutorials.
+  - 💻 [Plotly 101 - Introduction, Basics and Data Packages Tutorial](https://www.youtube.com/watch?v=asz-AqzajA8&list=PLQIdXEwylGfewVt6I_YRoiOCqnAb2plV0) (can start at 1:35)
+  - 💻 [Plotly 101 - Plotly Express and Scatter Plots](https://www.youtube.com/watch?v=XFjuS-hZyv0&list=PLQIdXEwylGfewVt6I_YRoiOCqnAb2plV0&index=2)
+  - 💻 [Plotly 101 - Line Charts and How To Use Figure Reference](https://www.youtube.com/watch?v=f-W4Gr_TuXE&list=PLQIdXEwylGfewVt6I_YRoiOCqnAb2plV0)
 
 <!--
 - 📚 HIST 5261: Sarah Elizabeth _Igo, The Known Citizen: A History of Privacy in Modern America_, p. 57-71, 83-98, 221-223, 232-247. [[Perusall]()]
