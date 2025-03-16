@@ -24,7 +24,7 @@ In this assignment, you will write a "data biography" (I borrow this term from [
 
 ### The Dataset
 
-[This is the dataset](tbd) you will be examining. I am not providing you with any additional information about the dataset beyond the above link. You will need to put on your detective hats and try to familiarize yourself with the dataset and its history.
+[This is the dataset](https://www.historycolorado.org/kkkledgers) you will be examining. Note: you can find [a CSV version of the dataset](https://github.com/cblevins/sp25-data-materials/blob/main/data-biography/kkk-ledgers-index.csv) available under the `data-biography` folder in our sp25-class-materials repository. I am not providing you with any additional information about the dataset beyond the above link. You will need to put on your detective hats and try to familiarize yourself with the dataset and its history.
 
 ### Analyis and Writing
 
