@@ -279,15 +279,15 @@ In Class:
 - 💻 [Working With Jupyter Notebooks and Github Pages]({{ "/modules/jupyter-notebook-github-pages" | relative_url }})
 - 💻 Visualizing Data With Plotly
 
-Due this week:
-
-- 💡 Coding Homework 08 due Monday
-
 ### Th. 3/20: Catch-Up Day
+
+In Class:
 
 - Plotly Tutorial
 
-In Class:
+Due this week:
+
+- 💡 Coding Homework 08 due Monday
 
 ## Spring Break
 
