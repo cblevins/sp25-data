@@ -275,7 +275,9 @@ Due this week:
 
 In Class:
 
-- 💻 Data Visualization I
+- ✏️ [Data Visualization Principles](https://docs.google.com/document/d/1ExCnqSptqvUQ9opV6v6ZvR2mtxF912QoMi03ro95LTE/edit?usp=sharing)
+- 💻 [Working With Jupyter Notebooks and Github Pages]({{ "/modules/jupyter-notebook-github-pages" | relative_url }})
+- 💻 Visualizing Data With Plotly
 
 Due this week:
 

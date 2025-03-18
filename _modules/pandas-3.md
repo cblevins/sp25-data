@@ -41,7 +41,7 @@ To replicate best coding practices, you're going to use alternating Markdown and
 - Define a function called `birthyear_calc` to calculate the year an individual was born based on their `age` column and the year the census was recorded (`1880`) - note: this won't be perfect.
 - Add a new column called `birthyear` that is populated with the same values as the `age` column. These are placeholder values that we are about to change.
 - Use `apply` and your function `birthyear_calc` on the `birthyear` column to calculate new values for each person's birth year.
-- 10. Use the following code to change the `birthyear` column to an Integer data type rather than a Float (decimal): `utah_df['birthyear']=utah_df['birthyear'].astype('int64')`
-- 11. Use `groupby` to count the number of people living in Utah in 1880 who were born each year leading up to 1880. Assign this to a new variable `birthsbyyear`.
-- 12. Plot a time series graph of `birthsbyyear` to chart how many people were born each year.
-- 13. What explains the weird spikes in the graph?
+- Use the following code to change the `birthyear` column to an Integer data type rather than a Float (decimal): `utah_df['birthyear']=utah_df['birthyear'].astype('int64')`
+- Use `groupby` to count the number of people living in Utah in 1880 who were born each year leading up to 1880. Assign this to a new variable `birthsbyyear`.
+- Plot a time series graph of `birthsbyyear` to chart how many people were born each year.
+- What explains the weird spikes in the graph?
