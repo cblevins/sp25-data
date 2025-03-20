@@ -14,7 +14,7 @@ title: "Working With Data"
 title_separator: "|"
 subtitle: "HIST 4261/5261 (Spring 2025)" # site tagline that appears below site title in masthead
 name: "HIST 4261/5261: Working With Data"
-description: "Course Websitea"
+description: "Course Website"
 url: "https://cblevins.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "/sp25-data" # the subpath of your site, e.g. "/blog"
 repository: "cblevins/sp25-data" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
