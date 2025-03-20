@@ -277,17 +277,13 @@ In Class:
 
 - ✏️ [Data Visualization Principles](https://docs.google.com/document/d/1ExCnqSptqvUQ9opV6v6ZvR2mtxF912QoMi03ro95LTE/edit?usp=sharing)
 - 💻 [Working With Jupyter Notebooks and Github Pages]({{ "/modules/jupyter-notebook-github-pages" | relative_url }})
-- 💻 Visualizing Data With Plotly
 
 ### Th. 3/20: Catch-Up Day
 
 In Class:
 
-- Plotly Tutorial
-
-Due this week:
-
-- 💡 Coding Homework 08 due Monday
+- 💻 [Working With Jupyter Notebooks and Github Pages]({{ "/modules/jupyter-notebook-github-pages" | relative_url }})
+- 💻 [Introduction to Plotly]({{ "/modules/plotly-intro" | relative_url }})
 
 ## Spring Break
 
@@ -327,7 +323,7 @@ In Class:
 
 Due this week:
 
-- 💡 Coding Homework 09 due Monday
+- 💡 Coding Homework 08 due Monday
 - [🪞 Self-Assessment #2](https://ucdenver.instructure.com/courses/552717/assignments/1920221) due Sun. 4/6
 
 ## Week 11
@@ -353,7 +349,8 @@ In Class:
 
 Due this week:
 
-- 💡 Coding Homework 10 due Monday
+- 💡 Coding Homework 09 due Monday
+- 📊 Final Project Proposal Due Sunday, 4/13
 
 ## Week 12
 
@@ -369,10 +366,6 @@ Due this week:
 ### Th. 4/17: Artificial Intelligence II | Coding with Generative AI
 
 - Reading TBD
-
-Due this week:
-
-- 📊 Final Project Proposal Due Sunday, 4/20
 
 ## RESEARCH PROJECTS
 
