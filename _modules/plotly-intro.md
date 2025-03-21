@@ -10,6 +10,10 @@ We'll be using our now-familiar 1880 Utah Census data to explore various visuali
 
 ## Setup
 
+- Use Github Desktop to sync up the shared class repository
+- The Utah Census dataset can be found in your `week-09` folder `utah-census-1880.csv`
+- Create a new Jupyter Notebook file in the `week-09` folder called `plotly-intro.ipynb`
+
 First, let's import the libraries we'll need and load our dataset:
 
 ```python
@@ -21,7 +25,7 @@ import plotly.express as px
 pd.options.display.max_rows = 50
 
 # Load the Utah 1880 Census data
-utah_df = pd.read_csv('utahcensus1880.csv')
+utah_df = pd.read_csv('utah-census-1880.csv')
 ```
 
 Let's take a quick look at our data:
