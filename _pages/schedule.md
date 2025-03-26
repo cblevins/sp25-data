@@ -311,7 +311,7 @@ Due this week:
 ### Tu. 4/1: Corporate Data I
 
 - 📚 Josh Lauer, "Plastic surveillance: Payment cards and the history of transactional data, 1888 to present" _Big Data & Society_ (2020) [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/lauer_plastic-surveillance-payment-cards-and-the-history-of-transactional-data-1888-to-present?assignmentId=CD5QbXcDgQTyTREbv&part=1)]
-- 📚 HIST 5212: Jamie Pietruska, "The Case of the Competing Pinkertons: Managing Reputation Through the Paperwork and Bureaucracy of Surveillance" [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/pietruska-the-case-of-the-competing-pinkertons?assignmentId=zJQKMsBBBmL8Wcavf&part=1)]
+- 📚 HIST 5261: Jamie Pietruska, "The Case of the Competing Pinkertons: Managing Reputation Through the Paperwork and Bureaucracy of Surveillance" [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/pietruska-the-case-of-the-competing-pinkertons?assignmentId=zJQKMsBBBmL8Wcavf&part=1)]
 
 In Class:
 
