@@ -310,7 +310,8 @@ Due this week:
 
 ### Tu. 4/1: Corporate Data I
 
-- 📚 Jamie Pietruska, "The Case of the Competing Pinkertons: Managing Reputation Through the Paperwork and Bureaucracy of Surveillance" [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/pietruska-the-case-of-the-competing-pinkertons?assignmentId=zJQKMsBBBmL8Wcavf&part=1)]
+- 📚 Josh Lauer, "Plastic surveillance: Payment cards and the history of transactional data, 1888 to present" _Big Data & Society_ (2020) [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/lauer_plastic-surveillance-payment-cards-and-the-history-of-transactional-data-1888-to-present?assignmentId=CD5QbXcDgQTyTREbv&part=1)]
+- 📚 HIST 5212: Jamie Pietruska, "The Case of the Competing Pinkertons: Managing Reputation Through the Paperwork and Bureaucracy of Surveillance" [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/pietruska-the-case-of-the-competing-pinkertons?assignmentId=zJQKMsBBBmL8Wcavf&part=1)]
 
 In Class:
 
@@ -336,18 +337,13 @@ Due this week:
 
 ### Tu. 4/8: Corporate Data II | Mapping II
 
-- 📚 Josh Lauer, "Plastic surveillance: Payment cards and the history of transactional data, 1888 to present" _Big Data & Society_ (2020) [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/lauer_plastic-surveillance-payment-cards-and-the-history-of-transactional-data-1888-to-present?assignmentId=CD5QbXcDgQTyTREbv&part=1)]
+- 📚 Renée DiResta, "Computational Propaganda: If You Make It Trend, You Make It True" _The Yale Review_ 106: 12-29. <https://doi.org/10.1111/yrev.13402> [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/diresta-computational-propaganda?assignmentId=PgNkGQTXCjLJnb5Pe&part=1)]
 
 In Class:
 
 ### Th. 4/10: Corporate Data III | Mapping II
 
-- 📚 Renée DiResta, "Computational Propaganda: If You Make It Trend, You Make It True" _The Yale Review_ 106: 12-29. <https://doi.org/10.1111/yrev.13402> [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/diresta-computational-propaganda?assignmentId=PgNkGQTXCjLJnb5Pe&part=1)]
-- 📚 “Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints” in _Data Feminism_ [[Perusall]]()
-
-<!--
-- 📚 Jerome de Groot, ["Ancestry.com and the Evolving Nature of Historical Information Companies"](https://doi.org/10.1525/tph.2020.42.1.8) _The Public Historian_ (2020) [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/Z5Ha8tXPiie3dgHfR)
--->
+- 📚 Jerome de Groot, ["Ancestry.com and the Evolving Nature of Historical Information Companies"](https://doi.org/10.1525/tph.2020.42.1.8) _The Public Historian_ (2020) [Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/degroot_ancestry-com-and-the-evolving-nature-of-historical-information-companies?assignmentId=AtPhKCnYkMybxiv3p&part=1)
 
 In Class:
 
