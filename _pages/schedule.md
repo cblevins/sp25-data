@@ -271,6 +271,11 @@ Due this week:
 
 <!--
 - 📚 HIST 5261: Sarah Elizabeth _Igo, The Known Citizen: A History of Privacy in Modern America_, p. 57-71, 83-98, 221-223, 232-247. [[Perusall]()]
+- Charlie Harper, ["Visualizing Data with Bokeh and Pandas"](https://programminghistorian.org/en/lessons/visualizing-with-bokeh) _The Programming Historian_ (2018)
+  - Read Overview but skip the Getting Started section on installation and virtual environments and go directly to The Basics of Bokeh
+  - Ignore parts that say to save or run new .py files - just create a single Jupyter Notebook and insert code into code cells.
+-->
+
 -->
 
 In Class:
@@ -303,23 +308,24 @@ Due this week:
 
 ## Week 10
 
-### Tu. 4/1: Corporate Data I | Data Visualization II
+### Tu. 4/1: Corporate Data I
 
-- 📚 Josh Lauer, "Plastic surveillance: Payment cards and the history of transactional data, 1888 to present" _Big Data & Society_ (2020) [[Perusall]]()
-
-In Class:
-
-- Charlie Harper, ["Visualizing Data with Bokeh and Pandas"](https://programminghistorian.org/en/lessons/visualizing-with-bokeh) _The Programming Historian_ (2018)
-  - Read Overview but skip the Getting Started section on installation and virtual environments and go directly to The Basics of Bokeh
-  - Ignore parts that say to save or run new .py files - just create a single Jupyter Notebook and insert code into code cells.
-
-### Th. 4/3: Corporate Data II | Data Visualization III
-
-- 📚 “Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints” in _Data Feminism_ [[Perusall]]()
+- 📚 Jamie Pietruska, "The Case of the Competing Pinkertons: Managing Reputation Through the Paperwork and Bureaucracy of Surveillance" [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/pietruska-the-case-of-the-competing-pinkertons?assignmentId=zJQKMsBBBmL8Wcavf&part=1)]
 
 In Class:
 
-- TBD
+- Data Biography Debrief
+- Final Projects
+- 💻 [Plotly Practice]({{ "/modules/plotly-practice" | relative_url }})
+
+### Th. 4/3: Mapping I
+
+- 📚 Eric Deluca and Sara Nelson, "Lying with Maps" [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/lying-with-maps?assignmentId=gjBDKHZXgGm2KemhT&part=1)]
+- 💻 Walsh, [Making Interactive Maps](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/01-Mapping.html#making-interactive-maps) and [Custom Map Backgrounds](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/02-Custom-Maps.html)
+
+In Class:
+
+- Mapping in Python
 
 Due this week:
 
@@ -328,20 +334,20 @@ Due this week:
 
 ## Week 11
 
-### Tu. 4/8: Corporate Data III | Mapping I
+### Tu. 4/8: Corporate Data II | Mapping II
 
-- 📚 Margaret O'Mara, _The Code: Silicon Valley and the Remaking of America_ (2019), Chapter 5: The Money Men, p. 67-82. [[Perusall]]()
-- Walsh chapters on Mapping in Python:
-  - [Making Interactive Maps](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/01-Mapping.html#making-interactive-maps)
-  - [Custom Map Backgrounds](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/02-Custom-Maps.html)
+- 📚 Josh Lauer, "Plastic surveillance: Payment cards and the history of transactional data, 1888 to present" _Big Data & Society_ (2020) [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/lauer_plastic-surveillance-payment-cards-and-the-history-of-transactional-data-1888-to-present?assignmentId=CD5QbXcDgQTyTREbv&part=1)]
 
 In Class:
 
-- Class visit from [Diane Fritz](https://library.auraria.edu/about/staff-directory/diane-fritz), Geospatial Data Scientist at Auraria Library
+### Th. 4/10: Corporate Data III | Mapping II
 
-### Th. 4/10: Corporate Data IV | Mapping II
+- 📚 Renée DiResta, "Computational Propaganda: If You Make It Trend, You Make It True" _The Yale Review_ 106: 12-29. <https://doi.org/10.1111/yrev.13402> [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/diresta-computational-propaganda?assignmentId=PgNkGQTXCjLJnb5Pe&part=1)]
+- 📚 “Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints” in _Data Feminism_ [[Perusall]]()
 
+<!--
 - 📚 Jerome de Groot, ["Ancestry.com and the Evolving Nature of Historical Information Companies"](https://doi.org/10.1525/tph.2020.42.1.8) _The Public Historian_ (2020) [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/Z5Ha8tXPiie3dgHfR)
+-->
 
 In Class:
 
@@ -359,13 +365,9 @@ Due this week:
 - Reading on the history of Artificial Intelligence (TBD)
 - Lauren Tilton and Taylor Arnold, "Distant Viewing: Analyzing Large Visual Corpora" _Digital Scholarship in the Humanities_ (2019) [Perusall]()
 
-<!--
-- “Chapter 5: Unicorns, Janitors, Ninjas, Wizards, and Rock Stars” in _Data Feminism_ [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/a4khc2e3pQn7YzdCd)
--->
-
 ### Th. 4/17: Artificial Intelligence II | Coding with Generative AI
 
-- Reading TBD
+- 📚 Mark Humphries, ["Is this the Last Generation of Historians?"](https://generativehistory.substack.com/p/is-this-the-last-generation-of-historians) _Generative History_ (7 February 2025)
 
 ## RESEARCH PROJECTS
 
