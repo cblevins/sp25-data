@@ -316,7 +316,7 @@ Due this week:
 In Class:
 
 - Data Biography Debrief
-- Final Projects
+- Final Projects Overview
 - 💻 [Plotly Practice]({{ "/modules/plotly-practice" | relative_url }})
 
 ### Th. 4/3: Mapping I
