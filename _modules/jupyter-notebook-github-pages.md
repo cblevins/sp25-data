@@ -80,6 +80,8 @@ description: >
 - ⚠️ Make sure to change the values for the `title`, `permalink` (change to something specific for your notebook), `date`, and `description` variables. In particular, the `permalink` variable will determine for your notebook page - ie. `/some-notebook/` will create the URL: `yourusername.github.io/some-notebook/`.
 - When you commit your changes, wait for Github Pages to build and deploy your site then check to see if the page is appearing correctly by going to `https://username.github.io/` + whatever you edited the `permalink` to in its frontmatter - ie. `https://username.github.io/some-notebook/`.
 
+> ⚠️ Note: you can also edit an HTML file directly on your computer using a text editor or in Jupyter Lab - right-click on the file in Jupyter Lab -> Open With -> Editor to make your changes.
+
 ## Updating Your Notebook on Github Pages
 
 The annoying part of this workflow is that if you want to update or change anything on your page you will need to redo the last several steps by hand (ie. updating the HTML file and adding the YAML frontmatter). Follow these instructions for making changes:
@@ -89,7 +91,7 @@ The annoying part of this workflow is that if you want to update or change anyth
 - Export an updated HTML file into your `_pages` folder but **name it something different**. You can add `-temporary` to the end of it (ex. `some-notebook-temporary.html`). You should now have two HTML files in the `_pages` folder.
 - Use Github Desktop to write a commit message, click `Commit to main` and then `Push origin` to get the changes from your local repository to your Github repository on Github.com
 - Open your repository on Github.com, navigate to the `_pages` folder and make sure you now have two HTML files (ie. `some-notebook.html` and `some-notebook-temporary.html`).
-- Click the newer HTML file you just created (ex. `some-notebook-temporary.html`) and click the copy icon <i class="fa-solid fa-copy"></i> to copy the entire contents of the fil
+- Click the newer HTML file you just created (ex. `some-notebook-temporary.html`) and click the copy icon <i class="fa-solid fa-copy"></i> to copy the entire contents of the file
 - Open the older HTML file (ex. `some-notebook.html`), click the pencil icon <i class="fa-solid fa-copy"></i> to edit it:
   - Delete everything BENEATH the YAML frontmatter - ie. keep everything from `---` to `---` but delete everything else.
   - A keyboard shortcut to select all of this code without needing to select and scroll with your mouse is to click so your cursor is at the very beginning of the text you want to delete then:
@@ -102,6 +104,8 @@ The annoying part of this workflow is that if you want to update or change anyth
   - Click the button with the three dots in the upper right then choose -> `Delete file` and
   - Click green `Commit changes` button
 - Open Github Desktop click `Fetch Origin` then `Pull origin` to update your local folder to reflect these changes
+
+> ⚠️ Note: you can also edit an HTML file directly on your computer using a text editor or in Jupyter Lab - right-click on the file in Jupyter Lab -> Open With -> Editor to make your changes.
 
 ## Using Plotly with Jupyter Notebooks and Github Pages
 
