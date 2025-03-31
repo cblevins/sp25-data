@@ -102,3 +102,28 @@ The annoying part of this workflow is that if you want to update or change anyth
   - Click the button with the three dots in the upper right then choose -> `Delete file` and
   - Click green `Commit changes` button
 - Open Github Desktop click `Fetch Origin` then `Pull origin` to update your local folder to reflect these changes
+
+## Using Plotly with Jupyter Notebooks and Github Pages
+
+If you are using Plotly to generate figures in Jupyter Notebooks, there is an additional step you will need to take to make sure that the charts and images are rendering properly in your HTML file with full interactivity.
+
+First, make sure you have an updated version of the original repository that you forked for your portfolio site (ie. `https://github.com/cblevins/sp25-data-portfolio`). To do this:
+
+- Open Github Desktop and make sure you have selcted your portfolio repository ( `yourusername.github.io`)
+- Click on "Fetch origin"
+- Click on "Branch" in the top menu
+- Select "Merge into current branch..."
+- In the "Merge into current branch" dialog, switch to Other Branches -> "upstream/main" remote using the dropdown menu
+- Click "Create a merge commit"
+- If it says there is a conflict, in the new dialog box click the dropdown arrow next to 'Open in ' and click "Use the modified file from upstream/main"
+- If it says there are changes, add a commit message and click "Commit to main"
+- Click "Push origin"
+
+Second, you'll want to add the following code at the beginning of your Jupyter Notebook (you can do this in the same code block where you import other libraries).
+
+```python
+import plotly.io as pio
+import plotly.offline as pyo
+pio.renderers.default = "jupyterlab"
+pyo.init_notebook_mode(connected=True)
+```
