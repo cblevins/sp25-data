@@ -316,7 +316,7 @@ Due this week:
 In Class:
 
 - Data Biography Debrief
-- Final Projects Overview
+- [Research Project]({{ "/assignments/final-project" | relative_url }}) Overview
 - 💻 [Plotly Practice]({{ "/modules/plotly-practice" | relative_url }})
 
 ### Th. 4/3: Mapping I
@@ -352,7 +352,7 @@ In Class:
 Due this week:
 
 - 💡 Coding Homework 09 due Monday
-- 📊 Final Project Proposal Due Sunday, 4/13
+- 📊 [Research Project Proposal]({{ "/assignments/research-project" | relative_url }}) Due Sunday, 4/13
 
 ## Week 12
 
@@ -403,12 +403,18 @@ Due this week:
 
 ### Tu. 5/6: Final Project Presentation
 
-- Prepare a 5-minute presentation on the draft of your research project
-- 📊 Rough Draft of Research Project Due by beginning of class
+- 📊 Rough Draft of Research Project due Mon. 5/5 by 11:59PM
+- Prepare a **5-minute presentation** on the draft of your research project
 
 ### Th. 5/8: Wrapping Up
 
 Due this week:
 
-- 📊 Final Version of Research Project Due 5/14 by 11:59PM
-- [🪞 Self-Assessment #3](https://ucdenver.instructure.com/courses/552717/assignments/1920222) Due 5/14 by 11:59PM
+- 📊 Peer Review of Research Project Draft due Thurs. 5/8 by 11:59PM
+
+## Finals Week
+
+Due this week:
+
+- 📊 Research Project Final due Thurs. 5/15 by 11:59PM
+- [🪞 Self-Assessment #3](https://ucdenver.instructure.com/courses/552717/assignments/1920222) due Thurs. 5/15 by 11:59PM
