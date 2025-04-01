@@ -316,7 +316,7 @@ Due this week:
 In Class:
 
 - 🧑‍🏫 [Slides](https://docs.google.com/presentation/d/18hQvtfaHWlFbieJr9sNV1_goMY2Pu83HjqU7GM53xDg/edit?usp=sharing)
-- [Research Project]({{ "/assignments/final-project" | relative_url }}) Overview
+- [Overview of Research Project]({{ "/assignments/final-project" | relative_url }})
 - [Troubleshooting Plotly and Github Pages]({{ "/modules/jupyter-notebook-github-pages" | relative_url }})
 - 💻 [Cleaning Excel Files]({{ "/modules/excel-cleaning" | relative_url }})
 
