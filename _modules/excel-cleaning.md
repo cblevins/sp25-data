@@ -4,6 +4,10 @@ title: Cleaning Excel Files
 
 This tutorial will go through opening an Excel file and some common ways you might need to clean data.
 
+## Get the Data
+
+The data we will be working with is a file in our shared class repository: `university_data.xlsx`
+
 ## Initial Data Examination
 
 This initial step is crucial because it gives you your first look at the data structure. You need to understand how many rows and columns you're working with as a starting point. The `shape` attribute tells you exactly that, while the `head()` method shows you the first few rows so you can see actual values and get a feel for what kind of data you're dealing with. This helps you identify obvious issues immediately and plan your cleaning approach.
