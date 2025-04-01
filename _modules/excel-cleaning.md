@@ -1,229 +1,149 @@
 ---
-title: Working With and Cleaning Excel Files
+title: Cleaning Excel Files
 ---
 
-## Introduction
+This tutorial will go through opening an Excel file and some common ways you might need to clean data.
 
-Excel files often contain messy, inconsistent data spread across multiple sheets. This tutorial will guide you through common data cleaning tasks using Python's pandas library.
+## Initial Data Examination
 
-## Loading the Excel File
+This initial step is crucial because it gives you your first look at the data structure. You need to understand how many rows and columns you're working with as a starting point. The `shape` attribute tells you exactly that, while the `head()` method shows you the first few rows so you can see actual values and get a feel for what kind of data you're dealing with. This helps you identify obvious issues immediately and plan your cleaning approach.
 
-**Problem**: We need to access all sheets in our Excel workbook.
-**Solution**: Use pandas' `read_excel()` function with `sheet_name=None` to load all sheets into a dictionary.
-
-### Examining the Sheets and Their Data
-
-**Problem**: We need to understand what data is in each sheet.
-**Solution**: Create a loop to display the names of all sheets and preview each sheet's data.
-
-### Correcting Data Types
-
-**Problem**: Excel sometimes imports numeric data as strings or objects.
-**Solution**: Use `df.dtypes` to check column types, then `pd.to_numeric()` to convert columns to appropriate numeric types.
-
-### 5. Handling Inconsistent Text Data
-
-**Problem**: Text data may contain inconsistent capitalization, extra spaces, etc.
-**Solution**: Use string methods like `.str.strip()`, `.str.lower()`, or `.str.replace()` to clean text fields.
-
-### 6. Removing Duplicate Records
-
-**Problem**: Datasets might contain duplicate entries.
-**Solution**: Use `df.duplicated()` to identify duplicates and `df.drop_duplicates()` to remove them.
-
-### 7. Filtering and Sorting Data
-
-**Problem**: We may need to focus on specific subsets of the data.
-**Solution**: Use boolean indexing for filtering and `df.sort_values()` for sorting.
-
-### 8. Merging Data from Multiple Sheets
-
-**Problem**: Related data might be split across different sheets.
-**Solution**: Use `pd.merge()` or `pd.concat()` to combine data from different sheets.
-
-### 9. Handling Date and Time Data
-
-**Problem**: Date formats in Excel can be inconsistent.
-**Solution**: Use `pd.to_datetime()` to convert columns to datetime format.
-
-### 10. Creating Summary Statistics
-
-**Problem**: We need insights from our cleaned data.
-**Solution**: Use methods like `df.describe()`, `df.groupby()`, or `df.pivot_table()` to summarize data.
-
-### 11. Exporting Clean Data
-
-**Problem**: After cleaning, we need to save our work.
-**Solution**: Use `df.to_excel()` or `df.to_csv()` to export the cleaned dataset.
-
-# Cleaning Messy Excel Data
-
-## Setup and Installation
-
-First, let's import the necessary libraries:
+### Load the data and explore basic information
 
 ```python
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
+
+# Load both sheets
+enrollment_df = pd.read_excel('university_data.xlsx', sheet_name='Enrollment')
+tuition_df = pd.read_excel('university_data.xlsx', sheet_name='Tuition')
+
+# View basic information
+print(enrollment_df.shape)  # Check number of rows and columns
+print(tuition_df.shape)
+
+# Preview the data
+print(enrollment_df.head())
+print(tuition_df.head())
 ```
 
-## 1. Loading the Excel File
+### Check column names and data types
 
-We'll load all sheets from our Excel file into a dictionary:
-
-```python
-# Load all sheets into a dictionary
-excel_file = 'university_data.xlsx'
-all_sheets = pd.read_excel(excel_file, sheet_name=None)
-
-# Print the names of all sheets
-print("Sheets in the workbook:")
-for sheet_name in all_sheets.keys():
-    print(f"- {sheet_name}")
-```
-
-## 2. Examining the Sheets and Their Data
-
-Let's look at each sheet to understand the data:
+Understanding column names and data types is essential because inconsistent naming conventions can cause problems when merging datasets later. You want to ensure numerical columns are actually stored as numbers (not strings), which affects calculations you might need to perform. Incorrect data types can lead to unexpected behavior in your analysis - for example, if enrollment numbers were stored as strings, you couldn't calculate averages correctly.
 
 ```python
-# Loop through each sheet and display basic info
-for sheet_name, df in all_sheets.items():
-    print(f"\n\nSheet: {sheet_name}")
-    print(f"Shape: {df.shape}")
-    print("\nFirst 5 rows:")
-    print(df.head())
-    print("\nColumn names:")
-    print(df.columns.tolist())
-    print("\nData types:")
-    print(df.dtypes)
-```
+# Examine column names
+print(enrollment_df.columns)
+print(tuition_df.columns)
 
-## 4. Correcting Data Types
-
-Let's check and fix data types:
-
-```python
 # Check data types
-print("Current data types:")
-print(df.dtypes)
-
-# Example: Convert a column that should be numeric
-# Assume 'column_name' should be numeric
-# df['column_name'] = pd.to_numeric(df['column_name'], errors='coerce')
-
-# After conversion, check again
-# print("\nData types after conversion:")
-# print(df.dtypes)
+print(enrollment_df.dtypes)
+print(tuition_df.dtypes)
 ```
 
-## 5. Handling Inconsistent Text Data
+### Check for duplicates
 
-Let's clean up text data:
+Duplicate entries can significantly skew your analysis results. For instance, if Harvard appears twice in the dataset with the same values, any aggregations like averages or sums would be incorrectly weighted. You need to identify these duplicates to decide whether they're actual errors that need to be removed or legitimate repeats.
 
 ```python
-# Example: Clean up a text column
-# Assume 'text_column' needs cleaning
-# df['text_column'] = df['text_column'].str.strip().str.lower()
+# Check for duplicate rows in the enrollment dataframe
+print(enrollment_df.duplicated())
+print("Duplicate rows in enrollment data:")
+print(enrollment_df[enrollment_df.duplicated()])
 
-# Example: Replace specific text
-# df['text_column'] = df['text_column'].str.replace(' ', '_')
 
-# Display the cleaned column
-# print(df['text_column'].head())
+# Check for duplicate rows in the tuition dataframe
+print(tuition_df.duplicated())
+print("Duplicate rows in tuition data:")
+print(tuition_df[tuition_df.duplicated()])
 ```
 
-## 6. Removing Duplicate Records
+### Check for unique values across all columns
 
-Identify and remove any duplicate records:
+Examining unique values helps you identify inconsistencies within each column. For university names, you might find variations like "Harvard," "harvard university," and "Harvard University" that all refer to the same institution. For numerical columns, unusual values might indicate outliers or data entry errors. This step is particularly important for categorical data where consistency is key for proper grouping and analysis.
 
 ```python
-# Check for duplicates
-print(f"Number of duplicate rows: {df.duplicated().sum()}")
+# Check unique values in all columns
+for column in enrollment_df.columns:
+    print(f"Column: {column}")
+    print(enrollment_df[column].unique())
+    print("---")
 
-# Remove duplicates
-df_no_dupes = df.drop_duplicates()
-print(f"Shape after removing duplicates: {df_no_dupes.shape}")
+for column in tuition_df.columns:
+    print(f"Column: {column}")
+    print(tuition_df[column].unique())
+    print("---")
 ```
 
-## 7. Filtering and Sorting Data
+## Identifying Common Data Issues
 
-Filter and sort the data:
+Based on analysis, these are likely issues that need cleaning:
+
+**Inconsistent university naming**:
+
+- Case inconsistencies (lowercase vs. title case)
+- Extra whitespace in university names
+- Same universities might be written differently between sheets
+
+**Inconsistent column naming**:
+
+- "University" vs "university" (capitalization differences)
+- Extra spaces in column names (e.g., `International  students`)
+- Inconsistent formatting ("Average_financial_aid")
+
+**Duplicate records**:
+
+- The Enrollment sheet has duplicate rows
+
+## Data Cleaning Steps using Pandas
+
+Cleaning column names is a fundamental preprocessing step because inconsistent naming makes your code more error-prone and harder to read. By standardizing names (making everything lowercase, replacing spaces with underscores), you create a consistent naming pattern that's easier to work with in code. This is especially important when you have to reference columns repeatedly in your analysis. Additionally, standardizing names between dataframes ensures that when you merge them later, the columns will align properly.
 
 ```python
-# Example: Filter rows where a column meets a condition
-# filtered_df = df[df['column_name'] > 50]
-# print(f"Shape after filtering: {filtered_df.shape}")
+# Strip whitespace, standardize case, replace multiple spaces in column names
+enrollment_df.columns = [col.strip().lower().replace('   ', '_').replace(' ', '_') for col in enrollment_df.columns]
+tuition_df.columns = [col.strip().lower().replace('_', '').replace(' ', '_') for col in tuition_df.columns]
 
-# Example: Sort by a column
-# sorted_df = df.sort_values('column_name', ascending=False)
-# print("Top 5 rows after sorting:")
-# print(sorted_df.head())
+print(enrollment_df.columns)
+print(tuition_df.columns)
 ```
 
-## 8. Merging Data from Multiple Sheets
-
-Combine data from different sheets:
+The `university` column is our main identifier for the dataset, so cleaning them is critical. Inconsistent capitalization (Harvard vs. harvard) and extra whitespace ("MIT " vs "MIT") would prevent proper matching when merging data. By standardizing case and removing whitespace, you ensure that "Harvard University" and "harvard university " will be treated as the same entity. This step is crucial for data integrity and allows for accurate analysis across multiple datasets.
 
 ```python
-# Example: Merge two dataframes (sheets) on a common column
-# Assuming two sheets have a common column 'id':
-# sheet1 = all_sheets['Sheet1']
-# sheet2 = all_sheets['Sheet2']
-# merged_df = pd.merge(sheet1, sheet2, on='id', how='inner')
-# print(f"Shape of merged dataframe: {merged_df.shape}")
+# Strip whitespace and standardize case for univeresity names
+enrollment_df['university'] = enrollment_df['university'].str.strip().str.title()
+tuition_df['university'] = tuition_df['university'].str.strip().str.title()
+
+# note what happens to UC Berkeley with the title() function...
+
+print(enrollment_df['university'])
+print(tuition_df['university'])
 ```
 
-## 9. Handling Date and Time Data
-
-Process date/time columns:
+Finally, looking for duplicate values ensures that each university appears only once in your dataset. Duplicate entries can significantly distort your analysis - for example, if Harvard appears twice with the same enrollment numbers, your total student count would be inflated. In educational data analysis, each institution should typically have one record per time period. The drop_duplicates() method efficiently removes these redundant entries, resulting in a cleaner dataset that will produce more accurate statistics.
 
 ```python
-# Example: Convert a column to datetime
-# df['date_column'] = pd.to_datetime(df['date_column'], errors='coerce')
-# print(df['date_column'].head())
-
-# Example: Extract components from datetime
-# df['year'] = df['date_column'].dt.year
-# df['month'] = df['date_column'].dt.month
-# print(df[['date_column', 'year', 'month']].head())
+# Remove duplicate rows based on a column
+enrollment_df = enrollment_df.drop_duplicates(subset=['university'])
 ```
 
-## 10. Creating Summary Statistics
+## Merging the Two Sheets
 
-Generate insights from the data:
+Merging datasets brings together related information from different sources into a single, comprehensive dataset. Here, we're combining enrollment and tuition information to enable more complex analyses. We use an outer join to include all universities from both sheets, even if they only appear in one sheet. This approach prevents data loss and maintains the integrity of your dataset.
 
 ```python
-# Basic statistics
-print("Summary statistics:")
-print(df.describe())
-
-# Example: Group by a category and calculate means
-# grouped = df.groupby('category_column').mean()
-# print(grouped)
-
-# Example: Pivot table
-# pivot = df.pivot_table(
-#    values='value_column',
-#    index='row_category',
-#    columns='column_category',
-#    aggfunc='mean'
-# )
-# print(pivot)
+# Merge the enrollment and tuition data on the cleaned university name
+merged_df = pd.merge(
+    enrollment_df,
+    tuition_df,
+    on='university',
+    how='outer'  # Use outer join to keep all universities from both sheets
+)
 ```
 
-## 11. Exporting Clean Data
-
-Save the cleaned data:
+Saving to CSV format creates portable, universally readable files that can be easily shared or imported into other analysis tools. The index=False parameter prevents adding unnecessary row indices to your output files.
 
 ```python
-# Export to Excel
-# df.to_excel('cleaned_data.xlsx', index=False)
-
-# Export to CSV
-# df.to_csv('cleaned_data.csv', index=False)
-
-print("Data cleaning complete!")
+# Save the data to CSV file
+merged_df.to_csv('university_data_merged.csv', index=False)
 ```
