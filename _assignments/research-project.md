@@ -44,6 +44,6 @@ _Due [on Canvas](https://ucdenver.instructure.com/courses/552717/assignments/193
 
 ## Research Project (Final)
 
-This will take the same format as the draft outlined above. Note that I will be assessing your final version of the project not only on its overall quality, but also on the quality of your revisions nad how well you took into account feedback from your peers and myself.
+This will take the same format as the draft outlined above. Note that I will be assessing your final version of the project not only on its overall quality, but also on the quality of your revisions and how well you took into account feedback from your peers and myself.
 
 _Due [on Canvas](https://ucdenver.instructure.com/courses/552717/assignments/1930577) by Thursday, May 15th by 11:59PM_

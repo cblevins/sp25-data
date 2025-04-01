@@ -150,10 +150,6 @@ fig.show()
 
 ## Create Your Own Visualization
 
-Let's revise the visualization to focus on top occupations, which will be simpler and more directly related to the skills students are learning.
-
-## Create Your Own Visualization
-
 Now it's your turn to create a visualization using what you've learned. We'll make a simple bar chart showing the distribution of the top 10 occupations in the Utah 1880 census:
 
 ```python

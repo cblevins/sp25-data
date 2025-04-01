@@ -1,0 +1,6 @@
+First   name	last_name	birth_Year	Field_of_work	Notable_contribution
+Ada	Lovelace	1815	Mathematics	First programmer
+    Alan	Turing	1912	computer Science	TURING MACHINE
+Grace 	hopper	1906	computer science	cobol language
+John	von Neumann	1903	mathematics	Von Neumann architecture
+  Katherine  	JOHNSON	1918	mathematics	NASA calculations
