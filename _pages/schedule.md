@@ -315,9 +315,9 @@ Due this week:
 
 In Class:
 
-- Data Biography Debrief
+- 🧑‍🏫 [Slides](https://docs.google.com/presentation/d/18hQvtfaHWlFbieJr9sNV1_goMY2Pu83HjqU7GM53xDg/edit?usp=sharing)
 - [Research Project]({{ "/assignments/final-project" | relative_url }}) Overview
-- 💻 [Plotly Practice]({{ "/modules/plotly-practice" | relative_url }})
+- [Troubleshooting Plotly and Github Pages]({{ "/modules/jupyter-notebook-github-pages" | relative_url }})
 
 ### Th. 4/3: Mapping I
 
