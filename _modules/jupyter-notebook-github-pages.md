@@ -111,6 +111,8 @@ The annoying part of this workflow is that if you want to update or change anyth
 
 If you are using Plotly to generate figures in Jupyter Notebooks, there is an additional step you will need to take to make sure that the charts and images are rendering properly in your HTML file with full interactivity.
 
+### Sync with Instructor Repository
+
 First, make sure you have an updated version of the original repository that you forked for your portfolio site (ie. `https://github.com/cblevins/sp25-data-portfolio`). To do this:
 
 - Open Github Desktop and make sure you have selcted your portfolio repository ( `yourusername.github.io`)
@@ -123,6 +125,8 @@ First, make sure you have an updated version of the original repository that you
 - If it says there are changes, add a commit message and click "Commit to main"
 - Click "Push origin"
 
+### Add Additional Code to Jupyter Notebook
+
 Second, you'll want to add the following code at the beginning of your Jupyter Notebook (you can do this in the same code block where you import other libraries).
 
 ```python
@@ -131,3 +135,17 @@ import plotly.offline as pyo
 pio.renderers.default = "jupyterlab"
 pyo.init_notebook_mode(connected=True)
 ```
+
+### "Clean" the HTML file
+
+Once you export the Jupyter Notebook as an HTML file and upload it to the `_pages` folder in your Github Pages repository, you'll need to "clean" up the underlying code so that it can get processed by Github Pages. The easiest way to do this is to use the `Prettier` code formatter.
+
+- Go to <https://prettier.io/playground/>
+- On the lefthand pane: Change the setting under `Global` -> `--parser` -> select `html` in the dropdown menu
+- Locate your HTML file in Github Pages and click the copy icon <i class="fa-solid fa-copy"></i> to copy the entire contents of the file
+- In the middle pane of the Prettier site, delete all of the placeholder example HTML text that came pre-loaded, and paste in the copied contents of your HTML file.
+- In the righthand pane of the Prettier site you will see your "cleaned" code. Click inside the pane, Select All (cmd+a on Windows, ctrl+a on Windows), and copy the new code
+- Go back to your HTML file in Github Pages and click the pencil icon to edit the file
+- Right-click in the file, choose Select All, then paste in your new code
+- Commit changes to update the file
+- Check the Actions tab and wait to see if the site is building properly
