@@ -327,7 +327,7 @@ In Class:
 
 In Class:
 
-- Mapping in Python
+- 💻 [Mapping with Folium]({{ "/modules/mapping-folium-1" | relative_url }})
 
 Due this week:
 
@@ -341,6 +341,8 @@ Due this week:
 - 📚 Renée DiResta, "Computational Propaganda: If You Make It Trend, You Make It True" _The Yale Review_ 106: 12-29. <https://doi.org/10.1111/yrev.13402> [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/diresta-computational-propaganda?assignmentId=PgNkGQTXCjLJnb5Pe&part=1)]
 
 In Class:
+
+- 💻 [Mapping with Folium]({{ "/modules/mapping-folium-1" | relative_url }})
 
 ### Th. 4/10: Corporate Data III | Mapping II
 
