@@ -8,13 +8,15 @@ The major assignment for this course is a research project in which you find or 
 
 ## Research Project Proposal
 
-Submit a research proposal over Canvas that addresses the following:
+Submit a research proposal over Canvas that addresses the following questions.
 
 - Name
 - Title of your project
 - What research topic are you interested in?
 - Description of Dataset: What kind of information does it contain? Are you going to be transcribing it yourself or is it already in a machine-readable format? How are you going to access it?
 - Ideas for analysis: What research questions do you want to answer and how can you use this data to answer them?
+
+Note: if you need ideas for where to find a dataset, take a look at [this guide]({{ "/modules/finding-datasets" | relative_url }}) to get started.
 
 _Due [on Canvas](https://ucdenver.instructure.com/courses/552717/assignments/1930575) by Sunday, April 13th by 11:59PM_
 
