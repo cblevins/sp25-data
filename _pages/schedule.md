@@ -350,6 +350,7 @@ In Class:
 
 In Class:
 
+- 🧑‍🏫 [Slides](https://docs.google.com/presentation/d/1_S4hukiOyo4DfPYQ9GcBT_bnBFQbONozujKO72ooD-k/edit?usp=sharing)
 - 💻 [Mapping with Folium II]({{ "/modules/mapping-folium-2" | relative_url }})
 
 Due this week:
