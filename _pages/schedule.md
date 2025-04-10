@@ -327,7 +327,7 @@ In Class:
 
 In Class:
 
-- 💻 [Mapping with Folium]({{ "/modules/mapping-folium-1" | relative_url }})
+- 💻 [Mapping with Folium I]({{ "/modules/mapping-folium-1" | relative_url }})
 
 Due this week:
 
@@ -342,7 +342,7 @@ Due this week:
 
 In Class:
 
-- 💻 [Mapping with Folium]({{ "/modules/mapping-folium-1" | relative_url }})
+- 💻 [Mapping with Folium I]({{ "/modules/mapping-folium-1" | relative_url }})
 
 ### Th. 4/10: Corporate Data III | Mapping II
 
@@ -350,7 +350,7 @@ In Class:
 
 In Class:
 
-- Mapping Tutorial
+- 💻 [Mapping with Folium II]({{ "/modules/mapping-folium-2" | relative_url }})
 
 Due this week:
 
