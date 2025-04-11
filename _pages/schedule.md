@@ -331,8 +331,8 @@ In Class:
 
 Due this week:
 
-- 💡 [Coding Homework 08](https://ucdenver.instructure.com/courses/552717/assignments/1932039) due Monday
 - 🪞 [Self-Assessment #2](https://ucdenver.instructure.com/courses/552717/assignments/1920221) due Sun. 4/6
+- 💡 [Coding Homework 08](https://ucdenver.instructure.com/courses/552717/assignments/1932039) due Monday
 
 ## Week 11
 
@@ -355,8 +355,8 @@ In Class:
 
 Due this week:
 
-- 💡 Coding Homework 09 due Monday
 - 📊 [Research Project Proposal]({{ "/assignments/research-project" | relative_url }}) Due Sunday, 4/13
+- 💡 [Coding Homework 09](https://ucdenver.instructure.com/courses/552717/assignments/1933330) due Monday
 
 ## Week 12
 
