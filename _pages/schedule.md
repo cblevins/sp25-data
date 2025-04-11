@@ -362,12 +362,17 @@ Due this week:
 
 ### Tu. 4/15: Artificial Intelligence I | Coding with Generative AI
 
-- Reading on the history of Artificial Intelligence (TBD)
-- Lauren Tilton and Taylor Arnold, "Distant Viewing: Analyzing Large Visual Corpora" _Digital Scholarship in the Humanities_ (2019) [Perusall]()
+- 📚 Ethan Mollick, ["Thinking Like an AI"](https://www.oneusefulthing.org/p/thinking-like-an-ai) _One Useful Thing_ (20 October 2024) [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/mollick-thinking-like-an-ai?assignmentId=fZ3X9Z3NS7p6mdg4R&part=1)]
+- 📚 Benj Edwards, ["Will the future of software development run on vibes?"](https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/) _Ars Technica_ (4 March 2025) [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/edwards-will-the-future-of-software-development-run-on-vibes_-ars-technica-392807767?assignmentId=9Qdcie8AkeR8uJL3L&part=1)]
+- 📚 HIST 5261: Visual Storytelling Team and Madumhita Murgia, “[Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/),” _The Financial Times_ (2023)
+
+<!-- - Lauren Tilton and Taylor Arnold, "Distant Viewing: Analyzing Large Visual Corpora" _Digital Scholarship in the Humanities_ (2019) [Perusall]()-->
 
 ### Th. 4/17: Artificial Intelligence II | Coding with Generative AI
 
-- 📚 Mark Humphries, ["Is this the Last Generation of Historians?"](https://generativehistory.substack.com/p/is-this-the-last-generation-of-historians) _Generative History_ (7 February 2025)
+- 📚 Mark Humphries, ["Is this the Last Generation of Historians?"](https://generativehistory.substack.com/p/is-this-the-last-generation-of-historians) _Generative History_ (7 February 2025) [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/humphries-last-generation-of-historians?assignmentId=AhyytFvdd7zjHorHu&part=1)]
+- 📚 Simon Willison, ["Here's How I Use LLMs to Help Me Write Code,"](https://simonwillison.net/2025/Mar/11/llms-code/) _Simon Willison's Weblog_, (March 11, 2025) [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/willison-heres-how-i-use-llms?assignmentId=BBfYkZ5AkWWz5uxZx&part=1)]
+- 📚 HIST 5261: Emily M. Bender et al., ["On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜"](https://doi.org/10.1145/3442188.3445922) in _Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency_ (2021)
 
 ## RESEARCH PROJECTS
 
