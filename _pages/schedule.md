@@ -404,10 +404,6 @@ Due this week:
 
 ### Th. 5/1: Project Workshop
 
-<!--
-- [Markdown Practice]({{site.baseurl}}/modules/markdown-practice)
--->
-
 ## Week 15
 
 ### Tu. 5/6: Final Project Presentation
