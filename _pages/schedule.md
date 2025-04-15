@@ -366,6 +366,10 @@ Due this week:
 - 📚 Benj Edwards, ["Will the future of software development run on vibes?"](https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/) _Ars Technica_ (4 March 2025) [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/edwards-will-the-future-of-software-development-run-on-vibes_-ars-technica-392807767?assignmentId=9Qdcie8AkeR8uJL3L&part=1)]
 - 📚 HIST 5261: Visual Storytelling Team and Madumhita Murgia, “[Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/),” _The Financial Times_ (2023)
 
+In Class:
+
+- 🧑‍🏫 [Slides](https://docs.google.com/presentation/d/1DRIJCOI843tN0LDmXXI3tr0I_OaLMfF6lqnqV0k5cQs/edit?usp=sharing)
+
 <!-- - Lauren Tilton and Taylor Arnold, "Distant Viewing: Analyzing Large Visual Corpora" _Digital Scholarship in the Humanities_ (2019) [Perusall]()-->
 
 ### Th. 4/17: Artificial Intelligence II | Coding with Generative AI
