@@ -4,7 +4,7 @@ toc: true
 toc_sticky: true
 ---
 
-The major assignment for this course is a research project in which you find or create a dataset that allows you to investigate some sort of historical topic. You will then use Python to process and analyze the data in order to present an argument, interpretation, or narrative based on that analysis. You are free to choose any topic or dataset that you want, but it must be historical in nature (broadly defined). The assignment is scaffolded across several steps.
+The major assignment for this course is a research project in which you find or create a dataset that allows you to investigate some sort of historical topic. You will then use Python to process and analyze the data in order to present an argument, interpretation, or narrative based on that analysis. You are free to choose any topic or dataset that you want, but it must be historical in nature (broadly defined). (See [this example](https://cblevins.github.io/f21-data/final-projects/richards.html) of a former student's project.) The assignment is scaffolded across several steps.
 
 ## Research Project Proposal
 
