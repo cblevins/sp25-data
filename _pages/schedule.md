@@ -378,6 +378,11 @@ In Class:
 - 📚 Simon Willison, ["Here's How I Use LLMs to Help Me Write Code,"](https://simonwillison.net/2025/Mar/11/llms-code/) _Simon Willison's Weblog_, (March 11, 2025) [[Perusall](https://app.perusall.com/courses/working-with-data-spring-2025/willison-heres-how-i-use-llms?assignmentId=BBfYkZ5AkWWz5uxZx&part=1)]
 - 📚 HIST 5261: Emily M. Bender et al., ["On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜"](https://doi.org/10.1145/3442188.3445922) in _Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency_ (2021)
 
+In Class:
+
+- 🧑‍🏫 [Slides](https://docs.google.com/presentation/d/1v4ZYzCg6SVMFfDhaIiq9MGHfLBSET8p17iX0hGaAgew/edit?usp=sharing)
+- 💻 [Using Generative AI as a Coding Partner]({{ "/modules/gen-ai-coding" | relative_url }})
+
 ## RESEARCH PROJECTS
 
 <small>_During the final weeks of the semester you will be working on your research project. I have set aside time in class for project workshops, and will assign readings, tutorials, etc. depending on the needs of the class._</small>
