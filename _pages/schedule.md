@@ -383,6 +383,10 @@ In Class:
 - 🧑‍🏫 [Slides](https://docs.google.com/presentation/d/1v4ZYzCg6SVMFfDhaIiq9MGHfLBSET8p17iX0hGaAgew/edit?usp=sharing)
 - 💻 [Using Generative AI as a Coding Partner]({{ "/modules/gen-ai-coding" | relative_url }})
 
+Due this week:
+
+- 💡 [Coding Homework 10](https://ucdenver.instructure.com/courses/552717/assignments/1935099) due Monday
+
 ## RESEARCH PROJECTS
 
 <small>_During the final weeks of the semester you will be working on your research project. I have set aside time in class for project workshops, and will assign readings, tutorials, etc. depending on the needs of the class._</small>
