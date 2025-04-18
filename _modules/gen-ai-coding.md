@@ -42,7 +42,7 @@ We're going to use ChatGPT to develop a plan for converting this HTML page into 
 - I've provided a downloaded HTML file of the page in your `week-12` folder named `female-detainee-cases.html` (or right-click [this link]({{ "/modules/female-detainee-cases.html" | relative_url }}) and click Save as...)
 - It's also easy to generate this yourself. Go to <https://www.frederickbee.com/femalerecords.html>, right click somewhere on the page, then look for an option of `Save as...` and save the file as an HTML file in your `week-12` folder named `female-detainee-cases.html`.
 
-Now that you have a local copy of the website, open ChatGPT and select `o4-mini-high` mode. This will activate the "reasoning" mode for the model. Upload the HTML file and copy and paste the following prompt:
+Now that you have a local copy of the website, open ChatGPT and select `Reason` (or if you're using the app, `o4-mini-high` mode). This will activate the "reasoning" mode for the model. Upload the HTML file and copy and paste the following prompt:
 
 > I'm trying to extract data from the attached HTML file that contains records of female detainees whose cases were adjudicated at the US District Court for the Northern District of California, San Francisco from 1882 to 1892. Examine the contents of the file and how it is structured, then come up with a step by step plan to use Python to turn its contents into a CSV tabular dataset. First give a broad overview of your approach. Then walk through each step of your plan and explain what it is doing. Be ure to highlight any challenges or inconsistencies that you see in the page along with any steps that I need to review.
 
@@ -98,7 +98,7 @@ Note how this webpage is already formatted in a table. However, it's a table tha
 Use ChatGPT to come up with a plan for how to clean the data. Before you start:
 
 - To try and mitigate your usage limits, first generate a subset of the data: get a sample of 20 rows and write a new CSV file for this sample
-- Start a new chat in ChatGPT and select `o4-mini-high` mode
+- Start a new chat in ChatGPT and select `Reason` or `o4-mini-high` mode
 - Spend some time crafting an opening prompt that asks it to come up with a plan for cleaning this data.
 - Review its plan. What are the different steps? Which parts do you not understand?
 - Ask it to generate code
