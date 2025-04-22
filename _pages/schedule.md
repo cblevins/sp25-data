@@ -411,6 +411,10 @@ Due this week:
   - Create a new Jupyter Notebook in your `python-humanities-lessons` folder called `05-loops-and-functions.ipynb` and use it to go through the lesson.
 -->
 
+Due this week:
+
+- 📊 [Final Project Check-In](https://ucdenver.instructure.com/courses/552717/assignments/1936290) due Friday, 4/25
+
 ## Week 14
 
 ### Tu. 4/29: Project Workshop
