@@ -406,11 +406,15 @@ Due this week:
 
 ### Th. 4/24: Project Workshop
 
+In Class:
+
 - 💻 [Create a Project Repository on GitHub]({{ "/modules/project-repository" | relative_url }})
+- 💻 [Organizing Your Work]({{ "/modules/project-best-practices" | relative_url }})
+
 <!--
 - Complete the first three parts "For loops", "Automating data processing using For Loops", and "Writing Unique Filenames" from the lesson: ["Data workflows and automation"](https://carpentries-incubator.github.io/python-humanities-lesson/05-loops-and-functions/index.html) _Python for Humanities_ (stop at "Building reusable and modular code with functions").
   - Create a new Jupyter Notebook in your `python-humanities-lessons` folder called `05-loops-and-functions.ipynb` and use it to go through the lesson.
-    -->
+-->
 
 Due this week:
 

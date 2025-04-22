@@ -1,10 +1,12 @@
 ---
-title: Create a Project Repository on GitHub
+title: Project Organization and Management
 ---
 
 ## Overview
 
-As part of your final [Research Project]({{ "/assignments/final-project" | relative_url }}), you are going to be creating a GitHub repositroy containing the code and data for your project. This is a valuable practice for a few reasons. First, it provides version control and a backup system, allowing you to track changes to your code and documents over time and revert or restore versions if you have computer failures or accidental deletions. Second, GitHub makes collaboration easier by allowing multiple researchers to work on the same project simultaneously. Although this is an individual project, you can see your instructor as a "collaborator" - this will allow them to more easily review and troubleshoot issues you might be having with your code or analysis. Finally, publishing your research project on GitHub makes your work accessible to others who might want to reproduce your findings or build upon your research.
+Your [Research Project]({{ "/assignments/final-project" | relative_url }}) requires you to conduct an in-depth project. This is likely going to mean you will be working with a variety of different kinds of data, sources, files, etc. To learn best pratices for project organization and management, you're going to follow these instructions to
+
+you are going to be creating a GitHub repositroy containing the code and data for your project. This is a valuable practice for a few reasons. First, it provides version control and a backup system, allowing you to track changes to your code and documents over time and revert or restore versions if you have computer failures or accidental deletions. Second, GitHub makes collaboration easier by allowing multiple researchers to work on the same project simultaneously. Although this is an individual project, you can see your instructor as a "collaborator" - this will allow them to more easily review and troubleshoot issues you might be having with your code or analysis. Finally, publishing your research project on GitHub makes your work accessible to others who might want to reproduce your findings or build upon your research.
 
 ## Create a New Repository on GitHub
 
