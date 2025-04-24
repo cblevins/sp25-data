@@ -395,26 +395,11 @@ Due this week:
 
 ### Tu. 4/22: Project Workshop
 
-<!--
-- ["Sort and Filter Data"](https://handsondataviz.org/sort.html) and ["Calculate with Formulas"](https://handsondataviz.org/calculate.html) from Chapter 2: Strengthen your Spreadsheet Skills in Jack Dougherty and Ilya Ilyankou, _Hands-On Data Visualization_. (Optional lesson: ["Match Columns with VLOOKUP"](https://handsondataviz.org/vlookup.html#vlookup))
-- Lesson: ["Indexing, Slicing and Subsetting DataFrames in Python"](https://carpentries-incubator.github.io/python-humanities-lesson/02-index-slice-subset/index.html) _Python for Humanities_
-- Before you start this lesson:
-  - Create a new working directory in `working-with-data` called `python-humanities-lessons` and create a new Jupyter Notebook in this folder called `02-index-slice-subset.ipynb`. Use this notebook to go through this lesson.
-  - Download and extract/unzip the zipped folder `data` distributed on Slack that contains the data files for this lesson, making sure the unzipped folder is in your working directory `python-humanities` for this lesson.
-  - Read the two short sections ["Alex's Processing"](https://carpentries-incubator.github.io/python-humanities-lesson/01-starting-with-data/index.html#:~:text=our%20focus%20today.-,alex%E2%80%99s%20processing,-Alex%20is%20a) and ["Our Data"](https://carpentries-incubator.github.io/python-humanities-lesson/01-starting-with-data/index.html#:~:text=Our%20Data,For%20this%20lesson) to get an introduction to the data you'll be using.
--->
-
 ### Th. 4/24: Project Workshop
 
 In Class:
 
-- 💻 [Create a Project Repository on GitHub]({{ "/modules/project-repository" | relative_url }})
-- 💻 [Organizing Your Work]({{ "/modules/project-best-practices" | relative_url }})
-
-<!--
-- Complete the first three parts "For loops", "Automating data processing using For Loops", and "Writing Unique Filenames" from the lesson: ["Data workflows and automation"](https://carpentries-incubator.github.io/python-humanities-lesson/05-loops-and-functions/index.html) _Python for Humanities_ (stop at "Building reusable and modular code with functions").
-  - Create a new Jupyter Notebook in your `python-humanities-lessons` folder called `05-loops-and-functions.ipynb` and use it to go through the lesson.
--->
+- 💻 [Organizing Your Research]({{ "/modules/organizing-research" | relative_url }})
 
 Due this week:
 
