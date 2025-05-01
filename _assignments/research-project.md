@@ -22,12 +22,14 @@ _Due [on Canvas](https://ucdenver.instructure.com/courses/552717/assignments/193
 
 ## Research Project Draft
 
-Your full research project will take the form of a Jupyter Notebook containing written analysis and code, all rendered on a page or set of pages on your portfolio website (we will be going over instructions on how to do this). You should address:
+Your full research project will take the form of a Jupyter Notebook containing written analysis and code, all rendered on a page or set of pages on your portfolio website (we will be going over instructions on how to do this). You should include:
 
+- **Title, Author, and Date**: The title of your project, your name, and date of publication (I would recommend headers or other ways of visually distinguishing these)
 - **Introduction** of the questions you sought to answer about your data and any context that you think your reader will need to understand the data, including existing scholarship or research on the topic
 - **Methodological** discussion of how the data was collected, processed, and analyzed
 - **Main analysis** of the dataset: a clearly communicated argument, interpretation, or narrative supported by compelling evidence and examples; appropriate visualizations of your dataset
 - **Conclusion**: the larger cultural context of this dataset; ethical concerns or issues around its collection or application
+- **Link to project's Github Repository**: provide a link to the project's Github repository
 - **Bibliography**: list of existing scholarship along with sources of your data
 
 _Due [on Canvas](https://ucdenver.instructure.com/courses/552717/assignments/1930576) by Monday, May 5th by 11:59PM_
