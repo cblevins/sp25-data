@@ -411,6 +411,10 @@ Due this week:
 
 ### Th. 5/1: Project Workshop
 
+In Class:
+
+- 🚨 [Please fill out the Faculty Course Questionnaire (FCQ) for this course](https://colorado.campuslabs.com/eval-home/)
+
 ## Week 15
 
 ### Tu. 5/6: Final Project Presentation
