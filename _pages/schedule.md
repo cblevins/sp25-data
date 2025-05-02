@@ -417,16 +417,19 @@ In Class:
 
 ## Week 15
 
-### Tu. 5/6: Final Project Presentation
+### Tu. 5/6: Final Project Presentations / Project Workshop
 
-- 📊 Rough Draft of Research Project due Mon. 5/5 by 11:59PM
+- 📊 Rough Draft of Research Project due Mon. 5/5 or Weds. 5/7 by 11:59PM (select your due date on the sign-up sheet)
 - Prepare a **5-minute presentation** on the draft of your research project
 
-### Th. 5/8: Wrapping Up
+### Th. 5/8: Final Project Presentations / Wrapping Up
+
+- 📊 Rough Draft of Research Project due Mon. 5/5 or Weds. 5/7 by 11:59PM (select your due date on the sign-up sheet)
+- Prepare a **5-minute presentation** on the draft of your research project
 
 Due this week:
 
-- 📊 Peer Review of Research Project Draft due Thurs. 5/8 by 11:59PM
+- 📊 Peer Review of Research Project Draft due Fri. 5/9 by 11:59PM
 
 ## Finals Week
 

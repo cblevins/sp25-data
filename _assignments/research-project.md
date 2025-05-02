@@ -33,19 +33,21 @@ Your full research project will take the form of a Jupyter Notebook containing w
 - **Link to project's Github Repository**: provide a link to the project's Github repository
 - **Bibliography**: list of existing scholarship along with sources of your data
 
-_Due [on Canvas](https://ucdenver.instructure.com/courses/552717/assignments/1930576) by Monday, May 5th by 11:59PM_
+Submission:
+
+_Due [on Canvas](https://ucdenver.instructure.com/courses/552717/assignments/1930576) by Monday, May 5th or Wednesday, May 7th by 11:59PM_
 
 ## Presentation of Research Project Draft
 
 During the last week of the semester you will give a **5-minute presentation** to your classmates that walks through your dataset and major analytical findings. Treat this as both an opportunity to share what you've accomplished and a chance to solicit feedback on specific pieces of your project. Do NOT try to cover everything about your project. Instead, focus on giving a high-level introduction followed by a few examples or areas of the project that you would like feedback on.
 
-_Due Tuesdsay, May 6th in class_
+_Due Tuesdsay, May 6th or Thursday May 8th in class_
 
 ## Peer Review of Research Project Draft
 
 You will be assigned one of your classmates' projects to review in more depth. As part of the review, you will read their project analysis and provide qualitative feedback over Canvas.
 
-_Due [on Canvas](https://ucdenver.instructure.com/courses/552717/assignments/1930576) Thursday, May 8th by 11:59PM_
+_Due [on Canvas](https://ucdenver.instructure.com/courses/552717/assignments/1930576) Friday, May 9th by 11:59PM_
 
 ## Research Project (Final)
 
