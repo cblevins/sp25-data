@@ -45,7 +45,43 @@ _Due Tuesdsay, May 6th or Thursday May 8th in class_
 
 ## Peer Review of Research Project Draft
 
-You will be assigned one of your classmates' projects to review in more depth. As part of the review, you will read their project analysis and provide qualitative feedback over Canvas.
+You will be assigned one of your classmates' projects to review in more depth. As part of the review, you will read their project analysis and provide qualitative feedback over Canvas using the following criteria:
+
+**Introduction**
+
+- How well does the author introduce their topic, their data, and their research questions?
+- How well does the project engage with existing research or perspectives?
+- Is anything confusing? What additional information could they include? Is there anything they could remove to make it more succinct?
+
+**Data and Methodology**
+
+- How clearly is the data processing and analysis explained for someone unfamiliar with the project?
+- What strengths or limitations do you notice in the way the author handled their data?
+
+**Interpretation and Analysis**
+
+- What insights or arguments does the author draw from the data? How compelling are these insights?
+- How effectively do they use evidence - both quantitative and qualitative - to support their interpretation?
+- Where could the analysis go deeper, or where might the interpretation be expanded or refined?
+
+**Code**
+
+- Does their code directly tie into their written analysis and interpretation? Are they properly explained for the reader in the preceding written paragraph or in comments within the code cell?
+- How effective are any visual outputs (maps, charts, etc.)? What suggestions do you have to improve these?
+- Are there opportunities to simplify, streamline, or improve the code? Do you notice any other issues or areas for improvement?
+
+**Writing and Communication**
+
+- How clear and engaging is the writing? Is the language accessible and understandable to a non-expert audience?
+- Are there issues with typos, confusing sentence construction, etc.?
+- How well are the sections organized — is there a logical flow from introduction to conclusion?
+- Does the author effectively use things like headers, section breaks, bold/italics, etc. to organize and communicate their points?
+
+**Documentation and Transparency**
+
+- Does the author include a bibliography that documents their research?
+- If applicable, does the author include a disclaimer about their use of generative AI?
+- Does the author include a link to their project's GitHub repository? Is their GitHub repository well-organized and have enough documentation for a user to understand it?
 
 _Due [on Canvas](https://ucdenver.instructure.com/courses/552717/assignments/1930576) Friday, May 9th by 11:59PM_
 
